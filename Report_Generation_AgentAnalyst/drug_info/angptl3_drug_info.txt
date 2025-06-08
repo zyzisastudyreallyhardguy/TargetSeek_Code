@@ -1,0 +1,19 @@
+
+Molecule: EVINACUMAB
+ChEMBL ID: CHEMBL3545191
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2021
+
+Molecule: VUPANORSEN
+ChEMBL ID: CHEMBL4298197
+Mechanism of Action: ANTISENSE INHIBITOR
+Max Phase: 2.0
+Molecule Type: Oligonucleotide
+
+Molecule: VUPANORSEN SODIUM
+ChEMBL ID: CHEMBL4298198
+Mechanism of Action: ANTISENSE INHIBITOR
+Max Phase: 1.0
+Molecule Type: Oligonucleotide

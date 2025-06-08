@@ -1,0 +1,136 @@
+
+Molecule: PRALATREXATE
+ChEMBL ID: CHEMBL1201746
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: METHOTREXATE SODIUM
+ChEMBL ID: CHEMBL3244648
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1953
+
+Molecule: PEMETREXED DISODIUM
+ChEMBL ID: CHEMBL2360464
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2004
+
+Molecule: METHOTREXATE
+ChEMBL ID: CHEMBL34259
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1953
+
+Molecule: PIRITREXIM
+ChEMBL ID: CHEMBL7492
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PEMETREXED TROMETHAMINE
+ChEMBL ID: CHEMBL3989962
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2022
+
+Molecule: PEMETREXED
+ChEMBL ID: CHEMBL225072
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2004
+
+Molecule: PEMETREXED MONOHYDRATE
+ChEMBL ID: CHEMBL5315053
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2016
+
+Molecule: PYRIMETHAMINE
+ChEMBL ID: CHEMBL36
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1953
+
+Molecule: CYCLOGUANIL PAMOATE
+ChEMBL ID: CHEMBL3989825
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PROGUANIL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201059
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2000
+
+Molecule: TRIMETREXATE GLUCURONATE
+ChEMBL ID: CHEMBL2218878
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1993
+
+Molecule: AMINOSALICYLIC ACID
+ChEMBL ID: CHEMBL1169
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1950
+
+Molecule: AMINOSALICYLATE SODIUM
+ChEMBL ID: CHEMBL2096646
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1950
+
+Molecule: AMINOSALICYLATE POTASSIUM
+ChEMBL ID: CHEMBL1200584
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1955
+
+Molecule: TRIMETHOPRIM
+ChEMBL ID: CHEMBL22
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1973
+
+Molecule: TRIMETHOPRIM SULFATE
+ChEMBL ID: CHEMBL2110367
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1988
+
+Molecule: TRIMETHOPRIM HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201080
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1995
+
+Molecule: CO-TRIMOXAZOLE
+ChEMBL ID: CHEMBL58061
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ICLAPRIM
+ChEMBL ID: CHEMBL134561
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule

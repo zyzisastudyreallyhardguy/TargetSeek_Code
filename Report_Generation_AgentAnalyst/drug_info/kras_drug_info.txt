@@ -1,0 +1,20 @@
+
+Molecule: SOTORASIB
+ChEMBL ID: CHEMBL4535757
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021
+
+Molecule: ADAGRASIB
+ChEMBL ID: CHEMBL4594350
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2022
+
+Molecule: SALIRASIB
+ChEMBL ID: CHEMBL23293
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

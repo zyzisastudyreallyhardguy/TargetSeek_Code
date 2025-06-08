@@ -1,0 +1,6 @@
+
+Molecule: IGURATIMOD
+ChEMBL ID: CHEMBL2107455
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule

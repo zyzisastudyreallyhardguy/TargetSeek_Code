@@ -1,0 +1,7 @@
+
+Molecule: TIRZEPATIDE
+ChEMBL ID: CHEMBL4297839
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2022

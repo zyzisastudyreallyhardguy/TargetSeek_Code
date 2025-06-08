@@ -1,0 +1,1692 @@
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL249):
+
+Molecule: APREPITANT
+ChEMBL ID: CHEMBL1471
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2003
+
+Molecule: FOSAPREPITANT DIMEGLUMINE
+ChEMBL ID: CHEMBL1201782
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2008
+
+Molecule: NETUPITANT
+ChEMBL ID: CHEMBL206253
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2014
+
+Molecule: ROLAPITANT HYDROCHLORIDE
+ChEMBL ID: CHEMBL3707330
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: FIGOPITANT
+ChEMBL ID: CHEMBL2104927
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DNK333
+ChEMBL ID: CHEMBL105060
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VESTIPITANT MESYLATE
+ChEMBL ID: CHEMBL2104992
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ORVEPITANT
+ChEMBL ID: CHEMBL2105667
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SERLOPITANT
+ChEMBL ID: CHEMBL447955
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TRADIPITANT
+ChEMBL ID: CHEMBL3544984
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BURAPITANT
+ChEMBL ID: CHEMBL3544947
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VOFOPITANT
+ChEMBL ID: CHEMBL522302
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: EZLOPITANT
+ChEMBL ID: CHEMBL515966
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CASOPITANT
+ChEMBL ID: CHEMBL1672054
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: FOSNETUPITANT CHLORIDE HYDROCHLORIDE
+ChEMBL ID: CHEMBL3989919
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: ELINZANETANT
+ChEMBL ID: CHEMBL4802157
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2327):
+
+Molecule: IBODUTANT
+ChEMBL ID: CHEMBL266125
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: SAREDUTANT
+ChEMBL ID: CHEMBL308148
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: NEPADUTANT
+ChEMBL ID: CHEMBL1908318
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL4429):
+
+Molecule: TALNETANT
+ChEMBL ID: CHEMBL10188
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PAVINETANT
+ChEMBL ID: CHEMBL3545233
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FEZOLINETANT
+ChEMBL ID: CHEMBL3608680
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: ELINZANETANT
+ChEMBL ID: CHEMBL4802157
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2096670):
+
+Molecule: PERAMPANEL
+ChEMBL ID: CHEMBL1214124
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: TOPIRAMATE
+ChEMBL ID: CHEMBL220492
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: IRAMPANEL
+ChEMBL ID: CHEMBL29741
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CX1739
+ChEMBL ID: CHEMBL3707399
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PESAMPATOR
+ChEMBL ID: CHEMBL5095022
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SELURAMPANEL
+ChEMBL ID: CHEMBL3545042
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TEZAMPANEL
+ChEMBL ID: CHEMBL3989703
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DASOLAMPANEL
+ChEMBL ID: CHEMBL2103869
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BECAMPANEL
+ChEMBL ID: CHEMBL3989682
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FARAMPATOR
+ChEMBL ID: CHEMBL1276138
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MIBAMPATOR
+ChEMBL ID: CHEMBL1277001
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MK-8777
+ChEMBL ID: CHEMBL3707401
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ZONAMPANEL
+ChEMBL ID: CHEMBL119625
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: OSAVAMPATOR
+ChEMBL ID: CHEMBL4594403
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2009):
+
+Molecule: TALAMPANEL
+ChEMBL ID: CHEMBL61872
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL4016):
+
+Molecule: TALAMPANEL
+ChEMBL ID: CHEMBL61872
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL4531):
+
+Molecule: OLITIGALTIN
+ChEMBL ID: CHEMBL4297442
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BELAPECTIN
+ChEMBL ID: CHEMBL4297577
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: DAVANAT
+ChEMBL ID: CHEMBL4297960
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Unknown
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2094125):
+
+Molecule: THEOPHYLLINE SODIUM GLYCINATE
+ChEMBL ID: CHEMBL1200578
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: ANAGRELIDE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200759
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: AMINOPHYLLINE
+ChEMBL ID: CHEMBL1370561
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1940
+
+Molecule: THEOPHYLLINE
+ChEMBL ID: CHEMBL190
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1940
+
+Molecule: OXTRIPHYLLINE
+ChEMBL ID: CHEMBL1200434
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1981
+
+Molecule: LEVOSIMENDAN
+ChEMBL ID: CHEMBL2051955
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: K-134
+ChEMBL ID: CHEMBL284838
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ENOXIMONE
+ChEMBL ID: CHEMBL249856
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: ENSIFENTRINE
+ChEMBL ID: CHEMBL4594287
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL3989384):
+
+Molecule: PF-03732010
+ChEMBL ID: CHEMBL2109534
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Antibody
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL4622829):
+
+Molecule: DANVATIRSEN
+ChEMBL ID: CHEMBL4297739
+Mechanism of Action: ANTISENSE INHIBITOR
+Max Phase: 2.0
+Molecule Type: Oligonucleotide
+
+Molecule: DANVATIRSEN SODIUM
+ChEMBL ID: CHEMBL4297244
+Mechanism of Action: ANTISENSE INHIBITOR
+Max Phase: -1.0
+Molecule Type: Oligonucleotide
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL4630889):
+
+Molecule: CODRITUZUMAB
+ChEMBL ID: CHEMBL4298089
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL402):
+
+Molecule: LOVASTATIN
+ChEMBL ID: CHEMBL503
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: CERIVASTATIN SODIUM
+ChEMBL ID: CHEMBL1200563
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: PITAVASTATIN CALCIUM
+ChEMBL ID: CHEMBL1237061
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: FLUVASTATIN SODIUM
+ChEMBL ID: CHEMBL2218894
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1993
+
+Molecule: ROSUVASTATIN CALCIUM
+ChEMBL ID: CHEMBL1744447
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2003
+
+Molecule: PRAVASTATIN SODIUM
+ChEMBL ID: CHEMBL690
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: ATORVASTATIN CALCIUM
+ChEMBL ID: CHEMBL393220
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: SIMVASTATIN
+ChEMBL ID: CHEMBL1064
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: PITAVASTATIN MAGNESIUM
+ChEMBL ID: CHEMBL3989923
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: PITAVASTATIN SODIUM
+ChEMBL ID: CHEMBL3989920
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL1969):
+
+Molecule: METYROSINE
+ChEMBL ID: CHEMBL1200862
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1979
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2062):
+
+Molecule: DANTROLENE SODIUM
+ChEMBL ID: CHEMBL928
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1974
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL246):
+
+Molecule: MIRABEGRON
+ChEMBL ID: CHEMBL2095212
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: LY377604
+ChEMBL ID: CHEMBL2012520
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SOLABEGRON
+ChEMBL ID: CHEMBL208427
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VIBEGRON
+ChEMBL ID: CHEMBL2107826
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: RAFABEGRON
+ChEMBL ID: CHEMBL279260
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AMIBEGRON HYDROCHLORIDE
+ChEMBL ID: CHEMBL545437
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: RITOBEGRON
+ChEMBL ID: CHEMBL2107773
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL4644):
+
+Molecule: MODIMELANOTIDE
+ChEMBL ID: CHEMBL3545104
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL280):
+
+Molecule: DOXYCYCLINE
+ChEMBL ID: CHEMBL1200699
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1967
+
+Molecule: DOXYCYCLINE CALCIUM
+ChEMBL ID: CHEMBL2364574
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1974
+
+Molecule: DOXYCYCLINE HYCLATE
+ChEMBL ID: CHEMBL3989740
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1967
+
+Molecule: APRATASTAT
+ChEMBL ID: CHEMBL206815
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: REBIMASTAT
+ChEMBL ID: CHEMBL76222
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CTS-1027
+ChEMBL ID: CHEMBL440498
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL283):
+
+Molecule: MARIMASTAT
+ChEMBL ID: CHEMBL279785
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CTS-1027
+ChEMBL ID: CHEMBL440498
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL1829):
+
+Molecule: VORINOSTAT
+ChEMBL ID: CHEMBL98
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: MOCETINOSTAT
+ChEMBL ID: CHEMBL272980
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2028):
+
+Molecule: PASIREOTIDE DIASPARTATE
+ChEMBL ID: CHEMBL5314380
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2012
+
+Molecule: PASIREOTIDE PAMOATE
+ChEMBL ID: CHEMBL5314382
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2014
+
+Molecule: VAPREOTIDE
+ChEMBL ID: CHEMBL2103975
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL3670):
+
+Molecule: TRILOSTANE
+ChEMBL ID: CHEMBL1200907
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1984
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2998):
+
+Molecule: GEFAPIXANT
+ChEMBL ID: CHEMBL3716057
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CAMLIPIXANT
+ChEMBL ID: CHEMBL5095035
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL3273):
+
+Molecule: SQUALAMINE LACTATE
+ChEMBL ID: CHEMBL3989689
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TENAPANOR HYDROCHLORIDE
+ChEMBL ID: CHEMBL3301627
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL5522):
+
+Molecule: GRC-15300
+ChEMBL ID: CHEMBL3707319
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL5705):
+
+Molecule: VADADUSTAT
+ChEMBL ID: CHEMBL3646221
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: MOLIDUSTAT
+ChEMBL ID: CHEMBL3646118
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL3407319):
+
+Molecule: TAREXTUMAB
+ChEMBL ID: CHEMBL3301588
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL3712903):
+
+Molecule: FRESOLIMUMAB
+ChEMBL ID: CHEMBL1743022
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL4630879):
+
+Molecule: SABATOLIMAB
+ChEMBL ID: CHEMBL4594575
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: COBOLIMAB
+ChEMBL ID: CHEMBL4298123
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: LOMVASTOMIG
+ChEMBL ID: CHEMBL4594602
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL4630881):
+
+Molecule: IERAMILIMAB
+ChEMBL ID: CHEMBL4298009
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: RELATLIMAB
+ChEMBL ID: CHEMBL3990044
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2022
+
+Molecule: FIANLIMAB
+ChEMBL ID: CHEMBL4298085
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: FAVEZELIMAB
+ChEMBL ID: CHEMBL4297784
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: TEBOTELIMAB
+ChEMBL ID: CHEMBL4594578
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: EFTILAGIMOD ALFA
+ChEMBL ID: CHEMBL4594557
+Mechanism of Action: VACCINE ANTIGEN
+Max Phase: 2.0
+Molecule Type: Unknown
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL4630888):
+
+Molecule: ROVALPITUZUMAB TESIRINE
+ChEMBL ID: CHEMBL3990011
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody drug conjugate
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL4804261):
+
+Molecule: BIFONAZOLE
+ChEMBL ID: CHEMBL277535
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL208):
+
+Molecule: NORETHYNODREL
+ChEMBL ID: CHEMBL1387
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1961
+
+Molecule: ETONOGESTREL
+ChEMBL ID: CHEMBL1531
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2001
+
+Molecule: MEGESTROL ACETATE
+ChEMBL ID: CHEMBL1201139
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1971
+
+Molecule: NORETHINDRONE ACETATE
+ChEMBL ID: CHEMBL1201146
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1973
+
+Molecule: MEDROXYPROGESTERONE ACETATE
+ChEMBL ID: CHEMBL717
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1959
+
+Molecule: NORETHINDRONE
+ChEMBL ID: CHEMBL1162
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1962
+
+Molecule: HYDROXYPROGESTERONE CAPROATE
+ChEMBL ID: CHEMBL1200848
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1975
+
+Molecule: DYDROGESTERONE
+ChEMBL ID: CHEMBL1200853
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: PROGESTERONE
+ChEMBL ID: CHEMBL103
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1976
+
+Molecule: NORGESTREL
+ChEMBL ID: CHEMBL2107797
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1968
+
+Molecule: NORGESTIMATE
+ChEMBL ID: CHEMBL1200934
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1989
+
+Molecule: LEVONORGESTREL
+ChEMBL ID: CHEMBL1389
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: DESOGESTREL
+ChEMBL ID: CHEMBL1533
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1992
+
+Molecule: ULIPRISTAL ACETATE
+ChEMBL ID: CHEMBL260538
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: NORELGESTROMIN
+ChEMBL ID: CHEMBL1200807
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2001
+
+Molecule: ETHYNODIOL DIACETATE
+ChEMBL ID: CHEMBL1200624
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1966
+
+Molecule: MIFEPRISTONE
+ChEMBL ID: CHEMBL1276308
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2000
+
+Molecule: DROSPIRENONE
+ChEMBL ID: CHEMBL1509
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2001
+
+Molecule: DANAZOL
+ChEMBL ID: CHEMBL1479
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1976
+
+Molecule: PF-05019702
+ChEMBL ID: CHEMBL3545239
+Mechanism of Action: ANTAGONIST
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: LONAPRISAN
+ChEMBL ID: CHEMBL146032
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TELAPRISTONE ACETATE
+ChEMBL ID: CHEMBL2105694
+Mechanism of Action: MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ONAPRISTONE
+ChEMBL ID: CHEMBL1908373
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: ASOPRISNIL
+ChEMBL ID: CHEMBL267431
+Mechanism of Action: MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ULIPRISTAL
+ChEMBL ID: CHEMBL2103846
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: CHLORMADINONE ACETATE
+ChEMBL ID: CHEMBL110691
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: ALLYLESTRENOL
+ChEMBL ID: CHEMBL2105618
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: CYPROTERONE ACETATE
+ChEMBL ID: CHEMBL139835
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: SEGESTERONE ACETATE
+ChEMBL ID: CHEMBL3707377
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: VILAPRISAN
+ChEMBL ID: CHEMBL3989936
+Mechanism of Action: MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: GESTODENE
+ChEMBL ID: CHEMBL1213583
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TRIMEGESTONE
+ChEMBL ID: CHEMBL2104765
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: NOMEGESTROL
+ChEMBL ID: CHEMBL2105722
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: NOMEGESTROL ACETATE
+ChEMBL ID: CHEMBL1476022
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL1842):
+
+Molecule: GEMTUZUMAB OZOGAMICIN
+ChEMBL ID: CHEMBL1201506
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody drug conjugate
+First Approval: 2000
+
+Molecule: LINTUZUMAB
+ChEMBL ID: CHEMBL2109150
+Mechanism of Action: OTHER
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: M195
+ChEMBL ID: CHEMBL2109267
+Mechanism of Action: OTHER
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ONCOLYSIN M
+ChEMBL ID: CHEMBL2109520
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: GEMTUZUMAB
+ChEMBL ID: CHEMBL2108342
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: AVE-9633
+ChEMBL ID: CHEMBL2109266
+Mechanism of Action: BINDING AGENT
+Max Phase: 1.0
+Molecule Type: Antibody drug conjugate
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL234):
+
+Molecule: LEVODOPA
+ChEMBL ID: CHEMBL1009
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1970
+
+Molecule: CHLORPROTHIXENE
+ChEMBL ID: CHEMBL908
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1967
+
+Molecule: CARIPRAZINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL2024517
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: ETILEVODOPA
+ChEMBL ID: CHEMBL1823681
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SARIZOTAN HYDROCHLORIDE
+ChEMBL ID: CHEMBL2146110
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ADOPRAZINE
+ChEMBL ID: CHEMBL221692
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BLONANSERIN
+ChEMBL ID: CHEMBL178803
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2008
+
+Molecule: ABT-925
+ChEMBL ID: CHEMBL439338
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TIAPRIDE
+ChEMBL ID: CHEMBL84158
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: MESDOPETAM
+ChEMBL ID: CHEMBL4594447
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TRAZPIROBEN
+ChEMBL ID: CHEMBL4650340
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2014):
+
+Molecule: LY2940094
+ChEMBL ID: CHEMBL3545406
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CEBRANOPADOL
+ChEMBL ID: CHEMBL2364605
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: LY-2940094
+ChEMBL ID: CHEMBL3304244
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SCH-486757
+ChEMBL ID: CHEMBL4297427
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL1899):
+
+Molecule: DOLASETRON MESYLATE
+ChEMBL ID: CHEMBL2368924
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: ONDANSETRON
+ChEMBL ID: CHEMBL46
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: GRANISETRON HYDROCHLORIDE
+ChEMBL ID: CHEMBL1237080
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1993
+
+Molecule: GRANISETRON
+ChEMBL ID: CHEMBL289469
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1993
+
+Molecule: PALONOSETRON HYDROCHLORIDE
+ChEMBL ID: CHEMBL1720
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2003
+
+Molecule: ONDANSETRON HYDROCHLORIDE
+ChEMBL ID: CHEMBL3186492
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: ALOSETRON HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200885
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2000
+
+Molecule: METOCLOPRAMIDE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200940
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1979
+
+Molecule: VORTIOXETINE HYDROBROMIDE
+ChEMBL ID: CHEMBL2107387
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2013
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL1777):
+
+Molecule: ATOVAQUONE
+ChEMBL ID: CHEMBL1450
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1992
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL4116):
+
+Molecule: CAVOSONSTAT
+ChEMBL ID: CHEMBL3989910
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: N6022
+ChEMBL ID: CHEMBL1738699
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2888):
+
+Molecule: LY404039
+ChEMBL ID: CHEMBL375611
+Mechanism of Action: AGONIST
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: LY2969822
+ChEMBL ID: CHEMBL3545270
+Mechanism of Action: AGONIST
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: DECOGLURANT
+ChEMBL ID: CHEMBL3301593
+Mechanism of Action: MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: POMAGLUMETAD METHIONIL ANHYDROUS
+ChEMBL ID: CHEMBL2110730
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL262):
+
+Molecule: LY-2090314
+ChEMBL ID: CHEMBL362558
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TIDEGLUSIB
+ChEMBL ID: CHEMBL3545157
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ELRAGLUSIB
+ChEMBL ID: CHEMBL483465
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2107):
+
+Molecule: PLERIXAFOR
+ChEMBL ID: CHEMBL18442
+Mechanism of Action: PARTIAL AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2008
+
+Molecule: MSX-122
+ChEMBL ID: CHEMBL3545330
+Mechanism of Action: ANTAGONIST
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: BURIXAFOR
+ChEMBL ID: CHEMBL3545224
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MOTIXAFORTIDE
+ChEMBL ID: CHEMBL5095030
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: BALIXAFORTIDE
+ChEMBL ID: CHEMBL4802129
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: CTCE-9908
+ChEMBL ID: CHEMBL3544949
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: ULOCUPLUMAB
+ChEMBL ID: CHEMBL3039543
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: MAVORIXAFOR
+ChEMBL ID: CHEMBL518924
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2534):
+
+Molecule: AR-12
+ChEMBL ID: CHEMBL1650595
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: UCN-01
+ChEMBL ID: CHEMBL574737
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2148):
+
+Molecule: CERDULATINIB
+ChEMBL ID: CHEMBL4116008
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: R-348
+ChEMBL ID: CHEMBL5314384
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TRICETAMIDE
+ChEMBL ID: CHEMBL2106468
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: WHI-P131
+ChEMBL ID: CHEMBL405130
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: AT-9283
+ChEMBL ID: CHEMBL495727
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: R-333
+ChEMBL ID: CHEMBL3545159
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DECERNOTINIB
+ChEMBL ID: CHEMBL3039513
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RITLECITINIB
+ChEMBL ID: CHEMBL4085457
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: RITLECITINIB TOSYLATE
+ChEMBL ID: CHEMBL5314649
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: FILGOTINIB
+ChEMBL ID: CHEMBL3301607
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: FILGOTINIB MALEATE
+ChEMBL ID: CHEMBL4298167
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: UPADACITINIB HEMIHYDRATE
+ChEMBL ID: CHEMBL5315119
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2850):
+
+Molecule: LY-2090314
+ChEMBL ID: CHEMBL362558
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL3130):
+
+Molecule: IDELALISIB
+ChEMBL ID: CHEMBL2216870
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2014
+
+Molecule: AMG-319
+ChEMBL ID: CHEMBL4303596
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AZD-8186
+ChEMBL ID: CHEMBL3408248
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: CAL-263
+ChEMBL ID: CHEMBL3545247
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: FIMEPINOSTAT
+ChEMBL ID: CHEMBL3622533
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RP-6530
+ChEMBL ID: CHEMBL3545141
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: UMBRALISIB TOSYLATE
+ChEMBL ID: CHEMBL3989869
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021
+
+Molecule: ZANDELISIB
+ChEMBL ID: CHEMBL4650214
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ACALISIB
+ChEMBL ID: CHEMBL4303323
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DUVELISIB
+ChEMBL ID: CHEMBL3039502
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: TG100-115
+ChEMBL ID: CHEMBL230011
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: GSK-2269557
+ChEMBL ID: CHEMBL5314409
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: INCB-40093
+ChEMBL ID: CHEMBL3545054
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: COPANLISIB HYDROCHLORIDE
+ChEMBL ID: CHEMBL3545068
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: COPANLISIB
+ChEMBL ID: CHEMBL3218576
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: TENALISIB
+ChEMBL ID: CHEMBL4297584
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LENIOLISIB
+ChEMBL ID: CHEMBL3643413
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: PARSACLISIB
+ChEMBL ID: CHEMBL4297615
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: NEMIRALISIB
+ChEMBL ID: CHEMBL2216859
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SELETALISIB
+ChEMBL ID: CHEMBL4297648
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LENIOLISIB PHOSPHATE
+ChEMBL ID: CHEMBL3989909
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: DUVELISIB MONOHYDRATE
+ChEMBL ID: CHEMBL5315125
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL4245):
+
+Molecule: AFIMOXIFENE
+ChEMBL ID: CHEMBL489
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL4005):
+
+Molecule: BAY-1082439
+ChEMBL ID: CHEMBL3644672
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: FIMEPINOSTAT
+ChEMBL ID: CHEMBL3622533
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SERABELISIB
+ChEMBL ID: CHEMBL3935857
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PKI-179
+ChEMBL ID: CHEMBL1258517
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PWT-33579
+ChEMBL ID: CHEMBL3545323
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: ALPELISIB
+ChEMBL ID: CHEMBL2396661
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: COPANLISIB HYDROCHLORIDE
+ChEMBL ID: CHEMBL3545068
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: COPANLISIB
+ChEMBL ID: CHEMBL3218576
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: INAVOLISIB
+ChEMBL ID: CHEMBL4650215
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL3385):
+
+Molecule: RAVOXERTINIB
+ChEMBL ID: CHEMBL3544964
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MK-8353
+ChEMBL ID: CHEMBL4213970
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: ULIXERTINIB
+ChEMBL ID: CHEMBL3590106
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL1955):
+
+Molecule: JNJ-26483327
+ChEMBL ID: CHEMBL3109738
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: CATEQUENTINIB
+ChEMBL ID: CHEMBL4303201
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TELATINIB
+ChEMBL ID: CHEMBL2079588
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FAMITINIB
+ChEMBL ID: CHEMBL1278146
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: IMC-3C5
+ChEMBL ID: CHEMBL2109602
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: SUNITINIB
+ChEMBL ID: CHEMBL535
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2708):
+
+Molecule: CEP-1347
+ChEMBL ID: CHEMBL290352
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL1847):
+
+Molecule: ETAZOLATE
+ChEMBL ID: CHEMBL356388
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for gpam_glycerol-3-phosphate_acyltransferase,_mitochondrial (ChEMBL ID: CHEMBL2742):
+
+Molecule: PAZOPANIB HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201733
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: ENMD-2076
+ChEMBL ID: CHEMBL482968
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MASITINIB
+ChEMBL ID: CHEMBL1908391
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2008
+
+Molecule: DOVITINIB
+ChEMBL ID: CHEMBL522892
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: RG-7444
+ChEMBL ID: CHEMBL2109411
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: PEMIGATINIB
+ChEMBL ID: CHEMBL4297522
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: E-7090
+ChEMBL ID: CHEMBL3686884
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FGFR INHIBITOR DEBIO 1347
+ChEMBL ID: CHEMBL3907479
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: HMPL-453
+ChEMBL ID: CHEMBL4650297
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Unknown

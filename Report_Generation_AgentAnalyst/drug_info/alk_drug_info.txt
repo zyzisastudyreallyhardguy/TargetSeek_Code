@@ -1,0 +1,172 @@
+
+Molecule: CRIZOTINIB
+ChEMBL ID: CHEMBL601719
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2011
+
+Molecule: CERITINIB
+ChEMBL ID: CHEMBL2403108
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2014
+
+Molecule: ALECTINIB HYDROCHLORIDE
+ChEMBL ID: CHEMBL3707320
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: ASP-3026
+ChEMBL ID: CHEMBL3545360
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: CEP-37440
+ChEMBL ID: CHEMBL3951811
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: ENSARTINIB
+ChEMBL ID: CHEMBL4113131
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BRIGATINIB
+ChEMBL ID: CHEMBL3545311
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: LORLATINIB
+ChEMBL ID: CHEMBL3286830
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: ENTRECTINIB
+ChEMBL ID: CHEMBL1983268
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: PLB1003
+ChEMBL ID: CHEMBL4650298
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Unknown
+
+Molecule: CONTELTINIB 
+ChEMBL ID: CHEMBL3899477
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: CRIZOTINIB
+ChEMBL ID: CHEMBL601719
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2011
+
+Molecule: CERITINIB
+ChEMBL ID: CHEMBL2403108
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2014
+
+Molecule: LORLATINIB
+ChEMBL ID: CHEMBL3286830
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: PLB1003
+ChEMBL ID: CHEMBL4650298
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Unknown
+
+Molecule: ALECTINIB HYDROCHLORIDE
+ChEMBL ID: CHEMBL3707320
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: CRIZOTINIB
+ChEMBL ID: CHEMBL601719
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2011
+
+Molecule: CERITINIB
+ChEMBL ID: CHEMBL2403108
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2014
+
+Molecule: PANULISIB
+ChEMBL ID: CHEMBL5095025
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ASCRINVACUMAB
+ChEMBL ID: CHEMBL2109295
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: DIBOTERMIN ALFA
+ChEMBL ID: CHEMBL2109171
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2002
+
+Molecule: EPTOTERMIN ALFA
+ChEMBL ID: CHEMBL2108594
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2001
+
+Molecule: EPTOTERMIN ALFA
+ChEMBL ID: CHEMBL2108594
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2001
+
+Molecule: DIBOTERMIN ALFA
+ChEMBL ID: CHEMBL2109171
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2002
+
+Molecule: GALUNISERTIB
+ChEMBL ID: CHEMBL2364611
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VACTOSERTIB
+ChEMBL ID: CHEMBL3260567
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

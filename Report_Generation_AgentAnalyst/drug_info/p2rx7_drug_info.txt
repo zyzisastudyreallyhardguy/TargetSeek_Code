@@ -1,0 +1,30 @@
+
+Molecule: GSK1482160
+ChEMBL ID: CHEMBL1222883
+Mechanism of Action: NEGATIVE ALLOSTERIC MODULATOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: EVT401
+ChEMBL ID: CHEMBL3707396
+Mechanism of Action: ANTAGONIST
+Max Phase: -1.0
+Molecule Type: Small molecule
+
+Molecule: AZD9056
+ChEMBL ID: CHEMBL3545108
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CE-224535
+ChEMBL ID: CHEMBL1823817
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: JNJ-54175446
+ChEMBL ID: CHEMBL4079239
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule

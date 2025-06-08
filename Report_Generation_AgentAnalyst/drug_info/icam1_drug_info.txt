@@ -1,0 +1,18 @@
+
+Molecule: ENLIMOMAB PEGOL
+ChEMBL ID: CHEMBL2108401
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: BI-505
+ChEMBL ID: CHEMBL2109482
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ENLIMOMAB
+ChEMBL ID: CHEMBL2109090
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody

@@ -1,0 +1,60 @@
+
+Molecule: CENICRIVIROC
+ChEMBL ID: CHEMBL2110727
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ILACIRNON
+ChEMBL ID: CHEMBL2178573
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PF-04634817
+ChEMBL ID: CHEMBL5095029
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AZD2423
+ChEMBL ID: CHEMBL3545221
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PLOZALIZUMAB
+ChEMBL ID: CHEMBL3707228
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: BMS-813160
+ChEMBL ID: CHEMBL4594419
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: JNJ-41443532
+ChEMBL ID: CHEMBL2204263
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MK-0812
+ChEMBL ID: CHEMBL4297538
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BMS-741672
+ChEMBL ID: CHEMBL4457723
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PF-4136309
+ChEMBL ID: CHEMBL4650501
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Unknown

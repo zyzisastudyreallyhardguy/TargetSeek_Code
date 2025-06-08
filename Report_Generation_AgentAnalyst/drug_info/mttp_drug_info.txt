@@ -1,0 +1,33 @@
+
+Molecule: DIRLOTAPIDE
+ChEMBL ID: CHEMBL410414
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+First Approval: 2007
+
+Molecule: MITRATAPIDE
+ChEMBL ID: CHEMBL2104975
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: LOMITAPIDE MESYLATE
+ChEMBL ID: CHEMBL2105662
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: IMPLITAPIDE
+ChEMBL ID: CHEMBL2105804
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SLX-4090
+ChEMBL ID: CHEMBL4297326
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

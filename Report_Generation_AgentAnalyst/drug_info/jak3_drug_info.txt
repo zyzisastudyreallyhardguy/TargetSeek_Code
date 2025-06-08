@@ -1,0 +1,115 @@
+
+Molecule: CERDULATINIB
+ChEMBL ID: CHEMBL4116008
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: R-348
+ChEMBL ID: CHEMBL5314384
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TRICETAMIDE
+ChEMBL ID: CHEMBL2106468
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: WHI-P131
+ChEMBL ID: CHEMBL405130
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: AT-9283
+ChEMBL ID: CHEMBL495727
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: R-333
+ChEMBL ID: CHEMBL3545159
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DECERNOTINIB
+ChEMBL ID: CHEMBL3039513
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RITLECITINIB
+ChEMBL ID: CHEMBL4085457
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: RITLECITINIB TOSYLATE
+ChEMBL ID: CHEMBL5314649
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: FILGOTINIB
+ChEMBL ID: CHEMBL3301607
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: FILGOTINIB MALEATE
+ChEMBL ID: CHEMBL4298167
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: UPADACITINIB HEMIHYDRATE
+ChEMBL ID: CHEMBL5315119
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: TOFACITINIB CITRATE
+ChEMBL ID: CHEMBL2103743
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: PEFICITINIB
+ChEMBL ID: CHEMBL3137308
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: DELGOCITINIB
+ChEMBL ID: CHEMBL4297507
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: GUSACITINIB
+ChEMBL ID: CHEMBL4594275
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: IZENCITINIB
+ChEMBL ID: CHEMBL4650343
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: NEZULCITINIB
+ChEMBL ID: CHEMBL4802163
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

@@ -1,0 +1,19 @@
+
+Molecule: ANAKINRA
+ChEMBL ID: CHEMBL1201570
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2001
+
+Molecule: AMG-108
+ChEMBL ID: CHEMBL2109458
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: MEDI-8968
+ChEMBL ID: CHEMBL2109607
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody

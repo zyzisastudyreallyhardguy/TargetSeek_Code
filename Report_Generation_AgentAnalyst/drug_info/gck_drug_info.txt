@@ -1,0 +1,36 @@
+
+Molecule: AZD-1656
+ChEMBL ID: CHEMBL3219124
+Mechanism of Action: ACTIVATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DORZAGLIATIN
+ChEMBL ID: CHEMBL4297508
+Mechanism of Action: ACTIVATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: NERIGLIATIN
+ChEMBL ID: CHEMBL2165615
+Mechanism of Action: ACTIVATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PF-04991532
+ChEMBL ID: CHEMBL2165620
+Mechanism of Action: ACTIVATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MK-0941
+ChEMBL ID: CHEMBL4297302
+Mechanism of Action: ACTIVATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LY-2608204
+ChEMBL ID: CHEMBL4297399
+Mechanism of Action: ACTIVATOR
+Max Phase: 2.0
+Molecule Type: Small molecule

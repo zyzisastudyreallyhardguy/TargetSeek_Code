@@ -1,0 +1,3944 @@
+
+Molecule: ICATIBANT ACETATE
+ChEMBL ID: CHEMBL2028852
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2008
+
+Molecule: FASITIBANT CHLORIDE
+ChEMBL ID: CHEMBL541758
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ANATIBANT
+ChEMBL ID: CHEMBL2107725
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LABRADIMIL
+ChEMBL ID: CHEMBL2105864
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: BI113823
+ChEMBL ID: CHEMBL3545386
+Mechanism of Action: ANTAGONIST
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: SAFOTIBANT
+ChEMBL ID: CHEMBL1254771
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MK0686
+ChEMBL ID: CHEMBL232943
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DALANTERCEPT
+ChEMBL ID: CHEMBL2109662
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: CALCITONIN HUMAN
+ChEMBL ID: CHEMBL4594248
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1986
+
+Molecule: CALCITONIN SALMON
+ChEMBL ID: CHEMBL3989767
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1978
+
+Molecule: SMC021
+ChEMBL ID: CHEMBL3545415
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: CALCITONIN
+ChEMBL ID: CHEMBL4594242
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+
+Molecule: ZIMLOVISERTIB
+ChEMBL ID: CHEMBL4081711
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RIMEGEPANT
+ChEMBL ID: CHEMBL2178422
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: UBROGEPANT
+ChEMBL ID: CHEMBL2364638
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: MK3207
+ChEMBL ID: CHEMBL1910936
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: OLCEGEPANT
+ChEMBL ID: CHEMBL207197
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DAVALINTIDE
+ChEMBL ID: CHEMBL2105635
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: TELCAGEPANT
+ChEMBL ID: CHEMBL236593
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ERENUMAB
+ChEMBL ID: CHEMBL3833329
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2018
+
+Molecule: RIMEGEPANT SULFATE
+ChEMBL ID: CHEMBL2364629
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: ATOGEPANT
+ChEMBL ID: CHEMBL3991065
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021
+
+Molecule: BI-44370
+ChEMBL ID: CHEMBL3334624
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ZAVEGEPANT HYDROCHLORIDE
+ChEMBL ID: CHEMBL4650220
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: SETANAXIB
+ChEMBL ID: CHEMBL4303187
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ZAVEGEPANT
+ChEMBL ID: CHEMBL2397415
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: PRAMLINTIDE ACETATE
+ChEMBL ID: CHEMBL3833353
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2005
+
+Molecule: DAVALINTIDE
+ChEMBL ID: CHEMBL2105635
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: PRAMLINTIDE ACETATE
+ChEMBL ID: CHEMBL3833353
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2005
+
+Molecule: PRAMLINTIDE ACETATE
+ChEMBL ID: CHEMBL3833353
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2005
+
+Molecule: VANDORTUZUMAB VEDOTIN
+ChEMBL ID: CHEMBL3833306
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: ALCLOFENAC
+ChEMBL ID: CHEMBL94081
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: ANTIPYRINE
+ChEMBL ID: CHEMBL277474
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: MOFEZOLAC
+ChEMBL ID: CHEMBL259972
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1994
+
+Molecule: LITHIUM CARBONATE
+ChEMBL ID: CHEMBL1200826
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1970
+
+Molecule: LITHIUM CITRATE
+ChEMBL ID: CHEMBL2103738
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1980
+
+Molecule: TEPOXALIN
+ChEMBL ID: CHEMBL316040
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+First Approval: 2001
+
+Molecule: MAVACOXIB
+ChEMBL ID: CHEMBL28527
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+First Approval: 2008
+
+Molecule: NIVOCASAN
+ChEMBL ID: CHEMBL2105721
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BELNACASAN
+ChEMBL ID: CHEMBL2107819
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ETRASIMOD
+ChEMBL ID: CHEMBL3358920
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: KRP203
+ChEMBL ID: CHEMBL3545101
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PONESIMOD
+ChEMBL ID: CHEMBL1096146
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021
+
+Molecule: SIPONIMOD
+ChEMBL ID: CHEMBL2336071
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: SIPONIMOD FUMARIC ACID
+ChEMBL ID: CHEMBL4298150
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: OZANIMOD HYDROCHLORIDE
+ChEMBL ID: CHEMBL3707246
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: CENERIMOD
+ChEMBL ID: CHEMBL4297505
+Mechanism of Action: MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ETRASIMOD ARGININE
+ChEMBL ID: CHEMBL3989933
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: DAVANAT
+ChEMBL ID: CHEMBL4297960
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: VESENCUMAB
+ChEMBL ID: CHEMBL1743089
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: SELINEXOR
+ChEMBL ID: CHEMBL3545185
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: CROFELEMER
+ChEMBL ID: CHEMBL2108184
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: VANTICTUMAB
+ChEMBL ID: CHEMBL2364652
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: TREBANANIB
+ChEMBL ID: CHEMBL2108568
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: AMG-780
+ChEMBL ID: CHEMBL2109586
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: TRICHLORFON
+ChEMBL ID: CHEMBL167150
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: PEMTUMOMAB
+ChEMBL ID: CHEMBL2109361
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: HUHMFG1
+ChEMBL ID: CHEMBL2109637
+Mechanism of Action: OTHER
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: SONTUZUMAB
+ChEMBL ID: CHEMBL2108341
+Mechanism of Action: OTHER
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: CANTUZUMAB MERTANSINE
+ChEMBL ID: CHEMBL1742997
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: CANTUZUMAB RAVTANSINE
+ChEMBL ID: CHEMBL1742998
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: AR-20.5
+ChEMBL ID: CHEMBL2109364
+Mechanism of Action: OTHER
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: SAR-566658
+ChEMBL ID: CHEMBL2109635
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: HUPAM4
+ChEMBL ID: CHEMBL2109365
+Mechanism of Action: BINDING AGENT
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: EPITUMOMAB CITUXETAN
+ChEMBL ID: CHEMBL2108592
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: EPITUMOMAB
+ChEMBL ID: CHEMBL2108403
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: CMB-401
+ChEMBL ID: CHEMBL2109284
+Mechanism of Action: BINDING AGENT
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: AS-1403
+ChEMBL ID: CHEMBL2109360
+Mechanism of Action: BINDING AGENT
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: TECEMOTIDE
+ChEMBL ID: CHEMBL3039544
+Mechanism of Action: VACCINE ANTIGEN
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: GATIPOTUZUMAB
+ChEMBL ID: CHEMBL4297560
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ATEZOLIZUMAB
+ChEMBL ID: CHEMBL3707227
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2016
+
+Molecule: DURVALUMAB
+ChEMBL ID: CHEMBL3301587
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2017
+
+Molecule: AVELUMAB
+ChEMBL ID: CHEMBL3833373
+Mechanism of Action: OTHER
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2017
+
+Molecule: SUGEMALIMAB
+ChEMBL ID: CHEMBL4594535
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: BINTRAFUSP ALFA
+ChEMBL ID: CHEMBL4298024
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: ENVAFOLIMAB
+ChEMBL ID: CHEMBL4298006
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: PACMILIMAB
+ChEMBL ID: CHEMBL4297563
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ERFONRILIMAB
+ChEMBL ID: CHEMBL4650483
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: SOCAZOLIMAB
+ChEMBL ID: CHEMBL4802221
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: SHR-1316
+ChEMBL ID: CHEMBL4297828
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Unknown
+
+Molecule: COSIBELIMAB
+ChEMBL ID: CHEMBL4297729
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: INCB-086550
+ChEMBL ID: CHEMBL4802209
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: DANBURSTOTUG
+ChEMBL ID: CHEMBL4650423
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: INDATUXIMAB RAVTANSINE
+ChEMBL ID: CHEMBL1743031
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: ADAGLOXAD SIMOLENIN
+ChEMBL ID: CHEMBL3707279
+Mechanism of Action: VACCINE ANTIGEN
+Max Phase: 3.0
+Molecule Type: Unknown
+
+Molecule: SVN53-67/M57-KLH PEPTIDE VACCINE
+ChEMBL ID: CHEMBL4650424
+Mechanism of Action: VACCINE ANTIGEN
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: TEMELIMAB
+ChEMBL ID: CHEMBL4594547
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: VEDAPROFEN
+ChEMBL ID: CHEMBL2104464
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: FOSCARNET SODIUM
+ChEMBL ID: CHEMBL754
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: CIDOFOVIR
+ChEMBL ID: CHEMBL5314375
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: PENCICLOVIR SODIUM
+ChEMBL ID: CHEMBL2079793
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: GANCICLOVIR SODIUM
+ChEMBL ID: CHEMBL1200850
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1989
+
+Molecule: GANCICLOVIR
+ChEMBL ID: CHEMBL182
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1989
+
+Molecule: ACYCLOVIR
+ChEMBL ID: CHEMBL184
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: VALGANCICLOVIR HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200454
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2001
+
+Molecule: VIDARABINE
+ChEMBL ID: CHEMBL1090
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1976
+
+Molecule: ACYCLOVIR SODIUM
+ChEMBL ID: CHEMBL1200380
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: FAMCICLOVIR
+ChEMBL ID: CHEMBL880
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1994
+
+Molecule: VALACYCLOVIR HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201110
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1995
+
+Molecule: PENCICLOVIR
+ChEMBL ID: CHEMBL1540
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: AMINOGLUTETHIMIDE
+ChEMBL ID: CHEMBL488
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1980
+
+Molecule: MITOTANE
+ChEMBL ID: CHEMBL1670
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1970
+
+Molecule: LEVOKETOCONAZOLE
+ChEMBL ID: CHEMBL295698
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021
+
+Molecule: ATENOLOL
+ChEMBL ID: CHEMBL24
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1981
+
+Molecule: LEVOBETAXOLOL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200837
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2000
+
+Molecule: ACEBUTOLOL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200813
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1984
+
+Molecule: ESMOLOL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201115
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1986
+
+Molecule: OXPRENOLOL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200745
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1983
+
+Molecule: BISOPROLOL FUMARATE
+ChEMBL ID: CHEMBL1472989
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1992
+
+Molecule: LEVOBUNOLOL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201177
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: PINDOLOL
+ChEMBL ID: CHEMBL500
+Mechanism of Action: PARTIAL AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: METIPRANOLOL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200947
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1989
+
+Molecule: DOBUTAMINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200418
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1978
+
+Molecule: DOPAMINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1557
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1974
+
+Molecule: NADOLOL
+ChEMBL ID: CHEMBL521606
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1979
+
+Molecule: PROPRANOLOL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1671
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1967
+
+Molecule: PENBUTOLOL SULFATE
+ChEMBL ID: CHEMBL2361370
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: SOTALOL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1700
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1992
+
+Molecule: METOPROLOL FUMARATE
+ChEMBL ID: CHEMBL3989566
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1989
+
+Molecule: BETAXOLOL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1691
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: TIMOLOL MALEATE
+ChEMBL ID: CHEMBL1200870
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1978
+
+Molecule: METOPROLOL SUCCINATE
+ChEMBL ID: CHEMBL2356097
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1992
+
+Molecule: METOPROLOL TARTRATE
+ChEMBL ID: CHEMBL2062335
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1978
+
+Molecule: NEBIVOLOL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201731
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2007
+
+Molecule: PROPAFENONE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201063
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1989
+
+Molecule: TIMOLOL
+ChEMBL ID: CHEMBL499
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1978
+
+Molecule: LY377604
+ChEMBL ID: CHEMBL2012520
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PRONETALOL
+ChEMBL ID: CHEMBL16476
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: CELIPROLOL
+ChEMBL ID: CHEMBL27810
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: LANDIOLOL
+ChEMBL ID: CHEMBL1742466
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: XAMOTEROL
+ChEMBL ID: CHEMBL75753
+Mechanism of Action: PARTIAL AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: PRACTOLOL
+ChEMBL ID: CHEMBL6995
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: BUCINDOLOL HYDROCHLORIDE
+ChEMBL ID: CHEMBL2107546
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CLOTRIMAZOLE
+ChEMBL ID: CHEMBL104
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1975
+
+Molecule: ECONAZOLE NITRATE
+ChEMBL ID: CHEMBL1201049
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: VORICONAZOLE
+ChEMBL ID: CHEMBL638
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2002
+
+Molecule: KETOCONAZOLE
+ChEMBL ID: CHEMBL157101
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1981
+
+Molecule: MICONAZOLE
+ChEMBL ID: CHEMBL91
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1974
+
+Molecule: ITRACONAZOLE
+ChEMBL ID: CHEMBL64391
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1992
+
+Molecule: TERCONAZOLE
+ChEMBL ID: CHEMBL1306
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: MICONAZOLE NITRATE
+ChEMBL ID: CHEMBL1559
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1974
+
+Molecule: FLUCONAZOLE
+ChEMBL ID: CHEMBL106
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1990
+
+Molecule: SULCONAZOLE NITRATE
+ChEMBL ID: CHEMBL1200348
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: TIOCONAZOLE
+ChEMBL ID: CHEMBL1200438
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1983
+
+Molecule: POSACONAZOLE
+ChEMBL ID: CHEMBL1397
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2005
+
+Molecule: SERTACONAZOLE NITRATE
+ChEMBL ID: CHEMBL1200725
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2003
+
+Molecule: BUTOCONAZOLE NITRATE
+ChEMBL ID: CHEMBL1200398
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: OXICONAZOLE NITRATE
+ChEMBL ID: CHEMBL1200836
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1988
+
+Molecule: LULICONAZOLE
+ChEMBL ID: CHEMBL2105689
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2013
+
+Molecule: RAVUCONAZOLE
+ChEMBL ID: CHEMBL294029
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FOSRAVUCONAZOLE
+ChEMBL ID: CHEMBL333325
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: IRINOTECAN HYDROCHLORIDE
+ChEMBL ID: CHEMBL3989514
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: BECATECARIN
+ChEMBL ID: CHEMBL2107313
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ETIRINOTECAN PEGOL
+ChEMBL ID: CHEMBL3039558
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: IRINOTECAN SUCROSOFATE
+ChEMBL ID: CHEMBL5314381
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TRASTUZUMAB DERUXTECAN
+ChEMBL ID: CHEMBL4297844
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody drug conjugate
+First Approval: 2019
+
+Molecule: SACITUZUMAB GOVITECAN
+ChEMBL ID: CHEMBL3545262
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody drug conjugate
+First Approval: 2020
+
+Molecule: TLC-388
+ChEMBL ID: CHEMBL4594352
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DIFLOMOTECAN
+ChEMBL ID: CHEMBL306280
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RUBITECAN
+ChEMBL ID: CHEMBL77305
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BELOTECAN
+ChEMBL ID: CHEMBL2111084
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: 7-ETHYL-10-HYDROXYCAMPTOTHECIN
+ChEMBL ID: CHEMBL837
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CAMPTOTHECIN-20-O-PROPIONATE
+ChEMBL ID: CHEMBL124162
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: EXATECAN
+ChEMBL ID: CHEMBL1614650
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: MURELETECAN
+ChEMBL ID: CHEMBL2108470
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: AFELETECAN
+ChEMBL ID: CHEMBL2105857
+Mechanism of Action: STABILISER
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PATRITUMAB DERUXTECAN
+ChEMBL ID: CHEMBL4594611
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: DATOPOTAMAB DERUXTECAN
+ChEMBL ID: CHEMBL4297939
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: AR-67
+ChEMBL ID: CHEMBL412309
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: 9-AMINOCAMPTOTHECIN
+ChEMBL ID: CHEMBL274070
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: GIMATECAN
+ChEMBL ID: CHEMBL113051
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: EDOTECARIN
+ChEMBL ID: CHEMBL435191
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: KARENITECIN
+ChEMBL ID: CHEMBL1743260
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TESTOLACTONE
+ChEMBL ID: CHEMBL1571
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1969
+
+Molecule: ANASTROZOLE
+ChEMBL ID: CHEMBL1399
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1995
+
+Molecule: LETROZOLE
+ChEMBL ID: CHEMBL1444
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: EXEMESTANE
+ChEMBL ID: CHEMBL1200374
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1999
+
+Molecule: AMINOGLUTETHIMIDE
+ChEMBL ID: CHEMBL488
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1980
+
+Molecule: FADROZOLE HYDROCHLORIDE
+ChEMBL ID: CHEMBL468419
+Mechanism of Action: INHIBITOR
+Max Phase: -1.0
+Molecule Type: Small molecule
+
+Molecule: INDIPLON
+ChEMBL ID: CHEMBL262075
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: MITOTANE
+ChEMBL ID: CHEMBL1670
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1970
+
+Molecule: OSILODROSTAT PHOSPHATE
+ChEMBL ID: CHEMBL3707393
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: LEVOKETOCONAZOLE
+ChEMBL ID: CHEMBL295698
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021
+
+Molecule: RIBAVIRIN
+ChEMBL ID: CHEMBL1643
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: MERIMEPODIB
+ChEMBL ID: CHEMBL304087
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: NABILONE
+ChEMBL ID: CHEMBL2218896
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: DRONABINOL
+ChEMBL ID: CHEMBL465
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: SAD448
+ChEMBL ID: CHEMBL2397751
+Mechanism of Action: AGONIST
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: IBIPINABANT
+ChEMBL ID: CHEMBL412262
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AZD2207
+ChEMBL ID: CHEMBL3545289
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DRINABANT
+ChEMBL ID: CHEMBL3545166
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: SURINABANT
+ChEMBL ID: CHEMBL189676
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: NONABINE
+ChEMBL ID: CHEMBL2106841
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: OTENABANT
+ChEMBL ID: CHEMBL562668
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TARANABANT
+ChEMBL ID: CHEMBL220360
+Mechanism of Action: INVERSE AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CANNABIDIOL
+ChEMBL ID: CHEMBL190461
+Mechanism of Action: NEGATIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: RIMONABANT
+ChEMBL ID: CHEMBL111
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: NIMACIMAB
+ChEMBL ID: CHEMBL4298095
+Mechanism of Action: NEGATIVE ALLOSTERIC MODULATOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: DANTROLENE SODIUM
+ChEMBL ID: CHEMBL928
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1974
+
+Molecule: FOSFOMYCIN TROMETHAMINE
+ChEMBL ID: CHEMBL1200331
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: TIAGABINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1695
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: AZILSARTAN KAMEDOXOMIL
+ChEMBL ID: CHEMBL2103795
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2011
+
+Molecule: LOSARTAN POTASSIUM
+ChEMBL ID: CHEMBL995
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1995
+
+Molecule: IRBESARTAN
+ChEMBL ID: CHEMBL1513
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: VALSARTAN
+ChEMBL ID: CHEMBL1069
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: SARALASIN ACETATE
+ChEMBL ID: CHEMBL1200670
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1982
+
+Molecule: OLMESARTAN MEDOXOMIL
+ChEMBL ID: CHEMBL1200692
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2002
+
+Molecule: CANDESARTAN CILEXETIL
+ChEMBL ID: CHEMBL1014
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1998
+
+Molecule: EPROSARTAN MESYLATE
+ChEMBL ID: CHEMBL1200987
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: TELMISARTAN
+ChEMBL ID: CHEMBL1017
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1998
+
+Molecule: SPARSENTAN
+ChEMBL ID: CHEMBL539423
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: PRATOSARTAN
+ChEMBL ID: CHEMBL41194
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: OLMESARTAN
+ChEMBL ID: CHEMBL1516
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AZILSARTAN
+ChEMBL ID: CHEMBL57242
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TASOSARTAN
+ChEMBL ID: CHEMBL432162
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CANDESARTAN
+ChEMBL ID: CHEMBL1016
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ANGIOTENSIN II ACETATE
+ChEMBL ID: CHEMBL3989932
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2017
+
+Molecule: FIMASARTAN
+ChEMBL ID: CHEMBL1951143
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TRV-120027
+ChEMBL ID: CHEMBL4297447
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: VERUCERFONT
+ChEMBL ID: CHEMBL1287935
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CRINECERFONT
+ChEMBL ID: CHEMBL291657
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: EMICERFONT
+ChEMBL ID: CHEMBL514270
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ONO-2333MS
+ChEMBL ID: CHEMBL1819077
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PEXACERFONT
+ChEMBL ID: CHEMBL482950
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ARSENIC TRIOXIDE
+ChEMBL ID: CHEMBL1200978
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2000
+
+Molecule: MOTEXAFIN GADOLINIUM
+ChEMBL ID: CHEMBL3544910
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AUROTHIOGLUCOSE
+ChEMBL ID: CHEMBL2354773
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: DIPYRIDAMOLE
+ChEMBL ID: CHEMBL932
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1961
+
+Molecule: ZAFIRLUKAST
+ChEMBL ID: CHEMBL603
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: MONTELUKAST SODIUM
+ChEMBL ID: CHEMBL1200681
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1998
+
+Molecule: CR-3465
+ChEMBL ID: CHEMBL5314389
+Mechanism of Action: ANTAGONIST
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PRANLUKAST
+ChEMBL ID: CHEMBL21333
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1995
+
+Molecule: ANAKINRA
+ChEMBL ID: CHEMBL1201570
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2001
+
+Molecule: AMG-108
+ChEMBL ID: CHEMBL2109458
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: MEDI-8968
+ChEMBL ID: CHEMBL2109607
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ANIFROLUMAB
+ChEMBL ID: CHEMBL2364653
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2021
+
+Molecule: ALEMTUZUMAB
+ChEMBL ID: CHEMBL1201587
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2001
+
+Molecule: PHENPROCOUMON
+ChEMBL ID: CHEMBL1465
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1957
+
+Molecule: PHENINDIONE
+ChEMBL ID: CHEMBL711
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: DICUMAROL
+ChEMBL ID: CHEMBL1466
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1944
+
+Molecule: WARFARIN POTASSIUM
+ChEMBL ID: CHEMBL1200772
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: WARFARIN SODIUM
+ChEMBL ID: CHEMBL1200879
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1954
+
+Molecule: ACENOCOUMAROL
+ChEMBL ID: CHEMBL397420
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: TECARFARIN
+ChEMBL ID: CHEMBL2105664
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CILASTATIN SODIUM
+ChEMBL ID: CHEMBL1201057
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: CILASTATIN
+ChEMBL ID: CHEMBL766
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: TERBOGREL
+ChEMBL ID: CHEMBL281398
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: OZAGREL
+ChEMBL ID: CHEMBL11662
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1988
+
+Molecule: PICOTAMIDE
+ChEMBL ID: CHEMBL1257015
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: SPARSENTAN
+ChEMBL ID: CHEMBL539423
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: NEBENTAN
+ChEMBL ID: CHEMBL2107760
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ENRASENTAN
+ChEMBL ID: CHEMBL431651
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ZIBOTENTAN
+ChEMBL ID: CHEMBL1628688
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ATRASENTAN HYDROCHLORIDE
+ChEMBL ID: CHEMBL2106068
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TEZOSENTAN
+ChEMBL ID: CHEMBL61780
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AVOSENTAN
+ChEMBL ID: CHEMBL3989834
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CLAZOSENTAN
+ChEMBL ID: CHEMBL109648
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: DARUSENTAN
+ChEMBL ID: CHEMBL23261
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BQ-123
+ChEMBL ID: CHEMBL1269102
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: APREPITANT
+ChEMBL ID: CHEMBL1471
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2003
+
+Molecule: FOSAPREPITANT DIMEGLUMINE
+ChEMBL ID: CHEMBL1201782
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2008
+
+Molecule: NETUPITANT
+ChEMBL ID: CHEMBL206253
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2014
+
+Molecule: ROLAPITANT HYDROCHLORIDE
+ChEMBL ID: CHEMBL3707330
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: FIGOPITANT
+ChEMBL ID: CHEMBL2104927
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DNK333
+ChEMBL ID: CHEMBL105060
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VESTIPITANT MESYLATE
+ChEMBL ID: CHEMBL2104992
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ORVEPITANT
+ChEMBL ID: CHEMBL2105667
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SERLOPITANT
+ChEMBL ID: CHEMBL447955
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TRADIPITANT
+ChEMBL ID: CHEMBL3544984
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BURAPITANT
+ChEMBL ID: CHEMBL3544947
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VOFOPITANT
+ChEMBL ID: CHEMBL522302
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: EZLOPITANT
+ChEMBL ID: CHEMBL515966
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CASOPITANT
+ChEMBL ID: CHEMBL1672054
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: FOSNETUPITANT CHLORIDE HYDROCHLORIDE
+ChEMBL ID: CHEMBL3989919
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: ELINZANETANT
+ChEMBL ID: CHEMBL4802157
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: RESMETIROM
+ChEMBL ID: CHEMBL3261331
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: MB07811
+ChEMBL ID: CHEMBL471897
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: EPROTIROME
+ChEMBL ID: CHEMBL2035874
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AZACITIDINE
+ChEMBL ID: CHEMBL1489
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2004
+
+Molecule: DECITABINE
+ChEMBL ID: CHEMBL1201129
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: SB-649868
+ChEMBL ID: CHEMBL1272307
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LEMBOREXANT
+ChEMBL ID: CHEMBL3545367
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: DARIDOREXANT HYDROCHLORIDE
+ChEMBL ID: CHEMBL4650216
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2022
+
+Molecule: MUPARFOSTAT
+ChEMBL ID: CHEMBL4297163
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Oligosaccharide
+
+Molecule: SURAMIN HEXASODIUM
+ChEMBL ID: CHEMBL413376
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: VUPANORSEN SODIUM
+ChEMBL ID: CHEMBL4298198
+Mechanism of Action: BINDING AGENT
+Max Phase: 1.0
+Molecule Type: Oligonucleotide
+
+Molecule: VUPANORSEN
+ChEMBL ID: CHEMBL4298197
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Oligonucleotide
+
+Molecule: METHOCARBAMOL
+ChEMBL ID: CHEMBL1201117
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1957
+
+Molecule: ACETAZOLAMIDE SODIUM
+ChEMBL ID: CHEMBL1200814
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1990
+
+Molecule: DICHLORPHENAMIDE
+ChEMBL ID: CHEMBL17
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1958
+
+Molecule: ACETAZOLAMIDE
+ChEMBL ID: CHEMBL20
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1953
+
+Molecule: METHAZOLAMIDE
+ChEMBL ID: CHEMBL19
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1959
+
+Molecule: POLMACOXIB
+ChEMBL ID: CHEMBL166863
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: LESOGABERAN
+ChEMBL ID: CHEMBL448343
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PAZOPANIB HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201733
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: REGORAFENIB
+ChEMBL ID: CHEMBL1946170
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: SURUFATINIB
+ChEMBL ID: CHEMBL4297190
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PD-0166285
+ChEMBL ID: CHEMBL3545196
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: RG-1530
+ChEMBL ID: CHEMBL1980391
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: LUCITANIB
+ChEMBL ID: CHEMBL2220486
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TG100-801
+ChEMBL ID: CHEMBL403989
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PEMIGATINIB
+ChEMBL ID: CHEMBL4297522
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: E-7090
+ChEMBL ID: CHEMBL3686884
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FGFR INHIBITOR DEBIO 1347
+ChEMBL ID: CHEMBL3907479
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: HMPL-453
+ChEMBL ID: CHEMBL4650297
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: ONTAMALIMAB
+ChEMBL ID: CHEMBL2109511
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: AMELUBANT
+ChEMBL ID: CHEMBL1742420
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ETALOCIB
+ChEMBL ID: CHEMBL329123
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DIQUAFOSOL TETRASODIUM
+ChEMBL ID: CHEMBL1767408
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CCX354
+ChEMBL ID: CHEMBL4444976
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AZD4818
+ChEMBL ID: CHEMBL2178570
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BMS-817399
+ChEMBL ID: CHEMBL3334824
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ALEPLASININ
+ChEMBL ID: CHEMBL325424
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VORAPAXAR SULFATE
+ChEMBL ID: CHEMBL2107386
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2014
+
+Molecule: ATOPAXAR
+ChEMBL ID: CHEMBL2103856
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PZ-128
+ChEMBL ID: CHEMBL4297323
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: BMS-986020
+ChEMBL ID: CHEMBL4297270
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ENLIMOMAB PEGOL
+ChEMBL ID: CHEMBL2108401
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: BI-505
+ChEMBL ID: CHEMBL2109482
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ENLIMOMAB
+ChEMBL ID: CHEMBL2109090
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: MARIMASTAT
+ChEMBL ID: CHEMBL279785
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CTS-1027
+ChEMBL ID: CHEMBL440498
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TALAMPANEL
+ChEMBL ID: CHEMBL61872
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DAGLUTRIL
+ChEMBL ID: CHEMBL3989794
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: IFEBEMTINIB
+ChEMBL ID: CHEMBL3657311
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CEP-37440
+ChEMBL ID: CHEMBL3951811
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: GSK-2256098
+ChEMBL ID: CHEMBL4742157
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PF-00562271
+ChEMBL ID: CHEMBL1084546
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: VS-4718
+ChEMBL ID: CHEMBL3040440
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: DEFACTINIB
+ChEMBL ID: CHEMBL3137331
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CONTELTINIB 
+ChEMBL ID: CHEMBL3899477
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: ACETAMINOPHEN
+ChEMBL ID: CHEMBL112
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1968
+
+Molecule: JNJ-42165279
+ChEMBL ID: CHEMBL4297294
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: REDAFAMDASTAT
+ChEMBL ID: CHEMBL1651534
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TARIQUIDAR
+ChEMBL ID: CHEMBL348475
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ZOSUQUIDAR
+ChEMBL ID: CHEMBL444172
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BIRICODAR
+ChEMBL ID: CHEMBL350775
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ENCEQUIDAR
+ChEMBL ID: CHEMBL4594298
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: VALSPODAR
+ChEMBL ID: CHEMBL1086218
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: TRAMETINIB DIMETHYL SULFOXIDE
+ChEMBL ID: CHEMBL2105741
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2013
+
+Molecule: COBIMETINIB FUMARATE
+ChEMBL ID: CHEMBL2364607
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: AS-703988
+ChEMBL ID: CHEMBL3545243
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: AZD-8330
+ChEMBL ID: CHEMBL3182621
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: BALAMAPIMOD
+ChEMBL ID: CHEMBL2104954
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AVUTOMETINIB
+ChEMBL ID: CHEMBL3264002
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RO-4987655
+ChEMBL ID: CHEMBL1614766
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: TAK-733
+ChEMBL ID: CHEMBL1615025
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: WX-554
+ChEMBL ID: CHEMBL3545145
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PIMASERTIB
+ChEMBL ID: CHEMBL2107832
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SELUMETINIB
+ChEMBL ID: CHEMBL1614701
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: REFAMETINIB
+ChEMBL ID: CHEMBL1236682
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CI-1040
+ChEMBL ID: CHEMBL105442
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: E-6201
+ChEMBL ID: CHEMBL1097999
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MIRDAMETINIB
+ChEMBL ID: CHEMBL507361
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BINIMETINIB
+ChEMBL ID: CHEMBL3187723
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: COBIMETINIB
+ChEMBL ID: CHEMBL2146883
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: NEIHULIZUMAB
+ChEMBL ID: CHEMBL4297861
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: AZD-4017
+ChEMBL ID: CHEMBL2153191
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MK-0736
+ChEMBL ID: CHEMBL1761322
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ABT-384
+ChEMBL ID: CHEMBL4297256
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BI-187004
+ChEMBL ID: CHEMBL3669417
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BMS-823778
+ChEMBL ID: CHEMBL4297457
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LEVOKETOCONAZOLE
+ChEMBL ID: CHEMBL295698
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021
+
+Molecule: TALAZOPARIB
+ChEMBL ID: CHEMBL3137320
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: TALAZOPARIB TOSYLATE
+ChEMBL ID: CHEMBL3137318
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: NIRAPARIB
+ChEMBL ID: CHEMBL1094636
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: NIRAPARIB TOSYLATE MONOHYDRATE
+ChEMBL ID: CHEMBL3989922
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: 2X-121
+ChEMBL ID: CHEMBL3644587
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PAMIPARIB
+ChEMBL ID: CHEMBL4112930
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AMELPARIB DIHYDROCHLORIDE DIHYDRATE
+ChEMBL ID: CHEMBL5314421
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SENAPARIB
+ChEMBL ID: CHEMBL4802152
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BITOPERTIN
+ChEMBL ID: CHEMBL1171829
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PF-03463275
+ChEMBL ID: CHEMBL563251
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ORG-25935
+ChEMBL ID: CHEMBL4228124
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MOXONIDINE
+ChEMBL ID: CHEMBL19236
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: RILMENIDINE
+ChEMBL ID: CHEMBL289480
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: LIRAGLUTIDE
+ChEMBL ID: CHEMBL4084119
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2010
+
+Molecule: EXENATIDE
+ChEMBL ID: CHEMBL414357
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2005
+
+Molecule: ALBIGLUTIDE
+ChEMBL ID: CHEMBL2107841
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2014
+
+Molecule: DULAGLUTIDE
+ChEMBL ID: CHEMBL2108027
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2014
+
+Molecule: TASPOGLUTIDE
+ChEMBL ID: CHEMBL2107860
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: SEMAGLUTIDE
+ChEMBL ID: CHEMBL2108724
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2017
+
+Molecule: LIXISENATIDE
+ChEMBL ID: CHEMBL2108336
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2013
+
+Molecule: DANUGLIPRON
+ChEMBL ID: CHEMBL4518483
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: COTADUTIDE
+ChEMBL ID: CHEMBL4297630
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: EFINOPEGDUTIDE
+ChEMBL ID: CHEMBL4297576
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: AVEXITIDE
+ChEMBL ID: CHEMBL4297949
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: EFPEGLENATIDE
+ChEMBL ID: CHEMBL4650470
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: TIRZEPATIDE
+ChEMBL ID: CHEMBL4297839
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2022
+
+Molecule: PEGAPAMODUTIDE
+ChEMBL ID: CHEMBL3990012
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: PEGSEBRENATIDE
+ChEMBL ID: CHEMBL4650495
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: MODIMELANOTIDE
+ChEMBL ID: CHEMBL3545104
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: AFAMELANOTIDE ACETATE
+ChEMBL ID: CHEMBL4297213
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2014
+
+Molecule: AFAMELANOTIDE
+ChEMBL ID: CHEMBL441738
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2014
+
+Molecule: DERSIMELAGON
+ChEMBL ID: CHEMBL4802160
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BIRICODAR
+ChEMBL ID: CHEMBL350775
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AG-24322
+ChEMBL ID: CHEMBL3545420
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: RG-547
+ChEMBL ID: CHEMBL384304
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RGB-286638
+ChEMBL ID: CHEMBL3545083
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: ZOTIRACICLIB
+ChEMBL ID: CHEMBL1944698
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SELICICLIB
+ChEMBL ID: CHEMBL14762
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RIVICICLIB
+ChEMBL ID: CHEMBL3545283
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MILCICLIB
+ChEMBL ID: CHEMBL564829
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ALVOCIDIB
+ChEMBL ID: CHEMBL428690
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: DINACICLIB
+ChEMBL ID: CHEMBL2103840
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ELENBECESTAT
+ChEMBL ID: CHEMBL4204869
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ATABECESTAT
+ChEMBL ID: CHEMBL3916243
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VERUBECESTAT
+ChEMBL ID: CHEMBL3301601
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: LANABECESTAT
+ChEMBL ID: CHEMBL3989948
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: E-6201
+ChEMBL ID: CHEMBL1097999
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DASOLAMPANEL
+ChEMBL ID: CHEMBL2103869
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BRENSOCATIB
+ChEMBL ID: CHEMBL3900409
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: DULANERMIN
+ChEMBL ID: CHEMBL2107846
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: MAPATUMUMAB
+ChEMBL ID: CHEMBL2108621
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: VORINOSTAT
+ChEMBL ID: CHEMBL98
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: MOCETINOSTAT
+ChEMBL ID: CHEMBL272980
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RIVIPANSEL
+ChEMBL ID: CHEMBL3707446
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ASELIZUMAB
+ChEMBL ID: CHEMBL2108575
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: PASIREOTIDE DIASPARTATE
+ChEMBL ID: CHEMBL5314380
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2012
+
+Molecule: PASIREOTIDE PAMOATE
+ChEMBL ID: CHEMBL5314382
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2014
+
+Molecule: REMINERTANT
+ChEMBL ID: CHEMBL506981
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: REGORAFENIB
+ChEMBL ID: CHEMBL1946170
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: VANDETANIB
+ChEMBL ID: CHEMBL24828
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2011
+
+Molecule: PEXMETINIB
+ChEMBL ID: CHEMBL3991932
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CE-245677
+ChEMBL ID: CHEMBL3910075
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: CEP-11981
+ChEMBL ID: CHEMBL2010872
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ALTIRATINIB
+ChEMBL ID: CHEMBL3545365
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FORETINIB
+ChEMBL ID: CHEMBL1230609
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: GLESATINIB
+ChEMBL ID: CHEMBL3989914
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BENFLUOREX
+ChEMBL ID: CHEMBL400599
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1974
+
+Molecule: NEVANIMIBE
+ChEMBL ID: CHEMBL46423
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PACTIMIBE
+ChEMBL ID: CHEMBL478858
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LY-2584702
+ChEMBL ID: CHEMBL3545076
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: ABIRATERONE ACETATE
+ChEMBL ID: CHEMBL271227
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2011
+
+Molecule: GALETERONE
+ChEMBL ID: CHEMBL2105738
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ORTERONEL
+ChEMBL ID: CHEMBL1921976
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ABIRATERONE
+ChEMBL ID: CHEMBL254328
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: SEVITERONEL
+ChEMBL ID: CHEMBL3264610
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LEVOKETOCONAZOLE
+ChEMBL ID: CHEMBL295698
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021
+
+Molecule: DOXYCYCLINE
+ChEMBL ID: CHEMBL1200699
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1967
+
+Molecule: DOXYCYCLINE HYCLATE
+ChEMBL ID: CHEMBL3989740
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1967
+
+Molecule: DOXYCYCLINE CALCIUM
+ChEMBL ID: CHEMBL2364574
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1974
+
+Molecule: MARIMASTAT
+ChEMBL ID: CHEMBL279785
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: REBIMASTAT
+ChEMBL ID: CHEMBL76222
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VATIQUINONE
+ChEMBL ID: CHEMBL1812161
+Mechanism of Action: MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TABIMORELIN
+ChEMBL ID: CHEMBL281764
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SOTAGLIFLOZIN
+ChEMBL ID: CHEMBL3039507
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: LICOGLIFLOZIN
+ChEMBL ID: CHEMBL4297625
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TALAROZOLE
+ChEMBL ID: CHEMBL459505
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LITRONESIB
+ChEMBL ID: CHEMBL2105661
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FILANESIB
+ChEMBL ID: CHEMBL2347655
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ISPINESIB
+ChEMBL ID: CHEMBL228814
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AZD-4877
+ChEMBL ID: CHEMBL1829433
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LY2881835
+ChEMBL ID: CHEMBL3915620
+Mechanism of Action: AGONIST
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: FASIGLIFAM
+ChEMBL ID: CHEMBL1829174
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: SETOGEPRAM
+ChEMBL ID: CHEMBL4297635
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RESATORVID
+ChEMBL ID: CHEMBL225157
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: SRT-2104
+ChEMBL ID: CHEMBL4297436
+Mechanism of Action: ACTIVATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: EX-527
+ChEMBL ID: CHEMBL382277
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TOMARALIMAB
+ChEMBL ID: CHEMBL4298067
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: VB-201
+ChEMBL ID: CHEMBL4297333
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: EPACADOSTAT
+ChEMBL ID: CHEMBL3545369
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: LINRODOSTAT
+ChEMBL ID: CHEMBL4297598
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: RELEBACTAM
+ChEMBL ID: CHEMBL3301605
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: RODATRISTAT ETHYL
+ChEMBL ID: CHEMBL4069704
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ULOTARONT
+ChEMBL ID: CHEMBL4650337
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PRADIGASTAT
+ChEMBL ID: CHEMBL2364624
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BENZIODARONE
+ChEMBL ID: CHEMBL232201
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: PRENYLAMINE
+ChEMBL ID: CHEMBL24072
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: APX-3330
+ChEMBL ID: CHEMBL578390
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VADADUSTAT
+ChEMBL ID: CHEMBL3646221
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: ENARODUSTAT
+ChEMBL ID: CHEMBL4297619
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: MOLIDUSTAT
+ChEMBL ID: CHEMBL3646118
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: HYDROXYCHLOROQUINE SULFATE
+ChEMBL ID: CHEMBL1690
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1955
+
+Molecule: AGATOLIMOD SODIUM
+ChEMBL ID: CHEMBL2103793
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Oligonucleotide
+
+Molecule: LEFITOLIMOD
+ChEMBL ID: CHEMBL4297776
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: TILSOTOLIMOD
+ChEMBL ID: CHEMBL4297838
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Unknown
+
+Molecule: TILSOTOLIMOD SODIUM
+ChEMBL ID: CHEMBL4297994
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Unknown
+
+Molecule: 1018 ISS
+ChEMBL ID: CHEMBL4297680
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Unknown
+
+Molecule: EMD-1201081
+ChEMBL ID: CHEMBL4297993
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: COBITOLIMOD
+ChEMBL ID: CHEMBL4297564
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Oligonucleotide
+
+Molecule: BAZLITORAN
+ChEMBL ID: CHEMBL4297995
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: TELRATOLIMOD
+ChEMBL ID: CHEMBL4297631
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MOTOLIMOD
+ChEMBL ID: CHEMBL3301618
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SELGANTOLIMOD
+ChEMBL ID: CHEMBL4594258
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RESIQUIMOD
+ChEMBL ID: CHEMBL383322
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BAZLITORAN
+ChEMBL ID: CHEMBL4297995
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: ENPATORAN
+ChEMBL ID: CHEMBL4802159
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: EPTOTERMIN ALFA
+ChEMBL ID: CHEMBL2108594
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2001
+
+Molecule: DIBOTERMIN ALFA
+ChEMBL ID: CHEMBL2109171
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2002
+
+Molecule: IMIQUIMOD
+ChEMBL ID: CHEMBL1282
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: HYDROXYCHLOROQUINE SULFATE
+ChEMBL ID: CHEMBL1690
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1955
+
+Molecule: TELRATOLIMOD
+ChEMBL ID: CHEMBL4297631
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VESATOLIMOD
+ChEMBL ID: CHEMBL2424780
+Mechanism of Action: ACTIVATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CPG-52852
+ChEMBL ID: CHEMBL549344
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: GSK-2245035
+ChEMBL ID: CHEMBL4297492
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AZD-8848
+ChEMBL ID: CHEMBL4297356
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RESIQUIMOD
+ChEMBL ID: CHEMBL383322
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BAZLITORAN
+ChEMBL ID: CHEMBL4297995
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: ENPATORAN
+ChEMBL ID: CHEMBL4802159
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BOMEDEMSTAT
+ChEMBL ID: CHEMBL4297289
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BHQ-880
+ChEMBL ID: CHEMBL2109381
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: DKN-01
+ChEMBL ID: CHEMBL4297562
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: RINTATOLIMOD
+ChEMBL ID: CHEMBL2107862
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Oligonucleotide
+
+Molecule: BEVASIRANIB
+ChEMBL ID: CHEMBL2110581
+Mechanism of Action: ACTIVATOR
+Max Phase: 3.0
+Molecule Type: Oligonucleotide
+
+Molecule: BEVASIRANIB SODIUM
+ChEMBL ID: CHEMBL2103797
+Mechanism of Action: ACTIVATOR
+Max Phase: -1.0
+Molecule Type: Oligonucleotide
+
+Molecule: SERELAXIN
+ChEMBL ID: CHEMBL2108358
+Mechanism of Action: ACTIVATOR
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: NANGIBOTIDE
+ChEMBL ID: CHEMBL4297793
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: ASK-8007
+ChEMBL ID: CHEMBL2109530
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: PLITIDEPSIN
+ChEMBL ID: CHEMBL451930
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: FRESOLIMUMAB
+ChEMBL ID: CHEMBL1743022
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: METELIMUMAB
+ChEMBL ID: CHEMBL2108431
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: LY-2382770
+ChEMBL ID: CHEMBL2109585
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: NATALIZUMAB
+ChEMBL ID: CHEMBL1201607
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2004
+
+Molecule: FIRATEGRAST
+ChEMBL ID: CHEMBL2104967
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CANAKINUMAB
+ChEMBL ID: CHEMBL1201834
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2009
+
+Molecule: RILONACEPT
+ChEMBL ID: CHEMBL1201830
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2008
+
+Molecule: GEVOKIZUMAB
+ChEMBL ID: CHEMBL1743026
+Mechanism of Action: NEGATIVE ALLOSTERIC MODULATOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: CDP-484
+ChEMBL ID: CHEMBL2109459
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: LUTIKIZUMAB
+ChEMBL ID: CHEMBL4594518
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: TRIMIPRAMINE MALEATE
+ChEMBL ID: CHEMBL1200948
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1979
+
+Molecule: PHENYLEPHRINE BITARTRATE
+ChEMBL ID: CHEMBL2062264
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1973
+
+Molecule: CARVEDILOL
+ChEMBL ID: CHEMBL723
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1995
+
+Molecule: ALFUZOSIN HYDROCHLORIDE
+ChEMBL ID: CHEMBL1723
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2003
+
+Molecule: DOXAZOSIN MESYLATE
+ChEMBL ID: CHEMBL1200561
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1990
+
+Molecule: METHOXAMINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201103
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: METARAMINOL BITARTRATE
+ChEMBL ID: CHEMBL2062262
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1954
+
+Molecule: CARVEDILOL PHOSPHATE
+ChEMBL ID: CHEMBL1201167
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: MIDODRINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200461
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: PHENYLEPHRINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200339
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1952
+
+Molecule: PRAZOSIN HYDROCHLORIDE
+ChEMBL ID: CHEMBL1558
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1976
+
+Molecule: TAMSULOSIN HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200914
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: TERAZOSIN HYDROCHLORIDE
+ChEMBL ID: CHEMBL3989562
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: ISOXSUPRINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL559180
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: SERTINDOLE
+ChEMBL ID: CHEMBL12713
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: BUNAZOSIN
+ChEMBL ID: CHEMBL188185
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BUCINDOLOL HYDROCHLORIDE
+ChEMBL ID: CHEMBL2107546
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: IBUPROFEN SODIUM
+ChEMBL ID: CHEMBL3989408
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: ACETAMINOPHEN
+ChEMBL ID: CHEMBL112
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1968
+
+Molecule: NAPROXEN
+ChEMBL ID: CHEMBL154
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1976
+
+Molecule: NAPROXEN SODIUM
+ChEMBL ID: CHEMBL1200806
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1980
+
+Molecule: DICLOFENAC EPOLAMINE
+ChEMBL ID: CHEMBL1201180
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2007
+
+Molecule: DICLOFENAC SODIUM
+ChEMBL ID: CHEMBL1034
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1988
+
+Molecule: FENOPROFEN CALCIUM
+ChEMBL ID: CHEMBL2103736
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1976
+
+Molecule: DIFLUNISAL
+ChEMBL ID: CHEMBL898
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: SULFASALAZINE
+ChEMBL ID: CHEMBL421
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1950
+
+Molecule: IBUPROFEN
+ChEMBL ID: CHEMBL521
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1974
+
+Molecule: MECLOFENAMATE SODIUM
+ChEMBL ID: CHEMBL1562610
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1980
+
+Molecule: BISMUTH SUBSALICYLATE
+ChEMBL ID: CHEMBL1120
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: NEPAFENAC
+ChEMBL ID: CHEMBL1021
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2005
+
+Molecule: OXYPHENBUTAZONE
+ChEMBL ID: CHEMBL3989676
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1960
+
+Molecule: FLURBIPROFEN SODIUM
+ChEMBL ID: CHEMBL3989754
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1986
+
+Molecule: ASPIRIN
+ChEMBL ID: CHEMBL25
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1950
+
+Molecule: TOLMETIN SODIUM
+ChEMBL ID: CHEMBL1200613
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1976
+
+Molecule: DICLOFENAC POTASSIUM
+ChEMBL ID: CHEMBL1200804
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1993
+
+Molecule: BALSALAZIDE DISODIUM
+ChEMBL ID: CHEMBL1200760
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2000
+
+Molecule: INDOMETHACIN
+ChEMBL ID: CHEMBL6
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1965
+
+Molecule: BROMFENAC SODIUM
+ChEMBL ID: CHEMBL3181947
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: FLURBIPROFEN
+ChEMBL ID: CHEMBL563
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1986
+
+Molecule: KETOROLAC TROMETHAMINE
+ChEMBL ID: CHEMBL1201124
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1989
+
+Molecule: SULINDAC
+ChEMBL ID: CHEMBL15770
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1978
+
+Molecule: OLSALAZINE SODIUM
+ChEMBL ID: CHEMBL1201013
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1990
+
+Molecule: INDOMETHACIN SODIUM
+ChEMBL ID: CHEMBL3989410
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: OXAPROZIN POTASSIUM
+ChEMBL ID: CHEMBL1200463
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2002
+
+Molecule: MEFENAMIC ACID
+ChEMBL ID: CHEMBL686
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1967
+
+Molecule: MESALAMINE
+ChEMBL ID: CHEMBL704
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: IBUPROFEN LYSINE
+ChEMBL ID: CHEMBL1201141
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: OXAPROZIN
+ChEMBL ID: CHEMBL1071
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1992
+
+Molecule: PHENYLBUTAZONE
+ChEMBL ID: CHEMBL101
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1980
+
+Molecule: PIROXICAM
+ChEMBL ID: CHEMBL527
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: SUPROFEN
+ChEMBL ID: CHEMBL956
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: KETOPROFEN
+ChEMBL ID: CHEMBL571
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1986
+
+Molecule: DICLOFENAC
+ChEMBL ID: CHEMBL139
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1988
+
+Molecule: NAPROXCINOD
+ChEMBL ID: CHEMBL2103831
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: NAPROXEN ETEMESIL
+ChEMBL ID: CHEMBL2105683
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DEXIBUPROFEN
+ChEMBL ID: CHEMBL175
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1994
+
+Molecule: CLOMETACIN
+ChEMBL ID: CHEMBL13376
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: DIPYRONE
+ChEMBL ID: CHEMBL3989803
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: FENCLOFENAC
+ChEMBL ID: CHEMBL15677
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1978
+
+Molecule: GLAFENINE
+ChEMBL ID: CHEMBL146095
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: IBUFENAC
+ChEMBL ID: CHEMBL341812
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: INDOPROFEN
+ChEMBL ID: CHEMBL15870
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1979
+
+Molecule: ISOXICAM
+ChEMBL ID: CHEMBL53292
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: PIRPROFEN
+ChEMBL ID: CHEMBL188952
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: ACEMETACIN
+ChEMBL ID: CHEMBL189171
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: APAZONE
+ChEMBL ID: CHEMBL1565476
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: BENZYDAMINE
+ChEMBL ID: CHEMBL12610
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: BENZYDAMINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1528134
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: DEXKETOPROFEN
+ChEMBL ID: CHEMBL75435
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1994
+
+Molecule: ALOXIPRIN
+ChEMBL ID: CHEMBL2108222
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Unknown
+
+Molecule: ESFLURBIPROFEN
+ChEMBL ID: CHEMBL435298
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: LOXOPROFEN
+ChEMBL ID: CHEMBL19299
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1986
+
+Molecule: LORNOXICAM
+ChEMBL ID: CHEMBL1569487
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: DICLOFENAC ETALHYALURONATE SODIUM
+ChEMBL ID: CHEMBL4297232
+Mechanism of Action: INHIBITOR
+Max Phase: -1.0
+Molecule Type: Unknown
+
+Molecule: HYDROCODONE POLISTIREX
+ChEMBL ID: CHEMBL1201470
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: CODEINE POLISTIREX
+ChEMBL ID: CHEMBL1201463
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: OXYMORPHONE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200794
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1959
+
+Molecule: NALTREXONE
+ChEMBL ID: CHEMBL19019
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1984
+
+Molecule: CODEINE PHOSPHATE
+ChEMBL ID: CHEMBL1201099
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1952
+
+Molecule: CODEINE SULFATE
+ChEMBL ID: CHEMBL4297091
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: NALTREXONE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201149
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1984
+
+Molecule: NALBUPHINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201132
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1979
+
+Molecule: NALOXONE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1718
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1971
+
+Molecule: HYDROCODONE BITARTRATE
+ChEMBL ID: CHEMBL3989677
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1943
+
+Molecule: ODELEPRAN
+ChEMBL ID: CHEMBL2103878
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CEBRANOPADOL
+ChEMBL ID: CHEMBL2364605
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: DEXTROMORAMIDE
+ChEMBL ID: CHEMBL3833389
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: BENZHYDROCODONE HYDROCHLORIDE
+ChEMBL ID: CHEMBL3137310
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: NALOXONE HYDROCHLORIDE DIHYDRATE
+ChEMBL ID: CHEMBL5315056
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: VOLOCIXIMAB
+ChEMBL ID: CHEMBL2108061
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: ATN-161
+ChEMBL ID: CHEMBL4297456
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: GLIMEPIRIDE
+ChEMBL ID: CHEMBL1481
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1995
+
+Molecule: GLYBURIDE
+ChEMBL ID: CHEMBL472
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1984
+
+Molecule: CHLORPROPAMIDE
+ChEMBL ID: CHEMBL498

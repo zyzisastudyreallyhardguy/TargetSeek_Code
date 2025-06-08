@@ -1,0 +1,265 @@
+
+Molecule: BAMINERCEPT
+ChEMBL ID: CHEMBL1742988
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: PATECLIZUMAB
+ChEMBL ID: CHEMBL1743056
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: BAMINERCEPT
+ChEMBL ID: CHEMBL1742988
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: QUISOVALIMAB
+ChEMBL ID: CHEMBL4802198
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ASUNERCEPT
+ChEMBL ID: CHEMBL4297886
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: VORSETUZUMAB MAFODOTIN
+ChEMBL ID: CHEMBL2108672
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: VORSETUZUMAB
+ChEMBL ID: CHEMBL2108673
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: MDX-1411
+ChEMBL ID: CHEMBL2109492
+Mechanism of Action: CROSS-LINKING AGENT
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: CUSATUZUMAB
+ChEMBL ID: CHEMBL4297891
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: RO-5458640
+ChEMBL ID: CHEMBL2109600
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: BIIB-023
+ChEMBL ID: CHEMBL2109598
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ATACICEPT
+ChEMBL ID: CHEMBL1742986
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: SIBEPRENLIMAB
+ChEMBL ID: CHEMBL4594614
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: INFLIXIMAB
+ChEMBL ID: CHEMBL1201581
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 1998
+
+Molecule: CERTOLIZUMAB PEGOL
+ChEMBL ID: CHEMBL1201831
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2008
+
+Molecule: ADALIMUMAB
+ChEMBL ID: CHEMBL1201580
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2002
+
+Molecule: ETANERCEPT
+ChEMBL ID: CHEMBL1201572
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1998
+
+Molecule: GOLIMUMAB
+ChEMBL ID: CHEMBL1201833
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2009
+
+Molecule: LENERCEPT
+ChEMBL ID: CHEMBL2108208
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: NERELIMOMAB
+ChEMBL ID: CHEMBL2108566
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: AFELIMOMAB
+ChEMBL ID: CHEMBL2108887
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ONERCEPT
+ChEMBL ID: CHEMBL2107911
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: OZORALIZUMAB
+ChEMBL ID: CHEMBL1743054
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: PEGSUNERCEPT
+ChEMBL ID: CHEMBL1743057
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: PLACULUMAB
+ChEMBL ID: CHEMBL2108739
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: AZ9773
+ChEMBL ID: CHEMBL2109587
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: REMTOLUMAB
+ChEMBL ID: CHEMBL4297863
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ABBV-3373
+ChEMBL ID: CHEMBL4297572
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: BELIMUMAB
+ChEMBL ID: CHEMBL1789843
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2011
+
+Molecule: TABALUMAB
+ChEMBL ID: CHEMBL1743075
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: ATACICEPT
+ChEMBL ID: CHEMBL1742986
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: BLISIBIMOD
+ChEMBL ID: CHEMBL2107877
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: BRIOBACEPT
+ChEMBL ID: CHEMBL2107844
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: TIBULIZUMAB
+ChEMBL ID: CHEMBL3990000
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: RUPLIZUMAB
+ChEMBL ID: CHEMBL2108767
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: TORALIZUMAB
+ChEMBL ID: CHEMBL2108747
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: DAPIROLIZUMAB PEGOL
+ChEMBL ID: CHEMBL2109478
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: RAVAGALIMAB
+ChEMBL ID: CHEMBL4298212
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: TEGOPRUBART
+ChEMBL ID: CHEMBL4594460
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: DAZODALIBEP
+ChEMBL ID: CHEMBL4594331
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: GSK2982772
+ChEMBL ID: CHEMBL4071864
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DENOSUMAB
+ChEMBL ID: CHEMBL1237023
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2010
+
+Molecule: ZIMLOVISERTIB
+ChEMBL ID: CHEMBL4081711
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

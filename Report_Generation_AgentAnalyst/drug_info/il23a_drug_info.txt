@@ -1,0 +1,53 @@
+
+Molecule: USTEKINUMAB
+ChEMBL ID: CHEMBL1201835
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2009
+
+Molecule: BRIAKINUMAB
+ChEMBL ID: CHEMBL1742995
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: GUSELKUMAB
+ChEMBL ID: CHEMBL2364648
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2017
+
+Molecule: TILDRAKIZUMAB
+ChEMBL ID: CHEMBL2108681
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2018
+
+Molecule: BRAZIKUMAB
+ChEMBL ID: CHEMBL3833372
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: RISANKIZUMAB
+ChEMBL ID: CHEMBL3990029
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2019
+
+Molecule: MIRIKIZUMAB
+ChEMBL ID: CHEMBL3990014
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2023
+
+Molecule: EBDAROKIMAB
+ChEMBL ID: CHEMBL4650437
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody

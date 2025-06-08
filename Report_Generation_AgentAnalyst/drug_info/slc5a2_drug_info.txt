@@ -1,0 +1,106 @@
+
+Molecule: CANAGLIFLOZIN
+ChEMBL ID: CHEMBL4594217
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2011
+
+Molecule: EMPAGLIFLOZIN
+ChEMBL ID: CHEMBL2107830
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2014
+
+Molecule: DAPAGLIFLOZIN PROPANEDIOL
+ChEMBL ID: CHEMBL2103802
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: REMOGLIFLOZIN ETABONATE
+ChEMBL ID: CHEMBL2028665
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TOFOGLIFLOZIN
+ChEMBL ID: CHEMBL2105711
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2014
+
+Molecule: ERTUGLIFLOZIN
+ChEMBL ID: CHEMBL1770248
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: BEXAGLIFLOZIN
+ChEMBL ID: CHEMBL1808388
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: SOTAGLIFLOZIN
+ChEMBL ID: CHEMBL3039507
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: DAPAGLIFLOZIN
+ChEMBL ID: CHEMBL429910
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: IPRAGLIFLOZIN L-PROLINE
+ChEMBL ID: CHEMBL4297658
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: LICOGLIFLOZIN
+ChEMBL ID: CHEMBL4297625
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SERGLIFLOZIN ETABONATE
+ChEMBL ID: CHEMBL450044
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: HENAGLIFLOZIN
+ChEMBL ID: CHEMBL4297431
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: IPRAGLIFLOZIN
+ChEMBL ID: CHEMBL2018096
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2014
+
+Molecule: YM-543
+ChEMBL ID: CHEMBL4297452
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ERTUGLIFLOZIN PIDOLATE
+ChEMBL ID: CHEMBL5315054
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018

@@ -1,0 +1,142 @@
+
+Molecule: OTELIXIZUMAB
+ChEMBL ID: CHEMBL1743053
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: TEPLIZUMAB
+ChEMBL ID: CHEMBL1743078
+Mechanism of Action: OTHER
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2022
+
+Molecule: VISILIZUMAB
+ChEMBL ID: CHEMBL2108811
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: ERTUMAXOMAB
+ChEMBL ID: CHEMBL2108029
+Mechanism of Action: CROSS-LINKING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: HOKT3
+ChEMBL ID: CHEMBL2109253
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: MEDI-565
+ChEMBL ID: CHEMBL2109372
+Mechanism of Action: CROSS-LINKING AGENT
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: RESIMMUNE
+ChEMBL ID: CHEMBL4297555
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: MUROMONAB-CD3
+ChEMBL ID: CHEMBL1201608
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 1986
+
+Molecule: BLINATUMOMAB
+ChEMBL ID: CHEMBL1742992
+Mechanism of Action: CROSS-LINKING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2014
+
+Molecule: FORALUMAB
+ChEMBL ID: CHEMBL1743020
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: CATUMAXOMAB
+ChEMBL ID: CHEMBL2108581
+Mechanism of Action: CROSS-LINKING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2009
+
+Molecule: SOLITOMAB
+ChEMBL ID: CHEMBL2109264
+Mechanism of Action: CROSS-LINKING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: IMC-GP100
+ChEMBL ID: CHEMBL2109434
+Mechanism of Action: CROSS-LINKING AGENT
+Max Phase: -1.0
+Molecule Type: Antibody
+
+Molecule: FBT-A05
+ChEMBL ID: CHEMBL2109351
+Mechanism of Action: CROSS-LINKING AGENT
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: FLOTETUZUMAB
+ChEMBL ID: CHEMBL3990038
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ELRANATAMAB
+ChEMBL ID: CHEMBL4297809
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2023
+
+Molecule: TECLISTAMAB
+ChEMBL ID: CHEMBL4594505
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2022
+
+Molecule: TALQUETAMAB
+ChEMBL ID: CHEMBL4594503
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2023
+
+Molecule: EPCORITAMAB
+ChEMBL ID: CHEMBL4650393
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2023
+
+Molecule: GLOFITAMAB
+ChEMBL ID: CHEMBL4298092
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2023
+
+Molecule: MOSUNETUZUMAB
+ChEMBL ID: CHEMBL4297788
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2022
+
+Molecule: ODRONEXTAMAB
+ChEMBL ID: CHEMBL4298084
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody

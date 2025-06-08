@@ -1,0 +1,128 @@
+Drug and clinical candidate information for htr4 (ChEMBL ID: CHEMBL1875):
+
+Molecule: TEGASEROD MALEATE
+ChEMBL ID: CHEMBL1516474
+Mechanism of Action: PARTIAL AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2002
+
+Molecule: CISAPRIDE
+ChEMBL ID: CHEMBL1729
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1993
+
+Molecule: METOCLOPRAMIDE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200940
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1979
+
+Molecule: VELUSETRAG
+ChEMBL ID: CHEMBL2087337
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: NARONAPRIDE
+ChEMBL ID: CHEMBL2103858
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: REVEXEPRIDE
+ChEMBL ID: CHEMBL3545035
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CAPESEROD
+ChEMBL ID: CHEMBL2027925
+Mechanism of Action: PARTIAL AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PRUCALOPRIDE
+ChEMBL ID: CHEMBL117287
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: CLEBOPRIDE
+ChEMBL ID: CHEMBL325109
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: PRUCALOPRIDE SUCCINATE
+ChEMBL ID: CHEMBL2105748
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: PRX-03140
+ChEMBL ID: CHEMBL3306918
+Mechanism of Action: PARTIAL AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PIBOSEROD
+ChEMBL ID: CHEMBL356359
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FELCISETRAG
+ChEMBL ID: CHEMBL2402904
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RENZAPRIDE
+ChEMBL ID: CHEMBL296522
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: LEVOSULPIRIDE
+ChEMBL ID: CHEMBL267044
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MOSAPRIDE
+ChEMBL ID: CHEMBL60889
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: RELENOPRIDE
+ChEMBL ID: CHEMBL3544975
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for htr4 (ChEMBL ID: CHEMBL2096904):
+
+Molecule: DEXFENFLURAMINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1887891
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: ZIMELDINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL2355333
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: AMISULPRIDE
+ChEMBL ID: CHEMBL243712
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1986

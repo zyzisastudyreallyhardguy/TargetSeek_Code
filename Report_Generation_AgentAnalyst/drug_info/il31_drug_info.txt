@@ -1,0 +1,19 @@
+
+Molecule: LOKIVETMAB
+ChEMBL ID: CHEMBL5315070
+Mechanism of Action: BINDING AGENT
+Max Phase: -1.0
+Molecule Type: Antibody
+First Approval: 2017
+
+Molecule: VIXARELIMAB
+ChEMBL ID: CHEMBL4594341
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: NEMOLIZUMAB
+ChEMBL ID: CHEMBL4297794
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody

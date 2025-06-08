@@ -1,0 +1,54 @@
+
+Molecule: CC-401
+ChEMBL ID: CHEMBL1614713
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TANZISERTIB
+ChEMBL ID: CHEMBL1950289
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CC-401
+ChEMBL ID: CHEMBL1614713
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TANZISERTIB
+ChEMBL ID: CHEMBL1950289
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BRIMAPITIDE
+ChEMBL ID: CHEMBL4297650
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: BRIMAPITIDE, C-TERMINAL ACID
+ChEMBL ID: CHEMBL4297348
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: CC-401
+ChEMBL ID: CHEMBL1614713
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TANZISERTIB
+ChEMBL ID: CHEMBL1950289
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BENTAMAPIMOD
+ChEMBL ID: CHEMBL3545213
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

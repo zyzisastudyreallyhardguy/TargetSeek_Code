@@ -1,0 +1,30 @@
+
+Molecule: PEGBELFERMIN
+ChEMBL ID: CHEMBL4297578
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: FAZPILODEMAB
+ChEMBL ID: CHEMBL4297909
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ALDAFERMIN
+ChEMBL ID: CHEMBL4298055
+Mechanism of Action: ACTIVATOR
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: MUPARFOSTAT
+ChEMBL ID: CHEMBL4297163
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Oligosaccharide
+
+Molecule: SURAMIN HEXASODIUM
+ChEMBL ID: CHEMBL413376
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule

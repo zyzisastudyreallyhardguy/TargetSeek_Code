@@ -1,0 +1,6 @@
+
+Molecule: E-6201
+ChEMBL ID: CHEMBL1097999
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

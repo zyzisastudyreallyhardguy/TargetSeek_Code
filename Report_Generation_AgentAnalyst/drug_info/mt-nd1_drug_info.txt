@@ -1,0 +1,41 @@
+Drug and clinical candidate information for mt-nd1 (ChEMBL ID: CHEMBL1777):
+
+Molecule: ATOVAQUONE
+ChEMBL ID: CHEMBL1450
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1992
+Drug and clinical candidate information for mt-nd1 (ChEMBL ID: CHEMBL3869):
+
+Molecule: CTS-1027
+ChEMBL ID: CHEMBL440498
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: REBIMASTAT
+ChEMBL ID: CHEMBL76222
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for mt-nd1 (ChEMBL ID: CHEMBL2363065):
+
+Molecule: METFORMIN HYDROCHLORIDE
+ChEMBL ID: CHEMBL1703
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1995
+
+Molecule: ME-344
+ChEMBL ID: CHEMBL5314386
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: NV-128
+ChEMBL ID: CHEMBL3545135
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule

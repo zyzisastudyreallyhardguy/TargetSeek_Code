@@ -1,0 +1,12 @@
+
+Molecule: DUSIGITUMAB
+ChEMBL ID: CHEMBL2109355
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: XENTUZUMAB
+ChEMBL ID: CHEMBL4297850
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody

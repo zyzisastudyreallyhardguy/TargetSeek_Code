@@ -1,0 +1,75 @@
+
+Molecule: AT-13148
+ChEMBL ID: CHEMBL3544960
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: Y-39983
+ChEMBL ID: CHEMBL571948
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: VEROSUDIL
+ChEMBL ID: CHEMBL3545065
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DE-104
+ChEMBL ID: CHEMBL3545153
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SAR-407899
+ChEMBL ID: CHEMBL3545341
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AMA0076
+ChEMBL ID: CHEMBL3545073
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: NETARSUDIL DIMESYLATE
+ChEMBL ID: CHEMBL4594251
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: RIPASUDIL
+ChEMBL ID: CHEMBL3426621
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: FASUDIL
+ChEMBL ID: CHEMBL38380
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BELUMOSUDIL MESYLATE
+ChEMBL ID: CHEMBL4802130
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021
+
+Molecule: RIPASUDIL HYDROCHLORIDE DIHYDRATE
+ChEMBL ID: CHEMBL4594454
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BELUMOSUDIL
+ChEMBL ID: CHEMBL2005186
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021

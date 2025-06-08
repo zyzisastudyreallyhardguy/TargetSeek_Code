@@ -1,0 +1,76 @@
+
+Molecule: LOVASTATIN
+ChEMBL ID: CHEMBL503
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: CERIVASTATIN SODIUM
+ChEMBL ID: CHEMBL1200563
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: PITAVASTATIN CALCIUM
+ChEMBL ID: CHEMBL1237061
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: FLUVASTATIN SODIUM
+ChEMBL ID: CHEMBL2218894
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1993
+
+Molecule: ROSUVASTATIN CALCIUM
+ChEMBL ID: CHEMBL1744447
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2003
+
+Molecule: PRAVASTATIN SODIUM
+ChEMBL ID: CHEMBL690
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: ATORVASTATIN CALCIUM
+ChEMBL ID: CHEMBL393220
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: SIMVASTATIN
+ChEMBL ID: CHEMBL1064
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: PITAVASTATIN MAGNESIUM
+ChEMBL ID: CHEMBL3989923
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: PITAVASTATIN SODIUM
+ChEMBL ID: CHEMBL3989920
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: ACADESINE
+ChEMBL ID: CHEMBL1551724
+Mechanism of Action: ACTIVATOR
+Max Phase: 3.0
+Molecule Type: Small molecule

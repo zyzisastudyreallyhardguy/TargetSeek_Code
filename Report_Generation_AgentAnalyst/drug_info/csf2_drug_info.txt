@@ -1,0 +1,36 @@
+
+Molecule: NAMILUMAB
+ChEMBL ID: CHEMBL1743044
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: OTILIMAB
+ChEMBL ID: CHEMBL2109433
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: GIMSILUMAB
+ChEMBL ID: CHEMBL2109430
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: LENZILUMAB
+ChEMBL ID: CHEMBL3707325
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: PLONMARLIMAB
+ChEMBL ID: CHEMBL4650518
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: PEXASTIMOGENE DEVACIREPVEC
+ChEMBL ID: CHEMBL3039547
+Mechanism of Action: VACCINE ANTIGEN
+Max Phase: 3.0
+Molecule Type: Gene

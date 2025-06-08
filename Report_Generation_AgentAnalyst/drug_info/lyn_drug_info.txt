@@ -1,0 +1,56 @@
+
+Molecule: BOSUTINIB
+ChEMBL ID: CHEMBL288441
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: JNJ-26483327
+ChEMBL ID: CHEMBL3109738
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: BAFETINIB
+ChEMBL ID: CHEMBL206834
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TOLIMIDONE
+ChEMBL ID: CHEMBL8030
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DASATINIB
+ChEMBL ID: CHEMBL1421
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: ENMD-981693
+ChEMBL ID: CHEMBL52885
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ILORASERTIB
+ChEMBL ID: CHEMBL1980297
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: XL-228
+ChEMBL ID: CHEMBL3545085
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: TG100-801
+ChEMBL ID: CHEMBL403989
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

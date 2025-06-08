@@ -1,0 +1,81 @@
+
+Molecule: ATEZOLIZUMAB
+ChEMBL ID: CHEMBL3707227
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2016
+
+Molecule: DURVALUMAB
+ChEMBL ID: CHEMBL3301587
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2017
+
+Molecule: AVELUMAB
+ChEMBL ID: CHEMBL3833373
+Mechanism of Action: OTHER
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2017
+
+Molecule: SUGEMALIMAB
+ChEMBL ID: CHEMBL4594535
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: BINTRAFUSP ALFA
+ChEMBL ID: CHEMBL4298024
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: ENVAFOLIMAB
+ChEMBL ID: CHEMBL4298006
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: PACMILIMAB
+ChEMBL ID: CHEMBL4297563
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ERFONRILIMAB
+ChEMBL ID: CHEMBL4650483
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: SOCAZOLIMAB
+ChEMBL ID: CHEMBL4802221
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: SHR-1316
+ChEMBL ID: CHEMBL4297828
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Unknown
+
+Molecule: COSIBELIMAB
+ChEMBL ID: CHEMBL4297729
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: INCB-086550
+ChEMBL ID: CHEMBL4802209
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: DANBURSTOTUG
+ChEMBL ID: CHEMBL4650423
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody

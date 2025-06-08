@@ -1,0 +1,414 @@
+
+Molecule: INSULIN SUSP ISOPHANE RECOMBINANT HUMAN
+ChEMBL ID: CHEMBL1201540
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1982
+
+Molecule: INSULIN PURIFIED BEEF
+ChEMBL ID: CHEMBL1201629
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1980
+
+Molecule: INSULIN ZINC SUSP RECOMBINANT HUMAN
+ChEMBL ID: CHEMBL1201644
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1985
+
+Molecule: INSULIN ZINC SUSP BEEF
+ChEMBL ID: CHEMBL1201639
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1982
+
+Molecule: INSULIN ZINC SUSP EXTENDED PURIFIED BEEF
+ChEMBL ID: CHEMBL1201542
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1982
+
+Molecule: INSULIN ZINC SUSP SEMISYNTHETIC PURIFIED HUMAN
+ChEMBL ID: CHEMBL1201543
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1983
+
+Molecule: INSULIN HUMAN
+ChEMBL ID: CHEMBL1201631
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1982
+
+Molecule: INSULIN SUSP ISOPHANE PURIFIED PORK
+ChEMBL ID: CHEMBL1201656
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1979
+
+Molecule: INSULIN ZINC SUSP PURIFIED PORK
+ChEMBL ID: CHEMBL1201653
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1979
+
+Molecule: INSULIN SUSP ISOPHANE BEEF/PORK
+ChEMBL ID: CHEMBL1201635
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1966
+
+Molecule: INSULIN SUSP PROTAMINE ZINC BEEF/PORK
+ChEMBL ID: CHEMBL1201628
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1966
+
+Molecule: INSULIN PURIFIED PORK
+ChEMBL ID: CHEMBL1201630
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1979
+
+Molecule: INSULIN SUSP ISOPHANE BEEF
+ChEMBL ID: CHEMBL1201545
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1982
+
+Molecule: INSULIN SUSP PROTAMINE ZINC PURIFIED PORK
+ChEMBL ID: CHEMBL1201638
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1979
+
+Molecule: INSULIN LISPRO PROTAMINE RECOMBINANT
+ChEMBL ID: CHEMBL1201611
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1999
+
+Molecule: INSULIN ZINC SUSP PURIFIED BEEF/PORK
+ChEMBL ID: CHEMBL1201634
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1982
+
+Molecule: INSULIN LISPRO
+ChEMBL ID: CHEMBL1201538
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1996
+
+Molecule: INSULIN GLULISINE
+ChEMBL ID: CHEMBL1201613
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2004
+
+Molecule: INSULIN ZINC SUSP PROMPT BEEF
+ChEMBL ID: CHEMBL1201642
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1982
+
+Molecule: INSULIN GLARGINE
+ChEMBL ID: CHEMBL1201497
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2000
+
+Molecule: INSULIN PORK
+ChEMBL ID: CHEMBL1201539
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1966
+
+Molecule: INSULIN ZINC SUSP EXTENDED BEEF
+ChEMBL ID: CHEMBL1201640
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1982
+
+Molecule: INSULIN SUSP ISOPHANE PURIFIED BEEF
+ChEMBL ID: CHEMBL1201655
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1980
+
+Molecule: INSULIN SUSP PROTAMINE ZINC PURIFIED BEEF
+ChEMBL ID: CHEMBL1201541
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1980
+
+Molecule: INSULIN ZINC SUSP PROMPT PURIFIED PORK
+ChEMBL ID: CHEMBL1201643
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1982
+
+Molecule: INSULIN SUSP ISOPHANE SEMISYNTHETIC PURIFIED HUMAN
+ChEMBL ID: CHEMBL1201627
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1985
+
+Molecule: INSULIN ZINC SUSP PURIFIED BEEF
+ChEMBL ID: CHEMBL1201546
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1980
+
+Molecule: INSULIN ZINC SUSP EXTENDED RECOMBINANT HUMAN
+ChEMBL ID: CHEMBL1201641
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1987
+
+Molecule: INSULIN ASPART
+ChEMBL ID: CHEMBL1201496
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2000
+
+Molecule: INSULIN ASPART PROTAMINE RECOMBINANT
+ChEMBL ID: CHEMBL1201664
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2001
+
+Molecule: INSULIN DETEMIR
+ChEMBL ID: CHEMBL2104391
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2004
+
+Molecule: INSULIN DEGLUDEC
+ChEMBL ID: CHEMBL2107869
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2013
+
+Molecule: BMS-754807
+ChEMBL ID: CHEMBL575448
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: KW-2450
+ChEMBL ID: CHEMBL5283463
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LINSITINIB
+ChEMBL ID: CHEMBL1091644
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: INSULIN PEGLISPRO
+ChEMBL ID: CHEMBL2108569
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: INSULIN ZINC, PROMPT
+ChEMBL ID: CHEMBL2108493
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+
+Molecule: INSULIN [INJECTION], BIPHASIC
+ChEMBL ID: CHEMBL2108968
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+
+Molecule: INSULIN TREGOPIL
+ChEMBL ID: CHEMBL2108305
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: INSULIN, ISOPHANE
+ChEMBL ID: CHEMBL2108964
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+
+Molecule: INSULIN, PROTAMINE ZINC
+ChEMBL ID: CHEMBL2109046
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+
+Molecule: INSULIN HUMAN, ISOPHANE
+ChEMBL ID: CHEMBL2108973
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: INSULIN ZINC, EXTENDED
+ChEMBL ID: CHEMBL2108492
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+
+Molecule: MECASERMIN RINFABATE
+ChEMBL ID: CHEMBL1201717
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2005
+
+Molecule: MECASERMIN
+ChEMBL ID: CHEMBL1201716
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2005
+
+Molecule: AEW-541
+ChEMBL ID: CHEMBL551064
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PL-225B
+ChEMBL ID: CHEMBL3545004
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: XL-228
+ChEMBL ID: CHEMBL3545085
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: AXL-1717
+ChEMBL ID: CHEMBL283120
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BMS-754807
+ChEMBL ID: CHEMBL575448
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MASOPROCOL
+ChEMBL ID: CHEMBL313972
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1992
+
+Molecule: KW-2450
+ChEMBL ID: CHEMBL5283463
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LINSITINIB
+ChEMBL ID: CHEMBL1091644
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: FIGITUMUMAB
+ChEMBL ID: CHEMBL1743019
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: GANITUMAB
+ChEMBL ID: CHEMBL1743024
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: TEPROTUMUMAB
+ChEMBL ID: CHEMBL1743079
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2020
+
+Molecule: CIXUTUMUMAB
+ChEMBL ID: CHEMBL1743001
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: DALOTUZUMAB
+ChEMBL ID: CHEMBL1743006
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ROBATUMUMAB
+ChEMBL ID: CHEMBL1743064
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: VELIGROTUG
+ChEMBL ID: CHEMBL2109357
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: BIIB-022
+ChEMBL ID: CHEMBL2109356
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: ISTIRATUMAB
+ChEMBL ID: CHEMBL3989990
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: CONTELTINIB 
+ChEMBL ID: CHEMBL3899477
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule

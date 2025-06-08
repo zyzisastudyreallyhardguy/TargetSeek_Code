@@ -1,0 +1,32 @@
+
+Molecule: CANAKINUMAB
+ChEMBL ID: CHEMBL1201834
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2009
+
+Molecule: RILONACEPT
+ChEMBL ID: CHEMBL1201830
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2008
+
+Molecule: GEVOKIZUMAB
+ChEMBL ID: CHEMBL1743026
+Mechanism of Action: NEGATIVE ALLOSTERIC MODULATOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: CDP-484
+ChEMBL ID: CHEMBL2109459
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: LUTIKIZUMAB
+ChEMBL ID: CHEMBL4594518
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody

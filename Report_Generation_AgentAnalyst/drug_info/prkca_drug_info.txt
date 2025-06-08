@@ -1,0 +1,38 @@
+
+Molecule: TIGILANOL TIGLATE
+ChEMBL ID: CHEMBL3989916
+Mechanism of Action: ACTIVATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: GSK-690693
+ChEMBL ID: CHEMBL494089
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: CEP-2563 DIHYDROCHLORIDE
+ChEMBL ID: CHEMBL5314390
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: SOTRASTAURIN
+ChEMBL ID: CHEMBL565612
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: UCN-01
+ChEMBL ID: CHEMBL574737
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MIDOSTAURIN
+ChEMBL ID: CHEMBL608533
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017

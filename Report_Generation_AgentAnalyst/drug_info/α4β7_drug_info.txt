@@ -1,0 +1,594 @@
+Drug and clinical candidate information for α4β7 (ChEMBL ID: CHEMBL3798):
+
+Molecule: RIMEGEPANT
+ChEMBL ID: CHEMBL2178422
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: UBROGEPANT
+ChEMBL ID: CHEMBL2364638
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: MK3207
+ChEMBL ID: CHEMBL1910936
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: OLCEGEPANT
+ChEMBL ID: CHEMBL207197
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DAVALINTIDE
+ChEMBL ID: CHEMBL2105635
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: TELCAGEPANT
+ChEMBL ID: CHEMBL236593
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ERENUMAB
+ChEMBL ID: CHEMBL3833329
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2018
+
+Molecule: RIMEGEPANT SULFATE
+ChEMBL ID: CHEMBL2364629
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: ATOGEPANT
+ChEMBL ID: CHEMBL3991065
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021
+
+Molecule: BI-44370
+ChEMBL ID: CHEMBL3334624
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ZAVEGEPANT HYDROCHLORIDE
+ChEMBL ID: CHEMBL4650220
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+Drug and clinical candidate information for α4β7 (ChEMBL ID: CHEMBL286):
+
+Molecule: ALISKIREN FUMARATE
+ChEMBL ID: CHEMBL3545059
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2007
+
+Molecule: IMARIKIREN HYDROCHLORIDE
+ChEMBL ID: CHEMBL3969876
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SPH-3127
+ChEMBL ID: CHEMBL4110551
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for α4β7 (ChEMBL ID: CHEMBL4822):
+
+Molecule: ELENBECESTAT
+ChEMBL ID: CHEMBL4204869
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ATABECESTAT
+ChEMBL ID: CHEMBL3916243
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VERUBECESTAT
+ChEMBL ID: CHEMBL3301601
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: LANABECESTAT
+ChEMBL ID: CHEMBL3989948
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for α4β7 (ChEMBL ID: CHEMBL3295):
+
+Molecule: SUCRALFATE
+ChEMBL ID: CHEMBL3989780
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Unknown
+First Approval: 1981
+Drug and clinical candidate information for α4β7 (ChEMBL ID: CHEMBL2107838):
+
+Molecule: ZAVEGEPANT
+ChEMBL ID: CHEMBL2397415
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+Drug and clinical candidate information for α4β7 (ChEMBL ID: CHEMBL2109244):
+
+Molecule: GABOXADOL
+ChEMBL ID: CHEMBL312443
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ZOPICLONE
+ChEMBL ID: CHEMBL135400
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+Drug and clinical candidate information for α4β7 (ChEMBL ID: CHEMBL2093872):
+
+Molecule: METHOXYFLURANE
+ChEMBL ID: CHEMBL1341
+Mechanism of Action: POSITIVE MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: FLUMAZENIL
+ChEMBL ID: CHEMBL407
+Mechanism of Action: ALLOSTERIC ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: CLORAZEPATE DIPOTASSIUM
+ChEMBL ID: CHEMBL2096631
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1972
+
+Molecule: CHLORDIAZEPOXIDE
+ChEMBL ID: CHEMBL451
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1960
+
+Molecule: CHLORDIAZEPOXIDE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200703
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1960
+
+Molecule: DIAZEPAM
+ChEMBL ID: CHEMBL12
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1963
+
+Molecule: ESZOPICLONE
+ChEMBL ID: CHEMBL1522
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2004
+
+Molecule: OXAZEPAM
+ChEMBL ID: CHEMBL568
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1965
+
+Molecule: MEPROBAMATE
+ChEMBL ID: CHEMBL979
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1955
+
+Molecule: CLOBAZAM
+ChEMBL ID: CHEMBL70418
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2005
+
+Molecule: ALPRAZOLAM
+ChEMBL ID: CHEMBL661
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1981
+
+Molecule: TRIAZOLAM
+ChEMBL ID: CHEMBL646
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1978
+
+Molecule: BUTALBITAL
+ChEMBL ID: CHEMBL454
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1983
+
+Molecule: CLONAZEPAM
+ChEMBL ID: CHEMBL452
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1975
+
+Molecule: DESFLURANE
+ChEMBL ID: CHEMBL1200733
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1992
+
+Molecule: ESTAZOLAM
+ChEMBL ID: CHEMBL285674
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1990
+
+Molecule: TALBUTAL
+ChEMBL ID: CHEMBL1200802
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: BUTABARBITAL SODIUM
+ChEMBL ID: CHEMBL1200982
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1939
+
+Molecule: GLUTETHIMIDE
+ChEMBL ID: CHEMBL1102
+Mechanism of Action: POSITIVE MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1976
+
+Molecule: ACAMPROSATE CALCIUM
+ChEMBL ID: CHEMBL2068724
+Mechanism of Action: POSITIVE MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2004
+
+Molecule: LORAZEPAM
+ChEMBL ID: CHEMBL580
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1977
+
+Molecule: ENFLURANE
+ChEMBL ID: CHEMBL1257
+Mechanism of Action: POSITIVE MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1972
+
+Molecule: ETHCHLORVYNOL
+ChEMBL ID: CHEMBL591
+Mechanism of Action: POSITIVE MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1961
+
+Molecule: METHARBITAL
+ChEMBL ID: CHEMBL450
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: METHOHEXITAL SODIUM
+ChEMBL ID: CHEMBL30219
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1960
+
+Molecule: METHYPRYLON
+ChEMBL ID: CHEMBL1200790
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: MIDAZOLAM HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200420
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: PRAZEPAM
+ChEMBL ID: CHEMBL969
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: PRIMIDONE
+ChEMBL ID: CHEMBL856
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1954
+
+Molecule: PROPOFOL
+ChEMBL ID: CHEMBL526
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1989
+
+Molecule: QUAZEPAM
+ChEMBL ID: CHEMBL1200472
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: PENTOBARBITAL
+ChEMBL ID: CHEMBL448
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1973
+
+Molecule: PENTOBARBITAL SODIUM
+ChEMBL ID: CHEMBL971
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1973
+
+Molecule: SECOBARBITAL SODIUM
+ChEMBL ID: CHEMBL1200903
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1950
+
+Molecule: SEVOFLURANE
+ChEMBL ID: CHEMBL1200694
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1995
+
+Molecule: TEMAZEPAM
+ChEMBL ID: CHEMBL967
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1981
+
+Molecule: THIAMYLAL SODIUM
+ChEMBL ID: CHEMBL1201065
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: THIOPENTAL SODIUM
+ChEMBL ID: CHEMBL738
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: ETOMIDATE
+ChEMBL ID: CHEMBL681
+Mechanism of Action: POSITIVE MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: FLURAZEPAM HYDROCHLORIDE
+ChEMBL ID: CHEMBL3989724
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1970
+
+Molecule: HALAZEPAM
+ChEMBL ID: CHEMBL970
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1981
+
+Molecule: HALOTHANE
+ChEMBL ID: CHEMBL931
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1958
+
+Molecule: ISOFLURANE
+ChEMBL ID: CHEMBL1256
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1979
+
+Molecule: TOPIRAMATE
+ChEMBL ID: CHEMBL220492
+Mechanism of Action: POSITIVE MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: TRICLOFOS SODIUM
+ChEMBL ID: CHEMBL1200789
+Mechanism of Action: POSITIVE MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: ADIPIPLON
+ChEMBL ID: CHEMBL2103791
+Mechanism of Action: PARTIAL AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LOREDIPLON
+ChEMBL ID: CHEMBL3707317
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RESEQUINIL
+ChEMBL ID: CHEMBL2107801
+Mechanism of Action: INVERSE AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DARIGABAT
+ChEMBL ID: CHEMBL3647536
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: GANAXOLONE
+ChEMBL ID: CHEMBL1568698
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2022
+
+Molecule: PAGOCLONE
+ChEMBL ID: CHEMBL2104745
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FLUNITRAZEPAM
+ChEMBL ID: CHEMBL13280
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: METHAQUALONE
+ChEMBL ID: CHEMBL282052
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: METHAQUALONE HYDROCHLORIDE
+ChEMBL ID: CHEMBL2106829
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: TETRAZEPAM
+ChEMBL ID: CHEMBL2105527
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: CLOMETHIAZOLE
+ChEMBL ID: CHEMBL315795
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: CLOTIAZEPAM
+ChEMBL ID: CHEMBL1697737
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: MIDAZOLAM
+ChEMBL ID: CHEMBL655
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: BREXANOLONE
+ChEMBL ID: CHEMBL207538
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: CENOBAMATE
+ChEMBL ID: CHEMBL3989949
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: ETIFOXINE
+ChEMBL ID: CHEMBL2106227
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: REMIMAZOLAM BESYLATE
+ChEMBL ID: CHEMBL4594301
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: ABP-700
+ChEMBL ID: CHEMBL4297255
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CIPEPOFOL
+ChEMBL ID: CHEMBL4094894
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PADSEVONIL
+ChEMBL ID: CHEMBL4297521
+Mechanism of Action: PARTIAL AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ZURANOLONE
+ChEMBL ID: CHEMBL4105630
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023

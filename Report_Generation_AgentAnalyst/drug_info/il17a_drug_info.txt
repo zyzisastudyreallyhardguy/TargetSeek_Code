@@ -1,0 +1,69 @@
+
+Molecule: SECUKINUMAB
+ChEMBL ID: CHEMBL1743068
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2015
+
+Molecule: IXEKIZUMAB
+ChEMBL ID: CHEMBL1743034
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2016
+
+Molecule: AFASEVIKUMAB
+ChEMBL ID: CHEMBL2109469
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: PERAKIZUMAB
+ChEMBL ID: CHEMBL2109470
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: CJM-112
+ChEMBL ID: CHEMBL4297926
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: BIMEKIZUMAB
+ChEMBL ID: CHEMBL4297700
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2021
+
+Molecule: M-1095
+ChEMBL ID: CHEMBL4298023
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: REMTOLUMAB
+ChEMBL ID: CHEMBL4297863
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: IZOKIBEP
+ChEMBL ID: CHEMBL4297686
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: TIBULIZUMAB
+ChEMBL ID: CHEMBL3990000
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: VUNAKIZUMAB
+ChEMBL ID: CHEMBL4298102
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody

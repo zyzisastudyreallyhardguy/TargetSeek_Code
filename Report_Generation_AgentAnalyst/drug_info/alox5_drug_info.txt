@@ -1,0 +1,61 @@
+
+Molecule: TEPOXALIN
+ChEMBL ID: CHEMBL316040
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+First Approval: 2001
+
+Molecule: ZILEUTON
+ChEMBL ID: CHEMBL93
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: BALSALAZIDE DISODIUM
+ChEMBL ID: CHEMBL1200760
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2000
+
+Molecule: MECLOFENAMATE SODIUM
+ChEMBL ID: CHEMBL1562610
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1980
+
+Molecule: MESALAMINE
+ChEMBL ID: CHEMBL704
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: OLSALAZINE SODIUM
+ChEMBL ID: CHEMBL1201013
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1990
+
+Molecule: SULFASALAZINE
+ChEMBL ID: CHEMBL421
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1950
+
+Molecule: ATRELEUTON
+ChEMBL ID: CHEMBL59356
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PF-4191834
+ChEMBL ID: CHEMBL4297416
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

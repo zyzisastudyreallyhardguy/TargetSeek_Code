@@ -1,0 +1,157 @@
+Drug and clinical candidate information for grin2a (ChEMBL ID: CHEMBL1972):
+
+Molecule: DEXTROMETHORPHAN POLISTIREX
+ChEMBL ID: CHEMBL1201461
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: DEXTROMETHORPHAN HYDROBROMIDE
+ChEMBL ID: CHEMBL1256818
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1984
+Drug and clinical candidate information for grin2a (ChEMBL ID: CHEMBL2094124):
+
+Molecule: ORPHENADRINE CITRATE
+ChEMBL ID: CHEMBL1200395
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1959
+
+Molecule: ACAMPROSATE CALCIUM
+ChEMBL ID: CHEMBL2068724
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2004
+
+Molecule: AMANTADINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1569
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1968
+
+Molecule: MEMANTINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1699
+Mechanism of Action: NEGATIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2003
+
+Molecule: ORPHENADRINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201023
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1957
+
+Molecule: FELBAMATE
+ChEMBL ID: CHEMBL1094
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1993
+
+Molecule: KETAMINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1714
+Mechanism of Action: NEGATIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1970
+
+Molecule: DELUCEMINE
+ChEMBL ID: CHEMBL2110814
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AZD8108
+ChEMBL ID: CHEMBL3707355
+Mechanism of Action: ANTAGONIST
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: LANICEMINE
+ChEMBL ID: CHEMBL467084
+Mechanism of Action: BLOCKER
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: GW468816
+ChEMBL ID: CHEMBL1207366
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: APIMOSTINEL
+ChEMBL ID: CHEMBL3989872
+Mechanism of Action: PARTIAL AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: RAPASTINEL
+ChEMBL ID: CHEMBL3544917
+Mechanism of Action: PARTIAL AGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: NEBOGLAMINE
+ChEMBL ID: CHEMBL1255840
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AV-101
+ChEMBL ID: CHEMBL3545351
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CNS-5161
+ChEMBL ID: CHEMBL41306
+Mechanism of Action: BLOCKER
+Max Phase: -1.0
+Molecule Type: Small molecule
+
+Molecule: INDANTADOL
+ChEMBL ID: CHEMBL3707400
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RALFINAMIDE
+ChEMBL ID: CHEMBL2107771
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ESKETAMINE
+ChEMBL ID: CHEMBL395091
+Mechanism of Action: NEGATIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: ESKETAMINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL2364609
+Mechanism of Action: NEGATIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: NERAMEXANE MESYLATE
+ChEMBL ID: CHEMBL2106798
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PERZINFOTEL
+ChEMBL ID: CHEMBL452461
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule

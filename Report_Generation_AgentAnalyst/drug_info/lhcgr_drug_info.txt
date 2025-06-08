@@ -1,0 +1,36 @@
+Drug and clinical candidate information for lhcgr (ChEMBL ID: CHEMBL1854):
+
+Molecule: LUTROPIN ALFA
+ChEMBL ID: CHEMBL1201419
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2000
+
+Molecule: CHORIOGONADOTROPIN ALFA
+ChEMBL ID: CHEMBL1201464
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2000
+
+Molecule: GONADOTROPIN, CHORIONIC
+ChEMBL ID: CHEMBL1201509
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1973
+
+Molecule: LH (MENOTROPINS)
+ChEMBL ID: CHEMBL1201697
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1975
+
+Molecule: MENOTROPINS
+ChEMBL ID: CHEMBL2108427
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1975

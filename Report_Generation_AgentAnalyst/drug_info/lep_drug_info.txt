@@ -1,0 +1,13 @@
+
+Molecule: METRELEPTIN
+ChEMBL ID: CHEMBL2107857
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2014
+
+Molecule: MIBAVADEMAB
+ChEMBL ID: CHEMBL4650509
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Antibody

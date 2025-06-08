@@ -1,0 +1,193 @@
+
+Molecule: TRICHLORFON
+ChEMBL ID: CHEMBL167150
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: QUINAPRIL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201011
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: TRANDOLAPRIL
+ChEMBL ID: CHEMBL1519
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: MOEXIPRIL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200534
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1995
+
+Molecule: ENALAPRILAT
+ChEMBL ID: CHEMBL3989406
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1988
+
+Molecule: RAMIPRIL
+ChEMBL ID: CHEMBL1168
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: FOSINOPRIL SODIUM
+ChEMBL ID: CHEMBL3039596
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: BENAZEPRIL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1694
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: CAPTOPRIL
+ChEMBL ID: CHEMBL1560
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1981
+
+Molecule: PERINDOPRIL ERBUMINE
+ChEMBL ID: CHEMBL1200343
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1993
+
+Molecule: LISINOPRIL
+ChEMBL ID: CHEMBL419213
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: ENALAPRIL MALEATE
+ChEMBL ID: CHEMBL1200659
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: SPIRAPRIL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200831
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1994
+
+Molecule: PERINDOPRIL ARGININE
+ChEMBL ID: CHEMBL3544986
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: CILAZAPRIL
+ChEMBL ID: CHEMBL515606
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: IMIDAPRIL
+ChEMBL ID: CHEMBL317094
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1993
+
+Molecule: DELAPRIL
+ChEMBL ID: CHEMBL589583
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ILEPATRIL
+ChEMBL ID: CHEMBL3187812
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CLOPIDOGREL BISULFATE
+ChEMBL ID: CHEMBL1083385
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: TICLOPIDINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1717
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1991
+
+Molecule: TICAGRELOR
+ChEMBL ID: CHEMBL398435
+Mechanism of Action: NEGATIVE ALLOSTERIC MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2010
+
+Molecule: PRASUGREL HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201773
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: CANGRELOR TETRASODIUM
+ChEMBL ID: CHEMBL1097279
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: ELINOGREL
+ChEMBL ID: CHEMBL2103828
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: REGRELOR DISODIUM
+ChEMBL ID: CHEMBL261244
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SELATOGREL
+ChEMBL ID: CHEMBL4297589
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ENSITUXIMAB
+ChEMBL ID: CHEMBL1743013
+Mechanism of Action: OTHER
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: YTTRIUM Y 90 CLIVATUZUMAB TETRAXETAN
+ChEMBL ID: CHEMBL2108708
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: CLIVATUZUMAB TETRAXETAN
+ChEMBL ID: CHEMBL3301586
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody drug conjugate

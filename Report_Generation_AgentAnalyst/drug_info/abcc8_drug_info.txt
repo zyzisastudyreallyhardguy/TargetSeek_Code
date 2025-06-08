@@ -1,0 +1,100 @@
+
+Molecule: GLIMEPIRIDE
+ChEMBL ID: CHEMBL1481
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1995
+
+Molecule: GLYBURIDE
+ChEMBL ID: CHEMBL472
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1984
+
+Molecule: CHLORPROPAMIDE
+ChEMBL ID: CHEMBL498
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1958
+
+Molecule: TOLBUTAMIDE SODIUM, STERILE
+ChEMBL ID: CHEMBL1200874
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1961
+
+Molecule: GLIPIZIDE
+ChEMBL ID: CHEMBL1073
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1984
+
+Molecule: ACETOHEXAMIDE
+ChEMBL ID: CHEMBL1589
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1964
+
+Molecule: TOLAZAMIDE
+ChEMBL ID: CHEMBL817
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1966
+
+Molecule: REPAGLINIDE
+ChEMBL ID: CHEMBL1272
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: NATEGLINIDE
+ChEMBL ID: CHEMBL783
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2000
+
+Molecule: TOLBUTAMIDE
+ChEMBL ID: CHEMBL782
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1961
+
+Molecule: MITIGLINIDE CALCIUM DIHYDRATE
+ChEMBL ID: CHEMBL4298005
+Mechanism of Action: BLOCKER
+Max Phase: 3.0
+Molecule Type: Unknown
+
+Molecule: GLICLAZIDE
+ChEMBL ID: CHEMBL427216
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: MITIGLINIDE
+ChEMBL ID: CHEMBL471498
+Mechanism of Action: BLOCKER
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: SARAKALIM
+ChEMBL ID: CHEMBL2104449
+Mechanism of Action: OPENER
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: NAMINIDIL
+ChEMBL ID: CHEMBL2105160
+Mechanism of Action: OPENER
+Max Phase: 2.0
+Molecule Type: Small molecule

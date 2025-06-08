@@ -1,0 +1,30 @@
+
+Molecule: TARIQUIDAR
+ChEMBL ID: CHEMBL348475
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ZOSUQUIDAR
+ChEMBL ID: CHEMBL444172
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BIRICODAR
+ChEMBL ID: CHEMBL350775
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ENCEQUIDAR
+ChEMBL ID: CHEMBL4594298
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: VALSPODAR
+ChEMBL ID: CHEMBL1086218
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Protein

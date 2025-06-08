@@ -1,0 +1,20 @@
+Drug and clinical candidate information for ndufb2 (ChEMBL ID: CHEMBL2363065):
+
+Molecule: METFORMIN HYDROCHLORIDE
+ChEMBL ID: CHEMBL1703
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1995
+
+Molecule: ME-344
+ChEMBL ID: CHEMBL5314386
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: NV-128
+ChEMBL ID: CHEMBL3545135
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule

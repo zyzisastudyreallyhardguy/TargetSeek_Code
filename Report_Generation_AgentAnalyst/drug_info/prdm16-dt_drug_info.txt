@@ -1,0 +1,12 @@
+
+Molecule: KHK-2866
+ChEMBL ID: CHEMBL2109437
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: VATIQUINONE
+ChEMBL ID: CHEMBL1812161
+Mechanism of Action: MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule

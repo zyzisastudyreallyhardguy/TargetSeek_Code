@@ -1,0 +1,20 @@
+
+Molecule: ABATACEPT
+ChEMBL ID: CHEMBL1201823
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2006
+
+Molecule: BELATACEPT
+ChEMBL ID: CHEMBL1742990
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2011
+
+Molecule: GALIXIMAB
+ChEMBL ID: CHEMBL2109191
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody

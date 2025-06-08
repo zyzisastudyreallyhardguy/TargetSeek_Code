@@ -1,0 +1,7 @@
+
+Molecule: MIPOMERSEN SODIUM
+ChEMBL ID: CHEMBL502097
+Mechanism of Action: ANTISENSE INHIBITOR
+Max Phase: 4.0
+Molecule Type: Oligonucleotide
+First Approval: 2013

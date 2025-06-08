@@ -1,0 +1,119 @@
+
+Molecule: AZILSARTAN KAMEDOXOMIL
+ChEMBL ID: CHEMBL2103795
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2011
+
+Molecule: LOSARTAN POTASSIUM
+ChEMBL ID: CHEMBL995
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1995
+
+Molecule: IRBESARTAN
+ChEMBL ID: CHEMBL1513
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: VALSARTAN
+ChEMBL ID: CHEMBL1069
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: SARALASIN ACETATE
+ChEMBL ID: CHEMBL1200670
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1982
+
+Molecule: OLMESARTAN MEDOXOMIL
+ChEMBL ID: CHEMBL1200692
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2002
+
+Molecule: CANDESARTAN CILEXETIL
+ChEMBL ID: CHEMBL1014
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1998
+
+Molecule: EPROSARTAN MESYLATE
+ChEMBL ID: CHEMBL1200987
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: TELMISARTAN
+ChEMBL ID: CHEMBL1017
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1998
+
+Molecule: SPARSENTAN
+ChEMBL ID: CHEMBL539423
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: PRATOSARTAN
+ChEMBL ID: CHEMBL41194
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: OLMESARTAN
+ChEMBL ID: CHEMBL1516
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AZILSARTAN
+ChEMBL ID: CHEMBL57242
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TASOSARTAN
+ChEMBL ID: CHEMBL432162
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CANDESARTAN
+ChEMBL ID: CHEMBL1016
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ANGIOTENSIN II ACETATE
+ChEMBL ID: CHEMBL3989932
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2017
+
+Molecule: FIMASARTAN
+ChEMBL ID: CHEMBL1951143
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TRV-120027
+ChEMBL ID: CHEMBL4297447
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Protein

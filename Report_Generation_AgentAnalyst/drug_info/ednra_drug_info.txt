@@ -1,0 +1,104 @@
+Drug and clinical candidate information for ednra (ChEMBL ID: CHEMBL252):
+
+Molecule: SPARSENTAN
+ChEMBL ID: CHEMBL539423
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: NEBENTAN
+ChEMBL ID: CHEMBL2107760
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ENRASENTAN
+ChEMBL ID: CHEMBL431651
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ZIBOTENTAN
+ChEMBL ID: CHEMBL1628688
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ATRASENTAN HYDROCHLORIDE
+ChEMBL ID: CHEMBL2106068
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TEZOSENTAN
+ChEMBL ID: CHEMBL61780
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AVOSENTAN
+ChEMBL ID: CHEMBL3989834
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CLAZOSENTAN
+ChEMBL ID: CHEMBL109648
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: DARUSENTAN
+ChEMBL ID: CHEMBL23261
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BQ-123
+ChEMBL ID: CHEMBL1269102
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+Drug and clinical candidate information for ednra (ChEMBL ID: CHEMBL2096678):
+
+Molecule: BOSENTAN
+ChEMBL ID: CHEMBL957
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2001
+
+Molecule: AMBRISENTAN
+ChEMBL ID: CHEMBL1111
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2007
+
+Molecule: MACITENTAN
+ChEMBL ID: CHEMBL2103873
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2010
+
+Molecule: SITAXENTAN
+ChEMBL ID: CHEMBL282724
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: SITAXENTAN SODIUM
+ChEMBL ID: CHEMBL2105740
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: APROCITENTAN
+ChEMBL ID: CHEMBL2165326
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule

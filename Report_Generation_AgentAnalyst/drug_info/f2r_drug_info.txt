@@ -1,0 +1,20 @@
+Drug and clinical candidate information for f2r (ChEMBL ID: CHEMBL3974):
+
+Molecule: VORAPAXAR SULFATE
+ChEMBL ID: CHEMBL2107386
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2014
+
+Molecule: ATOPAXAR
+ChEMBL ID: CHEMBL2103856
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PZ-128
+ChEMBL ID: CHEMBL4297323
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Protein

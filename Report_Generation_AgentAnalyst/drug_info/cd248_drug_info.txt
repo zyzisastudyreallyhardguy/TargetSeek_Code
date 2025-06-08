@@ -1,0 +1,6 @@
+
+Molecule: ONTUXIZUMAB
+ChEMBL ID: CHEMBL2364659
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody

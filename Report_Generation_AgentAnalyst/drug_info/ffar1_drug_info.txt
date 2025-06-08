@@ -1,0 +1,18 @@
+
+Molecule: LY2881835
+ChEMBL ID: CHEMBL3915620
+Mechanism of Action: AGONIST
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: FASIGLIFAM
+ChEMBL ID: CHEMBL1829174
+Mechanism of Action: POSITIVE ALLOSTERIC MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: SETOGEPRAM
+ChEMBL ID: CHEMBL4297635
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule

@@ -1,0 +1,97 @@
+
+Molecule: LIRAGLUTIDE
+ChEMBL ID: CHEMBL4084119
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2010
+
+Molecule: EXENATIDE
+ChEMBL ID: CHEMBL414357
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2005
+
+Molecule: ALBIGLUTIDE
+ChEMBL ID: CHEMBL2107841
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2014
+
+Molecule: DULAGLUTIDE
+ChEMBL ID: CHEMBL2108027
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2014
+
+Molecule: TASPOGLUTIDE
+ChEMBL ID: CHEMBL2107860
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: SEMAGLUTIDE
+ChEMBL ID: CHEMBL2108724
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2017
+
+Molecule: LIXISENATIDE
+ChEMBL ID: CHEMBL2108336
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2013
+
+Molecule: DANUGLIPRON
+ChEMBL ID: CHEMBL4518483
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: COTADUTIDE
+ChEMBL ID: CHEMBL4297630
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: EFINOPEGDUTIDE
+ChEMBL ID: CHEMBL4297576
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: AVEXITIDE
+ChEMBL ID: CHEMBL4297949
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: EFPEGLENATIDE
+ChEMBL ID: CHEMBL4650470
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: TIRZEPATIDE
+ChEMBL ID: CHEMBL4297839
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2022
+
+Molecule: PEGAPAMODUTIDE
+ChEMBL ID: CHEMBL3990012
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+
+Molecule: PEGSEBRENATIDE
+ChEMBL ID: CHEMBL4650495
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein

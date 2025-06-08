@@ -1,0 +1,7 @@
+
+Molecule: EZETIMIBE
+ChEMBL ID: CHEMBL1138
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2002

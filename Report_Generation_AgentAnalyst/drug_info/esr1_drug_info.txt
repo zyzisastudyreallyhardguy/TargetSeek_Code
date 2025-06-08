@@ -1,0 +1,311 @@
+
+Molecule: POLYESTRADIOL PHOSPHATE
+ChEMBL ID: CHEMBL1201477
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1957
+
+Molecule: TAMOXIFEN CITRATE
+ChEMBL ID: CHEMBL786
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1977
+
+Molecule: ESTRONE
+ChEMBL ID: CHEMBL1405
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1979
+
+Molecule: ESTRADIOL
+ChEMBL ID: CHEMBL135
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1975
+
+Molecule: ESTRADIOL ACETATE
+ChEMBL ID: CHEMBL1200430
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2003
+
+Molecule: ESTRADIOL VALERATE
+ChEMBL ID: CHEMBL1511
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2010
+
+Molecule: CLOMIPHENE CITRATE
+ChEMBL ID: CHEMBL3185958
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1967
+
+Molecule: ETHINYL ESTRADIOL
+ChEMBL ID: CHEMBL691
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2001
+
+Molecule: DIENESTROL
+ChEMBL ID: CHEMBL1018
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1947
+
+Molecule: ESTRADIOL CYPIONATE
+ChEMBL ID: CHEMBL1200973
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1979
+
+Molecule: ESTROPIPATE
+ChEMBL ID: CHEMBL1200980
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1977
+
+Molecule: MESTRANOL
+ChEMBL ID: CHEMBL1201151
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1961
+
+Molecule: DIETHYLSTILBESTROL
+ChEMBL ID: CHEMBL411
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1973
+
+Molecule: SR16234
+ChEMBL ID: CHEMBL3545210
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ELACESTRANT
+ChEMBL ID: CHEMBL4297509
+Mechanism of Action: DEGRADER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: BRILANESTRANT
+ChEMBL ID: CHEMBL3581693
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: GTX-758
+ChEMBL ID: CHEMBL3545017
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ENCLOMIPHENE
+ChEMBL ID: CHEMBL954
+Mechanism of Action: MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CAMIZESTRANT
+ChEMBL ID: CHEMBL4650365
+Mechanism of Action: DEGRADER
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AMCENESTRANT
+ChEMBL ID: CHEMBL4475463
+Mechanism of Action: DEGRADER
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: GIREDESTRANT
+ChEMBL ID: CHEMBL4650316
+Mechanism of Action: DEGRADER
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ELACESTRANT HYDROCHLORIDE
+ChEMBL ID: CHEMBL4594273
+Mechanism of Action: DEGRADER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: ESTROGENS, ESTERIFIED
+ChEMBL ID: CHEMBL1201468
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Unknown
+First Approval: 1977
+
+Molecule: ESTROGENS, CONJUGATED SYNTHETIC A
+ChEMBL ID: CHEMBL1201466
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1999
+
+Molecule: ESTROGENS, CONJUGATED
+ChEMBL ID: CHEMBL1201649
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Unknown
+First Approval: 1942
+
+Molecule: SYNTHETIC CONJUGATED ESTROGENS, B
+ChEMBL ID: CHEMBL1201467
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2004
+
+Molecule: OSPEMIFENE
+ChEMBL ID: CHEMBL2105395
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2013
+
+Molecule: DIETHYLSTILBESTROL DIPHOSPHATE
+ChEMBL ID: CHEMBL1200598
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: QUINESTROL
+ChEMBL ID: CHEMBL1201165
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: FULVESTRANT
+ChEMBL ID: CHEMBL1358
+Mechanism of Action: ANTAGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2002
+
+Molecule: TOREMIFENE CITRATE
+ChEMBL ID: CHEMBL1200675
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: BAZEDOXIFENE ACETATE
+ChEMBL ID: CHEMBL2106615
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: CHF4227
+ChEMBL ID: CHEMBL3545355
+Mechanism of Action: MODULATOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: FISPEMIFENE
+ChEMBL ID: CHEMBL2107341
+Mechanism of Action: MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LY2245461
+ChEMBL ID: CHEMBL3545389
+Mechanism of Action: MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: IDOXIFENE
+ChEMBL ID: CHEMBL6318
+Mechanism of Action: MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MK-6913
+ChEMBL ID: CHEMBL3545274
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AFIMOXIFENE
+ChEMBL ID: CHEMBL489
+Mechanism of Action: MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: DROLOXIFENE
+ChEMBL ID: CHEMBL487
+Mechanism of Action: MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ACOLBIFENE
+ChEMBL ID: CHEMBL68055
+Mechanism of Action: MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ARZOXIFENE
+ChEMBL ID: CHEMBL226267
+Mechanism of Action: MODULATOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CYCLOFENIL
+ChEMBL ID: CHEMBL141305
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: ALLYLESTRENOL
+ChEMBL ID: CHEMBL2105618
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: ESTRIOL
+ChEMBL ID: CHEMBL193482
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2000
+
+Molecule: LASOFOXIFENE
+ChEMBL ID: CHEMBL328190
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: ESTETROL
+ChEMBL ID: CHEMBL1230314
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021
+
+Molecule: LASOFOXIFENE TARTRATE
+ChEMBL ID: CHEMBL5315115
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009

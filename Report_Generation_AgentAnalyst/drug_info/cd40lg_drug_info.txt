@@ -1,0 +1,36 @@
+
+Molecule: RUPLIZUMAB
+ChEMBL ID: CHEMBL2108767
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: TORALIZUMAB
+ChEMBL ID: CHEMBL2108747
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: DAPIROLIZUMAB PEGOL
+ChEMBL ID: CHEMBL2109478
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: RAVAGALIMAB
+ChEMBL ID: CHEMBL4298212
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: TEGOPRUBART
+ChEMBL ID: CHEMBL4594460
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: DAZODALIBEP
+ChEMBL ID: CHEMBL4594331
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Protein

@@ -1,0 +1,61 @@
+
+Molecule: LEBRIKIZUMAB
+ChEMBL ID: CHEMBL1743035
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: TRALOKINUMAB
+ChEMBL ID: CHEMBL1743081
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2021
+
+Molecule: ANRUKINZUMAB
+ChEMBL ID: CHEMBL1742985
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: QAX-576
+ChEMBL ID: CHEMBL2109465
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: TNX-650
+ChEMBL ID: CHEMBL2109466
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: CNTO-5825
+ChEMBL ID: CHEMBL2109464
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: ROMILKIMAB
+ChEMBL ID: CHEMBL4298097
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: CENDAKIMAB
+ChEMBL ID: CHEMBL4297864
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: CINTREDEKIN BESUDOTOX
+ChEMBL ID: CHEMBL2108583
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: CINTREDEKIN BESUDOTOX
+ChEMBL ID: CHEMBL2108583
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Protein

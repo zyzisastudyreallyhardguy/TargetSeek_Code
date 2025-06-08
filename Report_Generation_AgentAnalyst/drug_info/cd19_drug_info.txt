@@ -1,0 +1,103 @@
+
+Molecule: BLINATUMOMAB
+ChEMBL ID: CHEMBL1742992
+Mechanism of Action: CROSS-LINKING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2014
+
+Molecule: TAPLITUMOMAB PAPTOX
+ChEMBL ID: CHEMBL2107890
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: COLTUXIMAB RAVTANSINE
+ChEMBL ID: CHEMBL2109286
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: ONCOLYSIN B
+ChEMBL ID: CHEMBL2109308
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: INEBILIZUMAB
+ChEMBL ID: CHEMBL2109334
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2020
+
+Molecule: DENINTUZUMAB MAFODOTIN
+ChEMBL ID: CHEMBL3545371
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: DENINTUZUMAB
+ChEMBL ID: CHEMBL3544992
+Mechanism of Action: BINDING AGENT
+Max Phase: -1.0
+Molecule Type: Antibody
+
+Molecule: MDX-1342
+ChEMBL ID: CHEMBL2109337
+Mechanism of Action: BINDING AGENT
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: AMG-729
+ChEMBL ID: CHEMBL2109338
+Mechanism of Action: BINDING AGENT
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: AXICABTAGENE CILOLEUCEL
+ChEMBL ID: CHEMBL3989989
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Gene
+First Approval: 2018
+
+Molecule: TISAGENLECLEUCEL
+ChEMBL ID: CHEMBL3301574
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Cell
+First Approval: 2018
+
+Molecule: TAFASITAMAB
+ChEMBL ID: CHEMBL4298047
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2020
+
+Molecule: BREXUCABTAGENE AUTOLEUCEL
+ChEMBL ID: CHEMBL4594618
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Gene
+First Approval: 2020
+
+Molecule: LONCASTUXIMAB TESIRINE
+ChEMBL ID: CHEMBL4297778
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody drug conjugate
+First Approval: 2021
+
+Molecule: LISOCABTAGENE MARALEUCEL
+ChEMBL ID: CHEMBL4297236
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Gene
+
+Molecule: OBEXELIMAB
+ChEMBL ID: CHEMBL4298134
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody

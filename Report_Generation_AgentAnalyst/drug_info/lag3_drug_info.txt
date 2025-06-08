@@ -1,0 +1,37 @@
+
+Molecule: IERAMILIMAB
+ChEMBL ID: CHEMBL4298009
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: RELATLIMAB
+ChEMBL ID: CHEMBL3990044
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2022
+
+Molecule: FIANLIMAB
+ChEMBL ID: CHEMBL4298085
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: FAVEZELIMAB
+ChEMBL ID: CHEMBL4297784
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: TEBOTELIMAB
+ChEMBL ID: CHEMBL4594578
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: EFTILAGIMOD ALFA
+ChEMBL ID: CHEMBL4594557
+Mechanism of Action: VACCINE ANTIGEN
+Max Phase: 2.0
+Molecule Type: Unknown

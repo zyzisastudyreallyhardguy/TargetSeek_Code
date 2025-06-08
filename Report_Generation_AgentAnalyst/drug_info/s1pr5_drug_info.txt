@@ -1,0 +1,27 @@
+
+Molecule: ETRASIMOD ARGININE
+ChEMBL ID: CHEMBL3989933
+Mechanism of Action: MODULATOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: FINGOLIMOD HYDROCHLORIDE
+ChEMBL ID: CHEMBL544665
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2010
+
+Molecule: AMISELIMOD HYDROCHLORIDE
+ChEMBL ID: CHEMBL3707374
+Mechanism of Action: MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FINGOLIMOD LAURYL SULFATE
+ChEMBL ID: CHEMBL5095050
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021

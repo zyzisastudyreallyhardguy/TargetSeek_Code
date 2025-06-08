@@ -1,0 +1,213 @@
+
+Molecule: BAY-1082439
+ChEMBL ID: CHEMBL3644672
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: FIMEPINOSTAT
+ChEMBL ID: CHEMBL3622533
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SERABELISIB
+ChEMBL ID: CHEMBL3935857
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PKI-179
+ChEMBL ID: CHEMBL1258517
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PWT-33579
+ChEMBL ID: CHEMBL3545323
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: ALPELISIB
+ChEMBL ID: CHEMBL2396661
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: COPANLISIB HYDROCHLORIDE
+ChEMBL ID: CHEMBL3545068
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: COPANLISIB
+ChEMBL ID: CHEMBL3218576
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: INAVOLISIB
+ChEMBL ID: CHEMBL4650215
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AZD-6482
+ChEMBL ID: CHEMBL2165191
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DS-7423
+ChEMBL ID: CHEMBL3545248
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: GSK-1059615
+ChEMBL ID: CHEMBL3544966
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: OMIPALISIB
+ChEMBL ID: CHEMBL1236962
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RECILISIB
+ChEMBL ID: CHEMBL2219421
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PANULISIB
+ChEMBL ID: CHEMBL5095025
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: IZORLISIB
+ChEMBL ID: CHEMBL1684984
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PWT-33587
+ChEMBL ID: CHEMBL3545006
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PAXALISIB
+ChEMBL ID: CHEMBL3813842
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SF-1126
+ChEMBL ID: CHEMBL2326966
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VS-5584
+ChEMBL ID: CHEMBL1079593
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: WX-037
+ChEMBL ID: CHEMBL3545385
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PUQUITINIB MESYLATE DIHYDRATE
+ChEMBL ID: CHEMBL4596972
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: DACTOLISIB
+ChEMBL ID: CHEMBL1879463
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BGT-226
+ChEMBL ID: CHEMBL3545096
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BUPARLISIB
+ChEMBL ID: CHEMBL2017974
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PF-04691502
+ChEMBL ID: CHEMBL1234354
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: GEDATOLISIB
+ChEMBL ID: CHEMBL592445
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: SONOLISIB
+ChEMBL ID: CHEMBL411907
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PICTILISIB
+ChEMBL ID: CHEMBL521851
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: APITOLISIB
+ChEMBL ID: CHEMBL1922094
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TASELISIB
+ChEMBL ID: CHEMBL2387080
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PILARALISIB
+ChEMBL ID: CHEMBL3360203
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VOXTALISIB
+ChEMBL ID: CHEMBL3545366
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ZSTK-474
+ChEMBL ID: CHEMBL586702
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SAMOTOLISIB
+ChEMBL ID: CHEMBL4297181
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

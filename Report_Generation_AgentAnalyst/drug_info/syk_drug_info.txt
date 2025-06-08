@@ -1,0 +1,86 @@
+
+Molecule: CERDULATINIB
+ChEMBL ID: CHEMBL4116008
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SOVLEPLENIB
+ChEMBL ID: CHEMBL5095034
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PRT-2607
+ChEMBL ID: CHEMBL3545138
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: R-348
+ChEMBL ID: CHEMBL5314384
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MIVAVOTINIB CITRATE
+ChEMBL ID: CHEMBL4594253
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ENTOSPLETINIB
+ChEMBL ID: CHEMBL3265032
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: R-112
+ChEMBL ID: CHEMBL515271
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: R-333
+ChEMBL ID: CHEMBL3545159
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: R-343
+ChEMBL ID: CHEMBL3545340
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: R-406
+ChEMBL ID: CHEMBL475251
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FOSTAMATINIB
+ChEMBL ID: CHEMBL2103830
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: FOSTAMATINIB DISODIUM
+ChEMBL ID: CHEMBL3989516
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: GUSACITINIB
+ChEMBL ID: CHEMBL4594275
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LANRAPLENIB
+ChEMBL ID: CHEMBL3986824
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

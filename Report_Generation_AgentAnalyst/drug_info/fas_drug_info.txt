@@ -1,0 +1,33 @@
+
+Molecule: PYRAZINAMIDE
+ChEMBL ID: CHEMBL614
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1971
+
+Molecule: ASUNERCEPT
+ChEMBL ID: CHEMBL4297886
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: ISONIAZID
+ChEMBL ID: CHEMBL64
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1952
+
+Molecule: ETHIONAMIDE
+ChEMBL ID: CHEMBL1441
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1965
+
+Molecule: EMRICASAN
+ChEMBL ID: CHEMBL197672
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

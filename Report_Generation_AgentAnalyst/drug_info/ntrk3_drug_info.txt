@@ -1,0 +1,83 @@
+
+Molecule: AZD-7451
+ChEMBL ID: CHEMBL3659497
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PLX-7486
+ChEMBL ID: CHEMBL3545381
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: LESTAURTINIB
+ChEMBL ID: CHEMBL603469
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: REPOTRECTINIB
+ChEMBL ID: CHEMBL4298138
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: AZD-6918
+ChEMBL ID: CHEMBL3545298
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: ALTIRATINIB
+ChEMBL ID: CHEMBL3545365
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LAROTRECTINIB
+ChEMBL ID: CHEMBL3889654
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: CEP-2563 DIHYDROCHLORIDE
+ChEMBL ID: CHEMBL5314390
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: CENEGERMIN
+ChEMBL ID: CHEMBL4297852
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2017
+
+Molecule: LAROTRECTINIB SULFATE
+ChEMBL ID: CHEMBL3989939
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: ENTRECTINIB
+ChEMBL ID: CHEMBL1983268
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: SELITRECTINIB
+ChEMBL ID: CHEMBL4297627
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TALETRECTINIB
+ChEMBL ID: CHEMBL4650989
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

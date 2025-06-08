@@ -1,0 +1,34 @@
+
+Molecule: REPOTRECTINIB
+ChEMBL ID: CHEMBL4298138
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: REPOTRECTINIB
+ChEMBL ID: CHEMBL4298138
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: ENTRECTINIB
+ChEMBL ID: CHEMBL1983268
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: TALETRECTINIB
+ChEMBL ID: CHEMBL4650989
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: REPOTRECTINIB
+ChEMBL ID: CHEMBL4298138
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023

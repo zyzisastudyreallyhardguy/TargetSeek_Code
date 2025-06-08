@@ -1,0 +1,57 @@
+Drug and clinical candidate information for calcr (ChEMBL ID: CHEMBL1832):
+
+Molecule: CALCITONIN HUMAN
+ChEMBL ID: CHEMBL4594248
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1986
+
+Molecule: CALCITONIN SALMON
+ChEMBL ID: CHEMBL3989767
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 1978
+
+Molecule: SMC021
+ChEMBL ID: CHEMBL3545415
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Protein
+
+Molecule: CALCITONIN
+ChEMBL ID: CHEMBL4594242
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+Drug and clinical candidate information for calcr (ChEMBL ID: CHEMBL2111189):
+
+Molecule: PRAMLINTIDE ACETATE
+ChEMBL ID: CHEMBL3833353
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2005
+
+Molecule: DAVALINTIDE
+ChEMBL ID: CHEMBL2105635
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein
+Drug and clinical candidate information for calcr (ChEMBL ID: CHEMBL2111190):
+
+Molecule: PRAMLINTIDE ACETATE
+ChEMBL ID: CHEMBL3833353
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2005
+Drug and clinical candidate information for calcr (ChEMBL ID: CHEMBL2364173):
+
+Molecule: PRAMLINTIDE ACETATE
+ChEMBL ID: CHEMBL3833353
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2005

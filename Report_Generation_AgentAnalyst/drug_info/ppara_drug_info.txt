@@ -1,0 +1,169 @@
+
+Molecule: CHOLINE FENOFIBRATE
+ChEMBL ID: CHEMBL1201745
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2008
+
+Molecule: GEMFIBROZIL
+ChEMBL ID: CHEMBL457
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1981
+
+Molecule: FENOFIBRATE
+ChEMBL ID: CHEMBL672
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1993
+
+Molecule: CLOFIBRATE
+ChEMBL ID: CHEMBL565
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1967
+
+Molecule: FENOFIBRIC ACID
+ChEMBL ID: CHEMBL981
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: ZYH7
+ChEMBL ID: CHEMBL3545093
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CP-778875
+ChEMBL ID: CHEMBL5314385
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LY-518674
+ChEMBL ID: CHEMBL424133
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DRF-10945
+ChEMBL ID: CHEMBL3545394
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: GW590735
+ChEMBL ID: CHEMBL219586
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AVE8134
+ChEMBL ID: CHEMBL3545334
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: NAVEGLITAZAR
+ChEMBL ID: CHEMBL181954
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: K-877
+ChEMBL ID: CHEMBL3545412
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: IMIGLITAZAR
+ChEMBL ID: CHEMBL592054
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ALEGLITAZAR
+ChEMBL ID: CHEMBL519504
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: MURAGLITAZAR
+ChEMBL ID: CHEMBL186179
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TESAGLITAZAR
+ChEMBL ID: CHEMBL282686
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CIPROFIBRATE
+ChEMBL ID: CHEMBL557555
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: PEMAFIBRATE
+ChEMBL ID: CHEMBL247951
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: SAROGLITAZAR
+ChEMBL ID: CHEMBL4297530
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ELAFIBRANOR
+ChEMBL ID: CHEMBL3707395
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: MK-0767
+ChEMBL ID: CHEMBL4297404
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: INDEGLITAZAR
+ChEMBL ID: CHEMBL1232583
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SODELGLITAZAR
+ChEMBL ID: CHEMBL2104984
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BEZAFIBRATE
+ChEMBL ID: CHEMBL264374
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: LANIFIBRANOR
+ChEMBL ID: CHEMBL4091374
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CHIGLITAZAR
+ChEMBL ID: CHEMBL4650349
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule

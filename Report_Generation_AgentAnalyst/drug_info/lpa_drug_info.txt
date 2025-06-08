@@ -1,0 +1,18 @@
+
+Molecule: OLPASIRAN
+ChEMBL ID: CHEMBL4650413
+Mechanism of Action: RNAI INHIBITOR
+Max Phase: 3.0
+Molecule Type: Oligonucleotide
+
+Molecule: PELACARSEN
+ChEMBL ID: CHEMBL4298202
+Mechanism of Action: ANTISENSE INHIBITOR
+Max Phase: 3.0
+Molecule Type: Oligonucleotide
+
+Molecule: BMS-986020
+ChEMBL ID: CHEMBL4297270
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule

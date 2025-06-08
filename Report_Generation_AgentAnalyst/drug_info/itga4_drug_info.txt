@@ -1,0 +1,45 @@
+
+Molecule: UCB-1184197
+ChEMBL ID: CHEMBL4297363
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: NATALIZUMAB
+ChEMBL ID: CHEMBL1201607
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2004
+
+Molecule: VEDOLIZUMAB
+ChEMBL ID: CHEMBL1743087
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2014
+
+Molecule: FIRATEGRAST
+ChEMBL ID: CHEMBL2104967
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ABRILUMAB
+ChEMBL ID: CHEMBL3137351
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: NATALIZUMAB
+ChEMBL ID: CHEMBL1201607
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2004
+
+Molecule: FIRATEGRAST
+ChEMBL ID: CHEMBL2104967
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule

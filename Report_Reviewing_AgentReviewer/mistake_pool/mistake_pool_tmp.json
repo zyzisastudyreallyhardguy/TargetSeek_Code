@@ -1,0 +1,18 @@
+{
+    "Included irrelevant content to the target gene": "The row in the table is not **directly** related to the gene of interest||Action: Delete the content.",
+    "Logical error": "A mutation cannot simultaneously be both gain of function and loss of function||Action: You should remove one of them.",
+    "Redundant reference": "Some references are not used. ||Action: Delete the references.",
+    "Incorrect reference": "The reference provided does not support the claim made in the report||Action: Delete the relevant content and the references, unless you find the correct one that supports the claim.",
+    "Incorrect Genetic Loci": "The genetic loci associated with the amino acid change is incorrect||Action: Update the genetic loci to the correct one.",
+    "Incomplete Traits Association": "The traits associated with the genetic variant are incomplete||Action: Update the traits to include all relevant associations.",
+    "Unverified Genetic Loci and Amino Acid Change Association": "The association of the genetic loci with the amino acid change is not verified||Action: Verify the genetic loci and amino acid change from a reliable database or source before including it in the report.",
+    "Incorrect Reference Citations and Claims": "Not all references support the associated claims, and some claims were found to be incorrect||Action: Update the references to ensure they correctly support the claims for the respective genetic loci and amino acid changes. Specifically, remove incorrect rows and verify the correct information before citation.",
+    "Outdated Information": "The status or details of the drug in the pipeline are not current||Action: Update the status or details based on the latest available information.",
+    "Incomplete Adverse Effects Description": "The safety profile section does not include all potential side effects||Action: Update the safety profile to include gastrointestinal disorders, infections, and any other potential side effects reported.",
+    "Unbalanced Safety View": "The reporting of adverse events for a drug is incomplete, missing significant severe adverse events||Action: Include instances of significant severe adverse events for a balanced view.",
+    "Misleading Animal Model Translation": "Upregulation in animal models is suggested to translate directly to human adverse effects without clarification||Action: Clarify limitations of animal model studies and indicate that the upregulation may not directly translate to human adverse effects.",
+    "Overgeneralization": "Mouse studies are generalized to human outcomes without clarification||Action: Specify that mouse studies provide useful insights but do not perfectly represent the human clinical safety profile.",
+    "Typographical Error": "A typographical error is present in the text||Action: Correct the typo to ensure accurate information.",
+    "Invalid Reference": "The reference cited does not support the specific claim about the genetic variant or associated trait||Action: Find a suitable reference that accurately supports the claim made or use a different reference.",
+    "Unconfirmed Trait Association": "The provided trait association with the genetic variant is not verified in the literature||Action: Verify and update the trait association by consulting reliable scientific sources."
+}

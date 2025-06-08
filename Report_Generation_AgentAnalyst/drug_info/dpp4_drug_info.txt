@@ -1,0 +1,120 @@
+
+Molecule: ALOGLIPTIN BENZOATE
+ChEMBL ID: CHEMBL227529
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2013
+
+Molecule: SITAGLIPTIN PHOSPHATE
+ChEMBL ID: CHEMBL1201174
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: LINAGLIPTIN
+ChEMBL ID: CHEMBL237500
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2011
+
+Molecule: SAXAGLIPTIN HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201743
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: GOSOGLIPTIN
+ChEMBL ID: CHEMBL515387
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2016
+
+Molecule: CARMEGLIPTIN
+ChEMBL ID: CHEMBL591118
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TRELAGLIPTIN SUCCINATE
+ChEMBL ID: CHEMBL2105754
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: OMARIGLIPTIN
+ChEMBL ID: CHEMBL2105762
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: VILDAGLIPTIN
+ChEMBL ID: CHEMBL142703
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2007
+
+Molecule: BEGELOMAB
+ChEMBL ID: CHEMBL3833357
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: DUTOGLIPTIN
+ChEMBL ID: CHEMBL4296719
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: GEMIGLIPTIN
+ChEMBL ID: CHEMBL3707235
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TENELIGLIPTIN
+ChEMBL ID: CHEMBL2147777
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: ANAGLIPTIN
+ChEMBL ID: CHEMBL1929396
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: EVOGLIPTIN
+ChEMBL ID: CHEMBL1779710
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: BISEGLIPTIN
+ChEMBL ID: CHEMBL4297624
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DBPR-108
+ChEMBL ID: CHEMBL1082462
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: SITAGLIPTIN FUMARATE
+ChEMBL ID: CHEMBL5315049
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021

@@ -1,0 +1,133 @@
+
+Molecule: REGORAFENIB
+ChEMBL ID: CHEMBL1946170
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: SORAFENIB TOSYLATE
+ChEMBL ID: CHEMBL1200485
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2005
+
+Molecule: SUNITINIB MALATE
+ChEMBL ID: CHEMBL1567
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: VANDETANIB
+ChEMBL ID: CHEMBL24828
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2011
+
+Molecule: ALECTINIB HYDROCHLORIDE
+ChEMBL ID: CHEMBL3707320
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: AST-487
+ChEMBL ID: CHEMBL574738
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: CEP-32496
+ChEMBL ID: CHEMBL2029988
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CEP-2563 DIHYDROCHLORIDE
+ChEMBL ID: CHEMBL5314390
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: QUIZARTINIB
+ChEMBL ID: CHEMBL576982
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: LESTAURTINIB
+ChEMBL ID: CHEMBL603469
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: MOTESANIB
+ChEMBL ID: CHEMBL572881
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: SELPERCATINIB
+ChEMBL ID: CHEMBL4559134
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: PRALSETINIB
+ChEMBL ID: CHEMBL4582651
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: BOS-589
+ChEMBL ID: CHEMBL4650296
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: SUNITINIB
+ChEMBL ID: CHEMBL535
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: SELPERCATINIB
+ChEMBL ID: CHEMBL4559134
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: PRALSETINIB
+ChEMBL ID: CHEMBL4582651
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: SELPERCATINIB
+ChEMBL ID: CHEMBL4559134
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: PRALSETINIB
+ChEMBL ID: CHEMBL4582651
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: LIATERMIN
+ChEMBL ID: CHEMBL2108380
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Protein

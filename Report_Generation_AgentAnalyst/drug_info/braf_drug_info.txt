@@ -1,0 +1,107 @@
+
+Molecule: DABRAFENIB MESYLATE
+ChEMBL ID: CHEMBL2105729
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2013
+
+Molecule: REGORAFENIB
+ChEMBL ID: CHEMBL1946170
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: SORAFENIB TOSYLATE
+ChEMBL ID: CHEMBL1200485
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2005
+
+Molecule: VEMURAFENIB
+ChEMBL ID: CHEMBL1229517
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2011
+
+Molecule: ARQ-736
+ChEMBL ID: CHEMBL5314407
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: LIFIRAFENIB
+ChEMBL ID: CHEMBL4209157
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CEP-32496
+ChEMBL ID: CHEMBL2029988
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LGX-806
+ChEMBL ID: CHEMBL3545263
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: LY-3009120
+ChEMBL ID: CHEMBL3577124
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PLIXORAFENIB
+ChEMBL ID: CHEMBL4303729
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RG-7256
+ChEMBL ID: CHEMBL3545080
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: RAF-265
+ChEMBL ID: CHEMBL558752
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: XL-281
+ChEMBL ID: CHEMBL3545027
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ENCORAFENIB
+ChEMBL ID: CHEMBL3301612
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: LXH254
+ChEMBL ID: CHEMBL4583691
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TOVORAFENIB
+ChEMBL ID: CHEMBL3348923
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BELVARAFENIB
+ChEMBL ID: CHEMBL3977543
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

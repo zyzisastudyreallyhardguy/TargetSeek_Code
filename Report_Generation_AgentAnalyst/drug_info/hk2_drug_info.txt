@@ -1,0 +1,47 @@
+
+Molecule: VERNAKALANT HYDROCHLORIDE
+ChEMBL ID: CHEMBL2107383
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2010
+
+Molecule: DALFAMPRIDINE
+ChEMBL ID: CHEMBL284348
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2010
+
+Molecule: GUANIDINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200728
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1939
+
+Molecule: NERISPIRDINE
+ChEMBL ID: CHEMBL2107762
+Mechanism of Action: BLOCKER
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TEDISAMIL
+ChEMBL ID: CHEMBL2111110
+Mechanism of Action: BLOCKER
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AMIFAMPRIDINE
+ChEMBL ID: CHEMBL354077
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009
+
+Molecule: AMIFAMPRIDINE PHOSPHATE
+ChEMBL ID: CHEMBL3301611
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009

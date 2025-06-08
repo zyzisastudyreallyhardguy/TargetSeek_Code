@@ -1,0 +1,181 @@
+
+Molecule: AMLEXANOX
+ChEMBL ID: CHEMBL1096
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: DYPHYLLINE
+ChEMBL ID: CHEMBL1752
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1951
+
+Molecule: ROFLUMILAST
+ChEMBL ID: CHEMBL193240
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2010
+
+Molecule: THEOPHYLLINE
+ChEMBL ID: CHEMBL190
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1940
+
+Molecule: THEOPHYLLINE SODIUM GLYCINATE
+ChEMBL ID: CHEMBL1200578
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: FLAVOXATE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1200875
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1970
+
+Molecule: AMINOPHYLLINE
+ChEMBL ID: CHEMBL1370561
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1940
+
+Molecule: APREMILAST
+ChEMBL ID: CHEMBL514800
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2014
+
+Molecule: OXTRIPHYLLINE
+ChEMBL ID: CHEMBL1200434
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1981
+
+Molecule: CRISABOROLE
+ChEMBL ID: CHEMBL484785
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2016
+
+Molecule: DROTAVERINE
+ChEMBL ID: CHEMBL551978
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: IBUDILAST
+ChEMBL ID: CHEMBL19449
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1989
+
+Molecule: DIFAMILAST
+ChEMBL ID: CHEMBL3989968
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: DOVRAMILAST
+ChEMBL ID: CHEMBL4297460
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TRANIMILAST
+ChEMBL ID: CHEMBL3113974
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: GSK-256066
+ChEMBL ID: CHEMBL570015
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: HT-0712
+ChEMBL ID: CHEMBL4297287
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LOTAMILAST
+ChEMBL ID: CHEMBL3989967
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MK-0873
+ChEMBL ID: CHEMBL485629
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: OGLEMILAST
+ChEMBL ID: CHEMBL4297520
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TOFIMILAST
+ChEMBL ID: CHEMBL217899
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CILOMILAST
+ChEMBL ID: CHEMBL511115
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TETOMILAST
+ChEMBL ID: CHEMBL332750
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ROLIPRAM
+ChEMBL ID: CHEMBL63
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: REVAMILAST
+ChEMBL ID: CHEMBL4297527
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ENSIFENTRINE
+ChEMBL ID: CHEMBL4594287
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PENTOXIFYLLINE
+ChEMBL ID: CHEMBL628
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1984
+
+Molecule: DIPYRIDAMOLE
+ChEMBL ID: CHEMBL932
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1961

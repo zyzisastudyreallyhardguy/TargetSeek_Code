@@ -1,0 +1,6 @@
+
+Molecule: MONGERSEN SODIUM
+ChEMBL ID: CHEMBL3707383
+Mechanism of Action: ANTISENSE INHIBITOR
+Max Phase: 3.0
+Molecule Type: Oligonucleotide

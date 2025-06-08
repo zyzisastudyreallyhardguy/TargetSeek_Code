@@ -1,0 +1,159 @@
+
+Molecule: IBRUTINIB
+ChEMBL ID: CHEMBL1873475
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2013
+
+Molecule: SPEBRUTINIB BESYLATE
+ChEMBL ID: CHEMBL3301600
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: POSELTINIB
+ChEMBL ID: CHEMBL4163691
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TIRABRUTINIB
+ChEMBL ID: CHEMBL4071161
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: MSC-2364447
+ChEMBL ID: CHEMBL3545193
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: ACALABRUTINIB
+ChEMBL ID: CHEMBL3707348
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: ZANUBRUTINIB
+ChEMBL ID: CHEMBL3936761
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2019
+
+Molecule: BRANEBRUTINIB
+ChEMBL ID: CHEMBL4297674
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BMS-986142
+ChEMBL ID: CHEMBL3900554
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: EVOBRUTINIB
+ChEMBL ID: CHEMBL4072833
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ELSUBRUTINIB
+ChEMBL ID: CHEMBL4594348
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FENEBRUTINIB
+ChEMBL ID: CHEMBL4065122
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: POSELTINIB
+ChEMBL ID: CHEMBL4163691
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RILZABRUTINIB
+ChEMBL ID: CHEMBL3702854
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ABIVERTINIB MALEATE
+ChEMBL ID: CHEMBL4297866
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ABIVERTINIB
+ChEMBL ID: CHEMBL4297865
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: VECABRUTINIB
+ChEMBL ID: CHEMBL4297640
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ORELABRUTINIB
+ChEMBL ID: CHEMBL4650321
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PIRTOBRUTINIB
+ChEMBL ID: CHEMBL4650485
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: EDRALBRUTINIB
+ChEMBL ID: CHEMBL4650338
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TOLEBRUTINIB
+ChEMBL ID: CHEMBL4650323
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ACALABRUTINIB MALEATE
+ChEMBL ID: CHEMBL4594293
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2022
+
+Molecule: RITLECITINIB
+ChEMBL ID: CHEMBL4085457
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: RITLECITINIB TOSYLATE
+ChEMBL ID: CHEMBL5314649
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023
+
+Molecule: PAZOPANIB HYDROCHLORIDE
+ChEMBL ID: CHEMBL1201733
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2009

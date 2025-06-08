@@ -1,0 +1,7 @@
+
+Molecule: DENOSUMAB
+ChEMBL ID: CHEMBL1237023
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2010

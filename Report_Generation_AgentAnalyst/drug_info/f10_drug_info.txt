@@ -1,0 +1,85 @@
+
+Molecule: APIXABAN
+ChEMBL ID: CHEMBL231779
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2011
+
+Molecule: RIVAROXABAN
+ChEMBL ID: CHEMBL198362
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2008
+
+Molecule: EDOXABAN TOSYLATE
+ChEMBL ID: CHEMBL2105682
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: BETRIXABAN
+ChEMBL ID: CHEMBL512351
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: IDRAPARINUX SODIUM
+ChEMBL ID: CHEMBL5314374
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Oligosaccharide
+
+Molecule: LETAXABAN
+ChEMBL ID: CHEMBL1095032
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ANTITHROMBIN ALFA
+ChEMBL ID: CHEMBL1201554
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Protein
+First Approval: 2006
+
+Molecule: OTAMIXABAN
+ChEMBL ID: CHEMBL46618
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BEMIPARIN
+ChEMBL ID: CHEMBL3707365
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Oligosaccharide
+
+Molecule: DAREXABAN
+ChEMBL ID: CHEMBL1922235
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: IDRABIOTAPARINUX SODIUM
+ChEMBL ID: CHEMBL4297768
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Oligosaccharide
+
+Molecule: COAGULATION FACTOR X HUMAN
+ChEMBL ID: CHEMBL4297951
+Mechanism of Action: EXOGENOUS PROTEIN
+Max Phase: 4.0
+Molecule Type: Unknown
+First Approval: 2016
+
+Molecule: EMICIZUMAB
+ChEMBL ID: CHEMBL3833393
+Mechanism of Action: OTHER
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2017

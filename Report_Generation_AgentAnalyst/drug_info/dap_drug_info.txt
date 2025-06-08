@@ -1,0 +1,6 @@
+
+Molecule: TOSEDOSTAT
+ChEMBL ID: CHEMBL2103847
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

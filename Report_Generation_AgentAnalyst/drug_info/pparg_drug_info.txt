@@ -1,0 +1,216 @@
+
+Molecule: PIOGLITAZONE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1715
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1999
+
+Molecule: ROSIGLITAZONE MALEATE
+ChEMBL ID: CHEMBL843
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1999
+
+Molecule: TROGLITAZONE
+ChEMBL ID: CHEMBL408
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: BALSALAZIDE DISODIUM
+ChEMBL ID: CHEMBL1200760
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2000
+
+Molecule: MESALAMINE
+ChEMBL ID: CHEMBL704
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: OLSALAZINE SODIUM
+ChEMBL ID: CHEMBL1201013
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1990
+
+Molecule: AVE0847
+ChEMBL ID: CHEMBL3545295
+Mechanism of Action: AGONIST
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: DB959
+ChEMBL ID: CHEMBL3545176
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CLX-0921
+ChEMBL ID: CHEMBL5314405
+Mechanism of Action: AGONIST
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: NETOGLITAZONE
+ChEMBL ID: CHEMBL93747
+Mechanism of Action: MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FARGLITAZAR
+ChEMBL ID: CHEMBL107367
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: NAVEGLITAZAR
+ChEMBL ID: CHEMBL181954
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: OMS405
+ChEMBL ID: CHEMBL5095027
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MK-0533
+ChEMBL ID: CHEMBL490029
+Mechanism of Action: MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MBX-2044
+ChEMBL ID: CHEMBL3545020
+Mechanism of Action: MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: INT131
+ChEMBL ID: CHEMBL1236924
+Mechanism of Action: MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ATX08-001
+ChEMBL ID: CHEMBL3545278
+Mechanism of Action: MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: EFATUTAZONE HYDROCHLORIDE
+ChEMBL ID: CHEMBL3545279
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ARHALOFENATE
+ChEMBL ID: CHEMBL2103824
+Mechanism of Action: MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ETALOCIB
+ChEMBL ID: CHEMBL329123
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: IMIGLITAZAR
+ChEMBL ID: CHEMBL592054
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ALEGLITAZAR
+ChEMBL ID: CHEMBL519504
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: MURAGLITAZAR
+ChEMBL ID: CHEMBL186179
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TESAGLITAZAR
+ChEMBL ID: CHEMBL282686
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BALAGLITAZONE
+ChEMBL ID: CHEMBL2103991
+Mechanism of Action: PARTIAL AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: RIVOGLITAZONE
+ChEMBL ID: CHEMBL2104753
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BARDOXOLONE METHYL
+ChEMBL ID: CHEMBL1762621
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: MK-0767
+ChEMBL ID: CHEMBL4297404
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: SAROGLITAZAR
+ChEMBL ID: CHEMBL4297530
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: LERIGLITAZONE
+ChEMBL ID: CHEMBL1267
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: INDEGLITAZAR
+ChEMBL ID: CHEMBL1232583
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SODELGLITAZAR
+ChEMBL ID: CHEMBL2104984
+Mechanism of Action: AGONIST
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BEZAFIBRATE
+ChEMBL ID: CHEMBL264374
+Mechanism of Action: AGONIST
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: LANIFIBRANOR
+ChEMBL ID: CHEMBL4091374
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CHIGLITAZAR
+ChEMBL ID: CHEMBL4650349
+Mechanism of Action: AGONIST
+Max Phase: 3.0
+Molecule Type: Small molecule

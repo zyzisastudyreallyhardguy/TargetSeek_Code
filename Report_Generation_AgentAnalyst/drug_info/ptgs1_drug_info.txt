@@ -1,0 +1,418 @@
+
+Molecule: ALCLOFENAC
+ChEMBL ID: CHEMBL94081
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: ANTIPYRINE
+ChEMBL ID: CHEMBL277474
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: MOFEZOLAC
+ChEMBL ID: CHEMBL259972
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1994
+
+Molecule: TEPOXALIN
+ChEMBL ID: CHEMBL316040
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+First Approval: 2001
+
+Molecule: MAVACOXIB
+ChEMBL ID: CHEMBL28527
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+First Approval: 2008
+
+Molecule: IBUPROFEN SODIUM
+ChEMBL ID: CHEMBL3989408
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2012
+
+Molecule: ACETAMINOPHEN
+ChEMBL ID: CHEMBL112
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1968
+
+Molecule: NAPROXEN
+ChEMBL ID: CHEMBL154
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1976
+
+Molecule: NAPROXEN SODIUM
+ChEMBL ID: CHEMBL1200806
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1980
+
+Molecule: DICLOFENAC EPOLAMINE
+ChEMBL ID: CHEMBL1201180
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2007
+
+Molecule: DICLOFENAC SODIUM
+ChEMBL ID: CHEMBL1034
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1988
+
+Molecule: FENOPROFEN CALCIUM
+ChEMBL ID: CHEMBL2103736
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1976
+
+Molecule: DIFLUNISAL
+ChEMBL ID: CHEMBL898
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: SULFASALAZINE
+ChEMBL ID: CHEMBL421
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1950
+
+Molecule: IBUPROFEN
+ChEMBL ID: CHEMBL521
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1974
+
+Molecule: MECLOFENAMATE SODIUM
+ChEMBL ID: CHEMBL1562610
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1980
+
+Molecule: BISMUTH SUBSALICYLATE
+ChEMBL ID: CHEMBL1120
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1996
+
+Molecule: NEPAFENAC
+ChEMBL ID: CHEMBL1021
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2005
+
+Molecule: OXYPHENBUTAZONE
+ChEMBL ID: CHEMBL3989676
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1960
+
+Molecule: FLURBIPROFEN SODIUM
+ChEMBL ID: CHEMBL3989754
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1986
+
+Molecule: ASPIRIN
+ChEMBL ID: CHEMBL25
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1950
+
+Molecule: TOLMETIN SODIUM
+ChEMBL ID: CHEMBL1200613
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1976
+
+Molecule: DICLOFENAC POTASSIUM
+ChEMBL ID: CHEMBL1200804
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1993
+
+Molecule: BALSALAZIDE DISODIUM
+ChEMBL ID: CHEMBL1200760
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2000
+
+Molecule: INDOMETHACIN
+ChEMBL ID: CHEMBL6
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1965
+
+Molecule: BROMFENAC SODIUM
+ChEMBL ID: CHEMBL3181947
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1997
+
+Molecule: FLURBIPROFEN
+ChEMBL ID: CHEMBL563
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1986
+
+Molecule: KETOROLAC TROMETHAMINE
+ChEMBL ID: CHEMBL1201124
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1989
+
+Molecule: SULINDAC
+ChEMBL ID: CHEMBL15770
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1978
+
+Molecule: OLSALAZINE SODIUM
+ChEMBL ID: CHEMBL1201013
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1990
+
+Molecule: INDOMETHACIN SODIUM
+ChEMBL ID: CHEMBL3989410
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: OXAPROZIN POTASSIUM
+ChEMBL ID: CHEMBL1200463
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2002
+
+Molecule: MEFENAMIC ACID
+ChEMBL ID: CHEMBL686
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1967
+
+Molecule: MESALAMINE
+ChEMBL ID: CHEMBL704
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: IBUPROFEN LYSINE
+ChEMBL ID: CHEMBL1201141
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2006
+
+Molecule: OXAPROZIN
+ChEMBL ID: CHEMBL1071
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1992
+
+Molecule: PHENYLBUTAZONE
+ChEMBL ID: CHEMBL101
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1980
+
+Molecule: PIROXICAM
+ChEMBL ID: CHEMBL527
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1982
+
+Molecule: SUPROFEN
+ChEMBL ID: CHEMBL956
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1985
+
+Molecule: KETOPROFEN
+ChEMBL ID: CHEMBL571
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1986
+
+Molecule: DICLOFENAC
+ChEMBL ID: CHEMBL139
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1988
+
+Molecule: NAPROXCINOD
+ChEMBL ID: CHEMBL2103831
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: NAPROXEN ETEMESIL
+ChEMBL ID: CHEMBL2105683
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DEXIBUPROFEN
+ChEMBL ID: CHEMBL175
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1994
+
+Molecule: CLOMETACIN
+ChEMBL ID: CHEMBL13376
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: DIPYRONE
+ChEMBL ID: CHEMBL3989803
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: FENCLOFENAC
+ChEMBL ID: CHEMBL15677
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1978
+
+Molecule: GLAFENINE
+ChEMBL ID: CHEMBL146095
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: IBUFENAC
+ChEMBL ID: CHEMBL341812
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: INDOPROFEN
+ChEMBL ID: CHEMBL15870
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1979
+
+Molecule: ISOXICAM
+ChEMBL ID: CHEMBL53292
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: PIRPROFEN
+ChEMBL ID: CHEMBL188952
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1987
+
+Molecule: ACEMETACIN
+ChEMBL ID: CHEMBL189171
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: APAZONE
+ChEMBL ID: CHEMBL1565476
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: BENZYDAMINE
+ChEMBL ID: CHEMBL12610
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: BENZYDAMINE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1528134
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: DEXKETOPROFEN
+ChEMBL ID: CHEMBL75435
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1994
+
+Molecule: ALOXIPRIN
+ChEMBL ID: CHEMBL2108222
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Unknown
+
+Molecule: ESFLURBIPROFEN
+ChEMBL ID: CHEMBL435298
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: LOXOPROFEN
+ChEMBL ID: CHEMBL19299
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1986
+
+Molecule: LORNOXICAM
+ChEMBL ID: CHEMBL1569487
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+
+Molecule: DICLOFENAC ETALHYALURONATE SODIUM
+ChEMBL ID: CHEMBL4297232
+Mechanism of Action: INHIBITOR
+Max Phase: -1.0
+Molecule Type: Unknown

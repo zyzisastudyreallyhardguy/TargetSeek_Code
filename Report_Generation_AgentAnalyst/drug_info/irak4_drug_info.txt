@@ -1,0 +1,6 @@
+
+Molecule: ZIMLOVISERTIB
+ChEMBL ID: CHEMBL4081711
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

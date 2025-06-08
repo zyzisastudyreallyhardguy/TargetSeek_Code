@@ -1,0 +1,943 @@
+
+Molecule: PANITUMUMAB
+ChEMBL ID: CHEMBL1201827
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2006
+
+Molecule: CETUXIMAB
+ChEMBL ID: CHEMBL1201577
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2004
+
+Molecule: ERLOTINIB HYDROCHLORIDE
+ChEMBL ID: CHEMBL1079742
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2004
+
+Molecule: GEFITINIB
+ChEMBL ID: CHEMBL939
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2003
+
+Molecule: LAPATINIB DITOSYLATE
+ChEMBL ID: CHEMBL1201179
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2007
+
+Molecule: AFATINIB DIMALEATE
+ChEMBL ID: CHEMBL2105712
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2013
+
+Molecule: OSIMERTINIB MESYLATE
+ChEMBL ID: CHEMBL3545063
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: NECITUMUMAB
+ChEMBL ID: CHEMBL1743047
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2015
+
+Molecule: AC-480
+ChEMBL ID: CHEMBL1645462
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: ALLITINIB
+ChEMBL ID: CHEMBL1947204
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AZD-4769
+ChEMBL ID: CHEMBL422872
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: FALNIDAMOL
+ChEMBL ID: CHEMBL258940
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CEP-32496
+ChEMBL ID: CHEMBL2029988
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CUDC-101
+ChEMBL ID: CHEMBL598797
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: OLMUTINIB
+ChEMBL ID: CHEMBL3786343
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2016
+
+Molecule: THELIATINIB
+ChEMBL ID: CHEMBL5314410
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: EPITINIB
+ChEMBL ID: CHEMBL5314411
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: JNJ-26483327
+ChEMBL ID: CHEMBL3109738
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: MP-412
+ChEMBL ID: CHEMBL5095024
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PD-0166285
+ChEMBL ID: CHEMBL3545196
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PKI-166
+ChEMBL ID: CHEMBL1963502
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: S-222611
+ChEMBL ID: CHEMBL3545200
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: TAK-285
+ChEMBL ID: CHEMBL1614725
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PUQUITINIB MESYLATE DIHYDRATE
+ChEMBL ID: CHEMBL4596972
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PYROTINIB
+ChEMBL ID: CHEMBL3647420
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AEE-788
+ChEMBL ID: CHEMBL587723
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BRIGATINIB
+ChEMBL ID: CHEMBL3545311
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: VARLITINIB
+ChEMBL ID: CHEMBL2103842
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SAPITINIB
+ChEMBL ID: CHEMBL2408045
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BMS-690514
+ChEMBL ID: CHEMBL3545396
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ROCILETINIB
+ChEMBL ID: CHEMBL3545308
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PELITINIB
+ChEMBL ID: CHEMBL607707
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TESEVATINIB
+ChEMBL ID: CHEMBL3544983
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: NAZARTINIB
+ChEMBL ID: CHEMBL3787344
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: OSIMERTINIB
+ChEMBL ID: CHEMBL3353410
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2015
+
+Molecule: CANERTINIB DIHYDROCHLORIDE
+ChEMBL ID: CHEMBL545315
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: NERATINIB
+ChEMBL ID: CHEMBL180022
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: DACOMITINIB
+ChEMBL ID: CHEMBL2105719
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: SIMOTINIB
+ChEMBL ID: CHEMBL3545235
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ZALUTUMUMAB
+ChEMBL ID: CHEMBL2107861
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: MATUZUMAB
+ChEMBL ID: CHEMBL2108038
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: MAB-425
+ChEMBL ID: CHEMBL2109390
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: MDX-447
+ChEMBL ID: CHEMBL2109391
+Mechanism of Action: CROSS-LINKING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: RG-7160
+ChEMBL ID: CHEMBL2109393
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: NIMOTUZUMAB
+ChEMBL ID: CHEMBL2108359
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: FUTUXIMAB
+ChEMBL ID: CHEMBL2109388
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: DEPATUXIZUMAB MAFODOTIN
+ChEMBL ID: CHEMBL3707277
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: DULIGOTUZUMAB
+ChEMBL ID: CHEMBL3137345
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: IMGATUZUMAB
+ChEMBL ID: CHEMBL2109389
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: DACOMITINIB ANHYDROUS
+ChEMBL ID: CHEMBL2110732
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: NERATINIB MALEATE
+ChEMBL ID: CHEMBL3989921
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: CETUXIMAB SAROTALOCAN
+ChEMBL ID: CHEMBL4298088
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: FIRMONERTINIB
+ChEMBL ID: CHEMBL4297258
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PF-06459988
+ChEMBL ID: CHEMBL3786098
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DEPATUXIZUMAB
+ChEMBL ID: CHEMBL3707294
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: MAVELERTINIB
+ChEMBL ID: CHEMBL3989970
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: NAQUOTINIB
+ChEMBL ID: CHEMBL3663929
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TOMUZOTUXIMAB
+ChEMBL ID: CHEMBL4297842
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: FIRMONERTINIB
+ChEMBL ID: CHEMBL4297258
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AZD-3759
+ChEMBL ID: CHEMBL3623290
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AUMOLERTINIB
+ChEMBL ID: CHEMBL4761468
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ICOTINIB
+ChEMBL ID: CHEMBL2087361
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ABIVERTINIB MALEATE
+ChEMBL ID: CHEMBL4297866
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ABIVERTINIB
+ChEMBL ID: CHEMBL4297865
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AUMOLERTINIB
+ChEMBL ID: CHEMBL4761468
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ABIVERTINIB MALEATE
+ChEMBL ID: CHEMBL4297866
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: ABIVERTINIB
+ChEMBL ID: CHEMBL4297865
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: MAVELERTINIB
+ChEMBL ID: CHEMBL3989970
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MAVELERTINIB
+ChEMBL ID: CHEMBL3989970
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MAVELERTINIB
+ChEMBL ID: CHEMBL3989970
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RUSERONTINIB
+ChEMBL ID: CHEMBL3678958
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: TUXOBERTINIB
+ChEMBL ID: CHEMBL4650279
+Mechanism of Action: NEGATIVE ALLOSTERIC MODULATOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: CLN-081
+ChEMBL ID: CHEMBL4650281
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: GC1118
+ChEMBL ID: CHEMBL4650290
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: AMIVANTAMAB
+ChEMBL ID: CHEMBL4297774
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2021
+
+Molecule: RINDOPEPIMUT
+ChEMBL ID: CHEMBL2107863
+Mechanism of Action: VACCINE ANTIGEN
+Max Phase: 3.0
+Molecule Type: Unknown
+
+Molecule: MOBOCERTINIB
+ChEMBL ID: CHEMBL4650319
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021
+
+Molecule: MODOTUXIMAB
+ChEMBL ID: CHEMBL3989988
+Mechanism of Action: ANTAGONIST
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: LAZERTINIB
+ChEMBL ID: CHEMBL4558324
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: LAZERTINIB
+ChEMBL ID: CHEMBL4558324
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PIMURUTAMAB
+ChEMBL ID: CHEMBL4594549
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: EMB-01
+ChEMBL ID: CHEMBL4594472
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: MOBOCERTINIB SUCCINATE
+ChEMBL ID: CHEMBL4802239
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2021
+
+Molecule: LAZERTINIB
+ChEMBL ID: CHEMBL4558324
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: MODOTUXIMAB
+ChEMBL ID: CHEMBL3989988
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: VANDETANIB
+ChEMBL ID: CHEMBL24828
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2011
+
+Molecule: POZIOTINIB
+ChEMBL ID: CHEMBL3545154
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: KBP5209
+ChEMBL ID: CHEMBL4650289
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Unknown
+
+Molecule: TARLOXOTINIB
+ChEMBL ID: CHEMBL4297661
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MM-111
+ChEMBL ID: CHEMBL4297556
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Unknown
+
+Molecule: ZENOCUTUZUMAB
+ChEMBL ID: CHEMBL4298025
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: TRASTUZUMAB
+ChEMBL ID: CHEMBL1201585
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 1998
+
+Molecule: PERTUZUMAB
+ChEMBL ID: CHEMBL2007641
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2012
+
+Molecule: TRASTUZUMAB EMTANSINE
+ChEMBL ID: CHEMBL1743082
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody drug conjugate
+First Approval: 2013
+
+Molecule: LAPATINIB DITOSYLATE
+ChEMBL ID: CHEMBL1201179
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2007
+
+Molecule: AFATINIB DIMALEATE
+ChEMBL ID: CHEMBL2105712
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2013
+
+Molecule: AC-480
+ChEMBL ID: CHEMBL1645462
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: ALLITINIB
+ChEMBL ID: CHEMBL1947204
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CP-724714
+ChEMBL ID: CHEMBL483321
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CUDC-101
+ChEMBL ID: CHEMBL598797
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: JNJ-26483327
+ChEMBL ID: CHEMBL3109738
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: MP-412
+ChEMBL ID: CHEMBL5095024
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: TUCATINIB
+ChEMBL ID: CHEMBL3989868
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2020
+
+Molecule: S-222611
+ChEMBL ID: CHEMBL3545200
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: MUBRITINIB
+ChEMBL ID: CHEMBL1614707
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TAK-285
+ChEMBL ID: CHEMBL1614725
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: HEMAY-022
+ChEMBL ID: CHEMBL3545111
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: PYROTINIB
+ChEMBL ID: CHEMBL3647420
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: AEE-788
+ChEMBL ID: CHEMBL587723
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VARLITINIB
+ChEMBL ID: CHEMBL2103842
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SAPITINIB
+ChEMBL ID: CHEMBL2408045
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: BMS-690514
+ChEMBL ID: CHEMBL3545396
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: MASOPROCOL
+ChEMBL ID: CHEMBL313972
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1992
+
+Molecule: TESEVATINIB
+ChEMBL ID: CHEMBL3544983
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: CANERTINIB DIHYDROCHLORIDE
+ChEMBL ID: CHEMBL545315
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: NERATINIB
+ChEMBL ID: CHEMBL180022
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: DACOMITINIB
+ChEMBL ID: CHEMBL2105719
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: MARGETUXIMAB
+ChEMBL ID: CHEMBL2364649
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Antibody
+First Approval: 2020
+
+Molecule: GANCOTAMAB
+ChEMBL ID: CHEMBL3833344
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ERTUMAXOMAB
+ChEMBL ID: CHEMBL2108029
+Mechanism of Action: CROSS-LINKING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: MDX-210
+ChEMBL ID: CHEMBL2109271
+Mechanism of Action: CROSS-LINKING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: T-DM1
+ChEMBL ID: CHEMBL2109399
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: DACOMITINIB ANHYDROUS
+ChEMBL ID: CHEMBL2110732
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: NERATINIB MALEATE
+ChEMBL ID: CHEMBL3989921
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: TRASTUZUMAB DERUXTECAN
+ChEMBL ID: CHEMBL4297844
+Mechanism of Action: BINDING AGENT
+Max Phase: 4.0
+Molecule Type: Antibody drug conjugate
+First Approval: 2019
+
+Molecule: TUXOBERTINIB
+ChEMBL ID: CHEMBL4650279
+Mechanism of Action: NEGATIVE ALLOSTERIC MODULATOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: TRASTUZUMAB DUOCARMAZINE
+ChEMBL ID: CHEMBL4298178
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: KN-026
+ChEMBL ID: CHEMBL4594568
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Unknown
+
+Molecule: ZANIDATAMAB
+ChEMBL ID: CHEMBL4650256
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: ANVATABART OPADOTIN
+ChEMBL ID: CHEMBL4297892
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody drug conjugate
+
+Molecule: AFATINIB DIMALEATE
+ChEMBL ID: CHEMBL2105712
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2013
+
+Molecule: AC-480
+ChEMBL ID: CHEMBL1645462
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: JNJ-26483327
+ChEMBL ID: CHEMBL3109738
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: BMS-690514
+ChEMBL ID: CHEMBL3545396
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: CANERTINIB DIHYDROCHLORIDE
+ChEMBL ID: CHEMBL545315
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: DACOMITINIB
+ChEMBL ID: CHEMBL2105719
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: DACOMITINIB ANHYDROUS
+ChEMBL ID: CHEMBL2110732
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2018
+
+Molecule: NERATINIB
+ChEMBL ID: CHEMBL180022
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: NERATINIB MALEATE
+ChEMBL ID: CHEMBL3989921
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2017
+
+Molecule: SAPITINIB
+ChEMBL ID: CHEMBL2408045
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PATRITUMAB
+ChEMBL ID: CHEMBL2109406
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: MM-121
+ChEMBL ID: CHEMBL2109402
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: AMG-888
+ChEMBL ID: CHEMBL2109396
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: DULIGOTUZUMAB
+ChEMBL ID: CHEMBL3137345
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: SERIBANTUMAB
+ChEMBL ID: CHEMBL3545071
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: LUMRETUZUMAB
+ChEMBL ID: CHEMBL3707404
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: AV-203
+ChEMBL ID: CHEMBL2109401
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Antibody
+
+Molecule: ELGEMTUMAB
+ChEMBL ID: CHEMBL4298013
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: ISTIRATUMAB
+ChEMBL ID: CHEMBL3989990
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: CDX-3379
+ChEMBL ID: CHEMBL4650292
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: PATRITUMAB DERUXTECAN
+ChEMBL ID: CHEMBL4594611
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody drug conjugate

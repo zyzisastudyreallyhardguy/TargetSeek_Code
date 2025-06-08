@@ -1,0 +1,12 @@
+
+Molecule: SRT-2104
+ChEMBL ID: CHEMBL4297436
+Mechanism of Action: ACTIVATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: EX-527
+ChEMBL ID: CHEMBL382277
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule

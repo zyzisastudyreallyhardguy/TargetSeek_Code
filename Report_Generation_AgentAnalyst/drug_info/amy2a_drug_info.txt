@@ -1,0 +1,7 @@
+
+Molecule: ACARBOSE
+ChEMBL ID: CHEMBL1566
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Oligosaccharide
+First Approval: 1995

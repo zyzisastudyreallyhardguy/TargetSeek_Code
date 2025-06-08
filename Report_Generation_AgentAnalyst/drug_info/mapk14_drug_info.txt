@@ -1,0 +1,210 @@
+
+Molecule: AMG-548
+ChEMBL ID: CHEMBL585902
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PEXMETINIB
+ChEMBL ID: CHEMBL3991932
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: AVE-9940
+ChEMBL ID: CHEMBL3545117
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: AZD-6703
+ChEMBL ID: CHEMBL2031465
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: AZD-7624
+ChEMBL ID: CHEMBL9960
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DORAMAPIMOD
+ChEMBL ID: CHEMBL103667
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: GSK-610677
+ChEMBL ID: CHEMBL3544968
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: LEO-15520
+ChEMBL ID: CHEMBL3545074
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: LY-3007113
+ChEMBL ID: CHEMBL3544998
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: PF-03715455
+ChEMBL ID: CHEMBL1938400
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PS-516895
+ChEMBL ID: CHEMBL3545139
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: R-1487
+ChEMBL ID: CHEMBL1766582
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: RO-3201195
+ChEMBL ID: CHEMBL203567
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: RWJ-67657
+ChEMBL ID: CHEMBL190333
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: SB-85635
+ChEMBL ID: CHEMBL3545384
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: SC-80036
+ChEMBL ID: CHEMBL3544930
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: SCIO-323
+ChEMBL ID: CHEMBL1614702
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: SD-0006
+ChEMBL ID: CHEMBL1090173
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: TA-5493
+ChEMBL ID: CHEMBL3545201
+Mechanism of Action: INHIBITOR
+Max Phase: 1.0
+Molecule Type: Small molecule
+
+Molecule: ARRY-797
+ChEMBL ID: CHEMBL1088750
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: BMS-582949
+ChEMBL ID: CHEMBL1230065
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: SEMAPIMOD
+ChEMBL ID: CHEMBL2107779
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: FX-005
+ChEMBL ID: CHEMBL3545216
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: DILMAPIMOD
+ChEMBL ID: CHEMBL2103838
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ITX-5061
+ChEMBL ID: CHEMBL3402567
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: RALIMETINIB
+ChEMBL ID: CHEMBL2364626
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PG-760564
+ChEMBL ID: CHEMBL3545398
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PH-797804
+ChEMBL ID: CHEMBL1088751
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: PAMAPIMOD
+ChEMBL ID: CHEMBL1090089
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TALMAPIMOD
+ChEMBL ID: CHEMBL514201
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: TAK-715
+ChEMBL ID: CHEMBL363648
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: VX-702
+ChEMBL ID: CHEMBL1090090
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: NEFLAMAPIMOD
+ChEMBL ID: CHEMBL119385
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: ACUMAPIMOD
+ChEMBL ID: CHEMBL5314397
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: LOSMAPIMOD
+ChEMBL ID: CHEMBL1088752
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule

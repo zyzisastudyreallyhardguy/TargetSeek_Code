@@ -1,0 +1,20 @@
+
+Molecule: TRIAMTERENE
+ChEMBL ID: CHEMBL585
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1964
+
+Molecule: AMILORIDE HYDROCHLORIDE
+ChEMBL ID: CHEMBL1398126
+Mechanism of Action: BLOCKER
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 1981
+
+Molecule: IDREVLORIDE
+ChEMBL ID: CHEMBL5095031
+Mechanism of Action: BLOCKER
+Max Phase: 2.0
+Molecule Type: Small molecule

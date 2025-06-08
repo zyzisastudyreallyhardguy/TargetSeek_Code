@@ -1,0 +1,43 @@
+
+Molecule: LYM-1
+ChEMBL ID: CHEMBL2109447
+Mechanism of Action: OTHER
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: PLOVAMER ACETATE
+ChEMBL ID: CHEMBL2108712
+Mechanism of Action: MODULATOR
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: APOLIZUMAB
+ChEMBL ID: CHEMBL2108252
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: SUVRATOXUMAB
+ChEMBL ID: CHEMBL3989997
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: TOSATOXUMAB
+ChEMBL ID: CHEMBL4594526
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: MILATUZUMAB
+ChEMBL ID: CHEMBL1743040
+Mechanism of Action: ANTAGONIST
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: REPOTRECTINIB
+ChEMBL ID: CHEMBL4298138
+Mechanism of Action: INHIBITOR
+Max Phase: 4.0
+Molecule Type: Small molecule
+First Approval: 2023

@@ -1,0 +1,12 @@
+
+Molecule: IGURATIMOD
+ChEMBL ID: CHEMBL2107455
+Mechanism of Action: INHIBITOR
+Max Phase: 3.0
+Molecule Type: Small molecule
+
+Molecule: IMALUMAB
+ChEMBL ID: CHEMBL4650294
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody

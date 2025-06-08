@@ -1,0 +1,30 @@
+
+Molecule: DEZAMIZUMAB
+ChEMBL ID: CHEMBL4297966
+Mechanism of Action: INHIBITOR
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: MIRIDESAP
+ChEMBL ID: CHEMBL25263
+Mechanism of Action: CROSS-LINKING AGENT
+Max Phase: 2.0
+Molecule Type: Small molecule
+
+Molecule: F19 131I
+ChEMBL ID: CHEMBL2109643
+Mechanism of Action: BINDING AGENT
+Max Phase: 3.0
+Molecule Type: Antibody
+
+Molecule: SIBROTUZUMAB
+ChEMBL ID: CHEMBL2108882
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Antibody
+
+Molecule: SIMLUKAFUSP ALFA
+ChEMBL ID: CHEMBL4298090
+Mechanism of Action: BINDING AGENT
+Max Phase: 2.0
+Molecule Type: Protein
